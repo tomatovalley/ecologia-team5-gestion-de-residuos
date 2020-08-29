@@ -11,7 +11,7 @@ Página Web dónde podrás encontrar información referente a lugares a dónde l
 
 Diagrama de flujo 
 
-![diagrama](imagenes/DiagramaFlujo.png)
+![diagrama](imagenes/Diagrama_de_flujo_2.png)
 
 
 
