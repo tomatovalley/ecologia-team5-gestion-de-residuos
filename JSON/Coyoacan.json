@@ -1,0 +1,1028 @@
+[
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, FRENTE AL ESTADIO AZTECA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTA URSULA COAPA",
+        "CP": 4600.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, FRENTE AL ESTADIO AZTECA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTA URSULA COAPA",
+        "CP": 4600.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. ESTADIO AZTECA ESQ. CALZADA DE TLALPAN",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "P-O",
+        "COLONIA": "SANTA URSULA COAPA",
+        "CP": 4600.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. ESTADIO AZTECA ESQ. CALZADA DE TLALPAN",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "P-O",
+        "COLONIA": "SANTA URSULA COAPA",
+        "CP": 4600.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ.AV. RIO CHURUBUSCO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "CHURUBUSCO",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ.AV. RIO CHURUBUSCO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "CHURUBUSCO",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ. HEROES DEL 47",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ. HEROES DEL 47",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ. CALZADA DEL HUESO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "EJIDO SANTA URSULA COAPA",
+        "CP": 4850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ. CALZADA DEL HUESO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "EJIDO SANTA URSULA COAPA",
+        "CP": 4850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y AMERICA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "PARQUE SAN ANDRES",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y AMERICA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "PARQUE SAN ANDRES",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y CORREDORES",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y CORREDORES",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN - CIRCUITO INTERIOR AVENIDA R\u00cdO CHURUBUSCO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "INHAB",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN - CIRCUITO INTERIOR AVENIDA R\u00cdO CHURUBUSCO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "INHAB",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN -  CALLE ESCOCIA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "PARQUE SAN ANDRES",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN -  CALLE ESCOCIA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "PARQUE SAN ANDRES",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - AV. JACARANDAS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "CIUDAD JARDIN",
+        "CP": 4370.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - AV. JACARANDAS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "CIUDAD JARDIN",
+        "CP": 4370.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - ESQ. AV. VIADUCTO TLALPAN",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "SANTA URSULA COAPA",
+        "CP": 4850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - ESQ. AV. VIADUCTO TLALPAN",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "SANTA URSULA COAPA",
+        "CP": 4850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - PASANDO CERRO DE JES\u00daS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - PASANDO CERRO DE JES\u00daS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "S-N",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "INSURGENTES SUR Y CALLE LORETO (LUMEN)  S-N",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "CHIMALISTAC",
+        "CP": 4340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "INSURGENTES SUR Y CALLE LORETO (LUMEN)  S-N",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "CHIMALISTAC",
+        "CP": 4340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DEL IMAN (ESQ. MEXICO 68)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "P-O",
+        "COLONIA": "AJUSCO",
+        "CP": 4710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DEL IMAN (ESQ. MEXICO 68)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "P-O",
+        "COLONIA": "AJUSCO",
+        "CP": 4710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PERIFERICO Y MEXICO 1968",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "O-P",
+        "COLONIA": "OLIMPICA",
+        "CP": 4710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PERIFERICO Y MEXICO 1968",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "O-P",
+        "COLONIA": "OLIMPICA",
+        "CP": 4710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PERIFERICO ESQ. OCASO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "O-P",
+        "COLONIA": "FRACC INSURGENTES CUICUILCO",
+        "CP": 4530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PERIFERICO ESQ. OCASO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "O-P",
+        "COLONIA": "FRACC INSURGENTES CUICUILCO",
+        "CP": 4530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. COPILCO AV. UNIVERSIDAD Y 21\u00b0 DE AGOSTO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "UNIDAD HAB COPILCO UNIVERSIDAD",
+        "CP": 4340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. COPILCO AV. UNIVERSIDAD Y 21\u00b0 DE AGOSTO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "UNIDAD HAB COPILCO UNIVERSIDAD",
+        "CP": 4340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DELFIN MADRIGAL, AFUERA DE LA TIENDA DE LA UNAM",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "N-S",
+        "COLONIA": "CIUDAD UNIVERSITARIA",
+        "CP": 4510.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DELFIN MADRIGAL, AFUERA DE LA TIENDA DE LA UNAM",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "N-S",
+        "COLONIA": "CIUDAD UNIVERSITARIA",
+        "CP": 4510.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. AZTECAS (FRENTE A BODEGA AURRERA)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTO DOMINGO",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. AZTECAS (FRENTE A BODEGA AURRERA)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTO DOMINGO",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HENRIQUEZ URE\u00d1A EJE 10 (HENRIQUEZ URE\u00d1A, AFUERA DEL METRO COPILCO)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "N-S",
+        "COLONIA": "FRACC COPILCO UNIVERSIDAD",
+        "CP": 4360.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HENRIQUEZ URE\u00d1A EJE 10 (HENRIQUEZ URE\u00d1A, AFUERA DEL METRO COPILCO)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "N-S",
+        "COLONIA": "FRACC COPILCO UNIVERSIDAD",
+        "CP": 4360.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HENRIQUEZ URE\u00d1A EJE 10  ESQ.AV.AZTECAS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "P-O",
+        "COLONIA": "PUEBLO DE LOS REYES",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HENRIQUEZ URE\u00d1A EJE 10  ESQ.AV.AZTECAS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "P-O",
+        "COLONIA": "PUEBLO DE LOS REYES",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CANDELARIA ESQ. PAC\u00cdFICO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "P-O",
+        "COLONIA": "UNIDAD HAB ROSEDAL",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CANDELARIA ESQ. PAC\u00cdFICO)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "P-O",
+        "COLONIA": "UNIDAD HAB ROSEDAL",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PACIFICO Y MONTSERRAT",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "P-O",
+        "COLONIA": "UNIDAD HAB ROSEDAL",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PACIFICO Y MONTSERRAT",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "P-O",
+        "COLONIA": "UNIDAD HAB ROSEDAL",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HENRIQUEZ URE\u00d1A EJE 10  Y CERRO DEL AGUA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "ROMERO DE TERREROS",
+        "CP": 4310.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HENRIQUEZ URE\u00d1A EJE 10  Y CERRO DEL AGUA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "COPILCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "ROMERO DE TERREROS",
+        "CP": 4310.0
+    },
+    {
+        "ESTATUS": "HABILITADO/DIGITAL",
+        "UBICACI\u00d3N": "AV. SAN JER\u00d3NIMO - PESEO DEL PEDREGAL   N-S",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "SAN JER\u00d3NIMO",
+        "SENTIDO": "P-O",
+        "COLONIA": "JARDINES DEL PEDREGAL",
+        "CP": 4510.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. SAN JER\u00d3NIMO - PESEO DEL PEDREGAL   N-S",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "SAN JER\u00d3NIMO",
+        "SENTIDO": "P-O",
+        "COLONIA": "JARDINES DEL PEDREGAL",
+        "CP": 4510.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES Y CIDONIA (FRENTE AL VIPS)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "P-O",
+        "COLONIA": "LOS JARDINES DE COYOACAN",
+        "CP": 4890.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES Y CIDONIA (FRENTE AL VIPS)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "P-O",
+        "COLONIA": "LOS JARDINES DE COYOACAN",
+        "CP": 4890.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE MIRAMONTES ESQ.AV DEL HUESO (BRUJAS)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "O-P",
+        "COLONIA": "LOS GIRASOLES I",
+        "CP": 4920.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE MIRAMONTES ESQ.AV DEL HUESO (BRUJAS)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "O-P",
+        "COLONIA": "LOS GIRASOLES I",
+        "CP": 4920.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES (CALLE LIRA Y MAR DE LA TRANQUILIDAD)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "P-O",
+        "COLONIA": "LOS PRADOS DE COYOACAN",
+        "CP": 4810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES (CALLE LIRA Y MAR DE LA TRANQUILIDAD)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "P-O",
+        "COLONIA": "LOS PRADOS DE COYOACAN",
+        "CP": 4810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES Y CALZADA DE LA SALUD",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "S-N",
+        "COLONIA": "LOS JARDINES DE COYOACAN",
+        "CP": 4890.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES Y CALZADA DE LA SALUD",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "S-N",
+        "COLONIA": "LOS JARDINES DE COYOACAN",
+        "CP": 4890.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES ENTRE CIRCUITO INTERIOR R\u00cdO CHURUBUSCO Y CERRO DE JES\u00daS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "N-S",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES ENTRE CIRCUITO INTERIOR R\u00cdO CHURUBUSCO Y CERRO DE JES\u00daS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "N-S",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES - PAS. CALLE CERRO DE JES\u00daS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "N-S",
+        "COLONIA": "CAMPESTRE CHURUBUSCO",
+        "CP": 4200.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANAL DE MIRAMONTES - PAS. CALLE CERRO DE JES\u00daS",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "N-S",
+        "COLONIA": "CAMPESTRE CHURUBUSCO",
+        "CP": 4200.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE  Y MUSEO NORTE",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "XOTEPINGO",
+        "CP": 4610.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE  Y MUSEO NORTE",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "XOTEPINGO",
+        "CP": 4610.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE Y MUSEO SUR",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "N-S",
+        "COLONIA": "XOTEPINGO",
+        "CP": 4610.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE Y MUSEO SUR",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "N-S",
+        "COLONIA": "XOTEPINGO",
+        "CP": 4610.0
+    },
+    {
+        "ESTATUS": "HABILITADO/DIGITAL",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE ESQ. PACIFICO CAMELLON",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "CIUDAD JARDIN",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE ESQ. PACIFICO CAMELLON",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "CIUDAD JARDIN",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA DIVISI\u00d3N DEL NORTE - AVENIDA CANDELARIA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "ATLANTIDA",
+        "CP": 4370.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA DIVISI\u00d3N DEL NORTE - AVENIDA CANDELARIA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "ATLANTIDA",
+        "CP": 4370.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. MIGUEL A. DE QUEVEDO Y DIVISION DEL NORTE",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIGUEL \u00c1NGEL DE QUEVEDO",
+        "SENTIDO": "O-P",
+        "COLONIA": "PARQUE SAN ANDRES",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. MIGUEL A. DE QUEVEDO Y DIVISION DEL NORTE",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIGUEL \u00c1NGEL DE QUEVEDO",
+        "SENTIDO": "O-P",
+        "COLONIA": "PARQUE SAN ANDRES",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. MIGUEL A. DE QUEVEDO Y PACIFICO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIGUEL \u00c1NGEL DE QUEVEDO",
+        "SENTIDO": "P-O",
+        "COLONIA": "LA CONCEPCION",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. MIGUEL A. DE QUEVEDO Y PACIFICO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "MIGUEL \u00c1NGEL DE QUEVEDO",
+        "SENTIDO": "P-O",
+        "COLONIA": "LA CONCEPCION",
+        "CP": 4330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. UNIVERSIDAD Y CALLE CERRO ACASULCO HERMANOS V\u00c1ZQUEZ) S-N",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "S-N",
+        "COLONIA": "UNIDAD HAB COPILCO UNIVERSIDAD",
+        "CP": 4340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. UNIVERSIDAD Y CALLE CERRO ACASULCO HERMANOS V\u00c1ZQUEZ) S-N",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "S-N",
+        "COLONIA": "UNIDAD HAB COPILCO UNIVERSIDAD",
+        "CP": 4340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. ESC.NAVAL MILITAR (FRENTE AL WALL MART)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "ESCUELA NAVAL MILITAR",
+        "SENTIDO": "N-S",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. ESC.NAVAL MILITAR (FRENTE AL WALL MART)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "ESCUELA NAVAL MILITAR",
+        "SENTIDO": "N-S",
+        "COLONIA": "COUNTRY CLUB",
+        "CP": 4040.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. RIO CHURUBUSCO ESQ. JOSEFA ORTIZ DE DOMINGUEZ",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "DEL CARMEN",
+        "CP": 4110.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. RIO CHURUBUSCO ESQ. JOSEFA ORTIZ DE DOMINGUEZ",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "DEL CARMEN",
+        "CP": 4110.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. RIO CHURUBUSCO ENTRADA A LOS CINEMARK",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "CHURUBUSCO COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. RIO CHURUBUSCO ENTRADA A LOS CINEMARK",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "CHURUBUSCO COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. RIO CHURUBUSCO (ENTRADA VEHICULAR DEL CENTRO NACIONAL DE LAS ARTES)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "CHURUBUSCO COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. RIO CHURUBUSCO (ENTRADA VEHICULAR DEL CENTRO NACIONAL DE LAS ARTES)",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
+        "SENTIDO": "O-P",
+        "COLONIA": "CHURUBUSCO COUNTRY CLUB",
+        "CP": 4120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CAFETALES Y CALZADA DEL HUESO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "EJE 3",
+        "SENTIDO": "S-N",
+        "COLONIA": "HACIENDA DE COYOACAN",
+        "CP": 4970.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CAFETALES Y CALZADA DEL HUESO",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "EJE 3",
+        "SENTIDO": "S-N",
+        "COLONIA": "HACIENDA DE COYOACAN",
+        "CP": 4970.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE LAS BOMBAS, ESQ. PROL. DIV.DEL NORTE.",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CALZ. DEL HUESO",
+        "SENTIDO": "P-O",
+        "COLONIA": "LOS GIRASOLES III",
+        "CP": 4899.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE LAS BOMBAS, ESQ. PROL. DIV.DEL NORTE.",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CALZ. DEL HUESO",
+        "SENTIDO": "P-O",
+        "COLONIA": "LOS GIRASOLES III",
+        "CP": 4899.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE LAS BOMBAS Y CALLE CANDELARIA P\u00c9REZ.",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "SANTA ANA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CANAL NACIONAL",
+        "CP": 4918.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE LAS BOMBAS Y CALLE CANDELARIA P\u00c9REZ.",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "SANTA ANA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CANAL NACIONAL",
+        "CP": 4918.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DEL HUESO - CALLE HDA. MIMIHUAPAN",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CALZ. DEL HUESO",
+        "SENTIDO": "O-P",
+        "COLONIA": "LOS GIRASOLES III",
+        "CP": 4899.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DEL HUESO - CALLE HDA. MIMIHUAPAN",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CALZ. DEL HUESO",
+        "SENTIDO": "O-P",
+        "COLONIA": "LOS GIRASOLES III",
+        "CP": 4899.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE LAS BOMBAS - CALLE RANCHO TEZONAPA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CALZ. DEL HUESO",
+        "SENTIDO": "P-O",
+        "COLONIA": "LAS CAMPANAS",
+        "CP": 4938.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE LAS BOMBAS - CALLE RANCHO TEZONAPA",
+        "ALCALDIA": "COYOACAN",
+        "V\u00cdA PRINCIPAL": "CALZ. DEL HUESO",
+        "SENTIDO": "P-O",
+        "COLONIA": "LAS CAMPANAS",
+        "CP": 4938.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 PONIENTE COYOACAN - PASANDO CALLE PARROQUIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 PONIENTE COYOACAN - PASANDO CALLE PARROQUIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE ANAX\u00c1GORAS - EJE 6 SUR \u00c1NGEL URRAZA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE ANAX\u00c1GORAS - EJE 6 SUR \u00c1NGEL URRAZA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 SUR AVENIDA HOLBEIN - PASANDO CALLE CAROLINA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NOCHE BUENA",
+        "CP": 3710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 SUR AVENIDA HOLBEIN - PASANDO CALLE CAROLINA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NOCHE BUENA",
+        "CP": 3710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 TINTORETO - PASANDO EJE 5 SUR SAN ANTONIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NONOALCO",
+        "CP": 3730.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 TINTORETO - PASANDO EJE 5 SUR SAN ANTONIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NONOALCO",
+        "CP": 3730.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. JOS\u00c9 MA. V\u00c9RTIZ ESQ. EJE  SUR \u00c1NGEL URRAZA - FRENTE A FARMACIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "INDEPENDENCIA",
+        "CP": 3630.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. JOS\u00c9 MA. V\u00c9RTIZ ESQ. EJE  SUR \u00c1NGEL URRAZA - FRENTE A FARMACIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "INDEPENDENCIA",
+        "CP": 3630.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE MITLA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE MITLA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE ANAX\u00c1GORAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE ANAX\u00c1GORAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR SAN ANTONIO - ESQ. AV. VIADUCTO R\u00cdO BECERRA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR SAN ANTONIO - ESQ. AV. VIADUCTO R\u00cdO BECERRA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  AV. COLONIA DEL VALLE - PASANDO CALLE PROVIDENCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  AV. COLONIA DEL VALLE - PASANDO CALLE PROVIDENCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  SAN ANTONIO - ESQ. CALLE TENNESSEE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  SAN ANTONIO - ESQ. CALLE TENNESSEE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    }
+]

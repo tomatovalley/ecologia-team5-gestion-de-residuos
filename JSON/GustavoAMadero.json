@@ -1,0 +1,272 @@
+[
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANTERA Y CALLE HIDALGO.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "REFORMA (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "GUSTAVO A MADERO",
+        "CP": 7010.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CANTERA Y CALLE HIDALGO.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "REFORMA (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "GUSTAVO A MADERO",
+        "CP": 7010.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y AV. CALLAO. ( SE DESTAPAN PARA VALIDAR SI SE PUEDE PONER)",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y AV. CALLAO. ( SE DESTAPAN PARA VALIDAR SI SE PUEDE PONER)",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y CALLE PULACAYO.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y CALLE PULACAYO.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y AV. INSTITUTO POLIT\u00c9CNICO NACIONAL.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "PLANETARIO LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y AV. INSTITUTO POLIT\u00c9CNICO NACIONAL.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "O-P",
+        "COLONIA": "PLANETARIO LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "WILFRIDO MASSIEU \u2013 CFIE, UNIDAD POLIT\u00c9CNICA",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "S-N",
+        "COLONIA": "PLANETARIO LINDAVISTA",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "WILFRIDO MASSIEU \u2013 CFIE, UNIDAD POLIT\u00c9CNICA",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "S-N",
+        "COLONIA": "PLANETARIO LINDAVISTA",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "OTH\u00d3N DE MENDIZ\u00c1BAL \u2013 MIGUEL BERNARD",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "S-N",
+        "COLONIA": "TORRES LINDAVISTA",
+        "CP": 7360.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "OTH\u00d3N DE MENDIZ\u00c1BAL \u2013 MIGUEL BERNARD",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "S-N",
+        "COLONIA": "TORRES LINDAVISTA",
+        "CP": 7360.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. TICOM\u00c1N Y AV. JUAN DE DIOS BATIZ.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "P-O",
+        "COLONIA": "RES ZACATENCO",
+        "CP": 7360.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. TICOM\u00c1N Y AV. JUAN DE DIOS BATIZ.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "P-O",
+        "COLONIA": "RES ZACATENCO",
+        "CP": 7360.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSTITUTO POLIT\u00c9CNICO NACIONAL Y AV. JUAN DE DIOS BATIZ.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "N-S",
+        "COLONIA": "U. PROF. ADOLFO LOPEZ MATEOS",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSTITUTO POLIT\u00c9CNICO NACIONAL Y AV. JUAN DE DIOS BATIZ.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "N-S",
+        "COLONIA": "U. PROF. ADOLFO LOPEZ MATEOS",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSTITUTO POLIT\u00c9CNICO NACIONAL - ESQ. RICARTE.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "N-S",
+        "COLONIA": "LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSTITUTO POLIT\u00c9CNICO NACIONAL - ESQ. RICARTE.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
+        "SENTIDO": "N-S",
+        "COLONIA": "LINDAVISTA",
+        "CP": 7300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - ESQ. AV. PONIENTE 134.  - ESCUELA SECUNDARIA",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "N-S",
+        "COLONIA": "UNIDAD LINDAVISTA VALLEJO",
+        "CP": 7700.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - ESQ. AV. PONIENTE 134.  - ESCUELA SECUNDARIA",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "N-S",
+        "COLONIA": "UNIDAD LINDAVISTA VALLEJO",
+        "CP": 7700.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - PASANDO JOS\u00c9 GUADALUPE L\u00d3PEZ VELARDE.  - CCH VALLEJO",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "AMPL MAGDALENA DE LAS SALINAS",
+        "CP": 7760.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - PASANDO JOS\u00c9 GUADALUPE L\u00d3PEZ VELARDE.  - CCH VALLEJO",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "AMPL MAGDALENA DE LAS SALINAS",
+        "CP": 7760.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. OCEAN\u00cdA - AV. 506.  - METRO DEPORTIVO OCEANIA",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
+        "SENTIDO": "N-S",
+        "COLONIA": "BOSQUE DE SAN JUAN DE ARAGON",
+        "CP": 7969.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. OCEAN\u00cdA - AV. 506.  - METRO DEPORTIVO OCEANIA",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
+        "SENTIDO": "N-S",
+        "COLONIA": "BOSQUE DE SAN JUAN DE ARAGON",
+        "CP": 7969.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE CALZ. SAN JUAN DE ARAG\u00d3N Y CALLE SAN JUAN.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "O-P",
+        "COLONIA": "GRANJAS MODERNAS",
+        "CP": 7460.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE CALZ. SAN JUAN DE ARAG\u00d3N Y CALLE SAN JUAN.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "O-P",
+        "COLONIA": "GRANJAS MODERNAS",
+        "CP": 7460.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE CALZ. SAN JUAN DE ARAG\u00d3N - CALLEJ\u00d3N PEDRO C. NEGRETE",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "P-O",
+        "COLONIA": "FOVISSTE RIO DE GUADALIPE",
+        "CP": 7959.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE CALZ. SAN JUAN DE ARAG\u00d3N - CALLEJ\u00d3N PEDRO C. NEGRETE",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "P-O",
+        "COLONIA": "FOVISSTE RIO DE GUADALIPE",
+        "CP": 7959.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE CALZ. SAN JUAN DE ARAG\u00d3N Y EJE 3 OTE. INGENIERO EDUARDO MOLINA.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "O-P",
+        "COLONIA": "DM NACIONAL",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 NORTE CALZ. SAN JUAN DE ARAG\u00d3N Y EJE 3 OTE. INGENIERO EDUARDO MOLINA.",
+        "ALCALDIA": "GUSTAVO A. MADERO",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "O-P",
+        "COLONIA": "DM NACIONAL",
+        "CP": "#N/A"
+    }
+]
