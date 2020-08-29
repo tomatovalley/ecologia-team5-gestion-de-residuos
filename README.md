@@ -1,4 +1,4 @@
-# Equipo gestión de residuos
+# Equipo 5:  Gestión de residuos
 
 Página Web dónde podrás encontrar información referente a lugares a dónde llevar residuos como medicinas, pilas, desperdicios electrónicos 
 
@@ -9,7 +9,7 @@ Página Web dónde podrás encontrar información referente a lugares a dónde l
  
 ## ¿Cómo funciona?
 
-Hay dos tipos de usuario
+![hoja1](imagenes/foto1.jpg)
 
 Se te hará un serie de preguntas: 
 
