@@ -9,13 +9,15 @@ Página Web dónde podrás encontrar información referente a lugares a dónde l
  
 ## ¿Cómo funciona?
 
-![hoja1](imagenes/foto1.jpg)
-
 Se te hará un serie de preguntas: 
 
+![hoja1](imagenes/foto1.jpg)
+![hoja2](imagenes/foto2.jpg)
 
-Aquí deberás escribir toda la información de tu proyecto.
+
+
+
+
 
 Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
 
-![Hack Hero gif](https://media.giphy.com/media/IbHp2s31XVjCyfGZ5L/giphy.gif)
