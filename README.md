@@ -9,10 +9,10 @@ Página Web dónde podrás encontrar información referente a lugares a dónde l
  
 ## ¿Cómo funciona?
 
-Se te hará un serie de preguntas: 
+Diagrama de flujo 
 
-![hoja1](imagenes/foto1.jpg)
-![hoja2](imagenes/foto2.jpg)
+![diagrama](imagenes/DiagramaFlujo.png)
+
 
 
 
