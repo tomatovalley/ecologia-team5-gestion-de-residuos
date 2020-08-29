@@ -21,7 +21,7 @@
 <form>
   <div class="form-group">
     <label for="exampleFormControlSelect1">Alcaldía</label>
-    <select class="form-control" id="exampleFormControlSelect1">
+    <select class="form-control" id="BtnAlcaldia">
       <option>Álvaro Obregón</option>
       <option>Azcapotzalco</option>
       <option>Benito Juárez</option>
@@ -39,7 +39,7 @@
   </div>
   <div class="form-group">
     <label for="exampleFormControlSelect1">Colonia</label>
-    <select class="form-control" id="exampleFormControlSelect1">
+    <select class="form-control" id="BtnColonia">
       <option>1</option>
       <option>2</option>
       <option>3</option>
@@ -51,6 +51,20 @@
 </form>
     <script type="text/javascript">
       alert("si sirve!");
+        document.querySelector("#BtnColonia").addEventListener('click',traerColonias());
+        function traerColonias(){
+            console.log('ya estoy dentro de colonias 7u7');
+            const xhttp = new XMLHttpRequest();
+            xhttp.open('GET', 'https://raw.githubusercontent.com/tomatovalley/ecologia-team5-gestion-de-residuos/master/JSON/alvaroobregon.json',true);
+            xhttp.send();
+            xhttp.onreadystatechange = function(){
+                if(this.readyState == 4 && this.status == 200){
+                    console.log(this.responseText);
+                }
+            }
+        }
+        
+        
     </script>
   </body>
 </html>
