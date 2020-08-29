@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="es">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,43 +15,85 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
     <title>Pilas</title>
-  </head>
-  <body>
-    <h1>Seleciona tu ubicación</h1>
-<form>
-  <div class="form-group">
-    <label for="exampleFormControlSelect1">Alcaldía</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>Álvaro Obregón</option>
-      <option>Azcapotzalco</option>
-      <option>Benito Juárez</option>
-      <option>Coyoacán</option>
-      <option>Cuajimalpa</option>
-      <option>Cuauhtémoc</option>
-      <option>Gustavo A. Madero</option>
-      <option>Iztacalco</option>
-      <option>Iztapalapa</option>
-      <option>Miguel Hidalgo</option>
-      <option>Tlalpan</option>
-      <option>Venustiano Carranza</option>
-      <option>Xochimilco</option>
-    </select>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlSelect1">Colonia</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-    </select>
-  </div>
-  <button type="button" class="btn btn-success">Enviar</button>
-</form>
-    <script type="text/javascript">
-      alert("si sirve!");
-    </script>
-  </body>
+</head>
+
+<body>
+    <div class="container">
+        <div class="bg-dark py-4 text-center">
+            <a href="#" class="text-white p-2 lead">LogoResiduo</a>
+        </div>
+
+        <div class="bg-warning text-center py-5">
+            <h1>Nombre App</h1>
+            <h2>Pilas</h2>
+            <h3>Búsqueda</h3>
+            <div class="form-group" id="app-alcaldias">
+                <label for="exampleFormControlSelect1">Alcaldía</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                <option v-for="alcaldia in alcaldias">
+                  {{alcaldia.text}}
+                </option>
+              </select>
+            </div>
+            <div class="form-group" id="app-alcaldias">
+                <label for="exampleFormControlSelect1">Colonia</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                
+                
+              </select>
+            </div>
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Código Postal</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </div>
+
+
+        </div>
+        <script>
+            var app_alcaldias = new Vue({
+                el: '#app-alcaldias',
+                data: {
+                    alcaldias: [{
+                        text: 'Álvaro Obregón'
+                    }, {
+                        text: 'Azcapotzalco'
+                    }, {
+                        text: 'Benito Juárez'
+                    }, {
+                        text: 'Cuauhtémoc'
+                    }, {
+                        text: 'Gustavo A.Madero'
+                    }, {
+                        text: 'Iztacalco'
+                    }, {
+                        text: 'Iztapalapa'
+                    }, {
+                        text: 'Magdalena Contreras'
+                    }, {
+                        text: 'Miguel Hidalgo'
+                    }, {
+                        text: 'Milpa Alta'
+                    }, {
+                        text: 'Tlahuac'
+                    }, {
+                        text: 'Tlalpan'
+                    }, {
+                        text: 'Venustiano Carranza'
+                    }, {
+                        text: 'Xochimilco'
+                    }]
+                }
+            })
+        </script>
+
+</body>
+
 </html>
