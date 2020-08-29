@@ -1,0 +1,92 @@
+[
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - PASANDO HERMENEGILDO GALEANA",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "TLALPAN CENTRO I",
+        "CP": 14000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - PASANDO HERMENEGILDO GALEANA",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "TLALPAN CENTRO I",
+        "CP": 14000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - PASANDO ALLENDE",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "BARRIO NI\u00d1O JESUS",
+        "CP": 14000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - PASANDO ALLENDE",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "TLALPAN (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "BARRIO NI\u00d1O JESUS",
+        "CP": 14000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "INSURGENTES SUR \u2013 VIVANCO",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "BARRIO LA FAMA",
+        "CP": 14000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "INSURGENTES SUR \u2013 VIVANCO",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "BARRIO LA FAMA",
+        "CP": 14000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. M\u00c9XICO XOCHIMILCO - CALLE FORESTAL",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "GUADALUPE",
+        "CP": 14389.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. M\u00c9XICO XOCHIMILCO - CALLE FORESTAL",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "GUADALUPE",
+        "CP": 14389.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA CANAL DE MIRAMONTES - ENTRE CALZ. DE LAS BRUJAS Y CALZ. ACOXPA.",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "N-S",
+        "COLONIA": "VILLA COAPA",
+        "CP": 14300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA CANAL DE MIRAMONTES - ENTRE CALZ. DE LAS BRUJAS Y CALZ. ACOXPA.",
+        "ALCALDIA": "TLALPAN",
+        "V\u00cdA PRINCIPAL": "MIRAMONTES",
+        "SENTIDO": "N-S",
+        "COLONIA": "VILLA COAPA",
+        "CP": 14300.0
+    }
+]
