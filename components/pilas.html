@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="es">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -16,10 +17,83 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
     <title>Pilas</title>
-  </head>
-  <body>
-    <h1>Pilas</h1>
+</head>
 
-    
-  </body>
+<body>
+    <div class="container">
+        <div class="bg-dark py-4 text-center">
+            <a href="#" class="text-white p-2 lead">LogoResiduo</a>
+        </div>
+
+        <div class="bg-warning text-center py-5">
+            <h1>Nombre App</h1>
+            <h2>Pilas</h2>
+            <h3>Búsqueda</h3>
+            <div class="form-group" id="app-alcaldias">
+                <label for="exampleFormControlSelect1">Alcaldía</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                <option v-for="alcaldia in alcaldias">
+                  {{alcaldia.text}}
+                </option>
+              </select>
+            </div>
+            <div class="form-group" id="app-alcaldias">
+                <label for="exampleFormControlSelect1">Colonia</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                
+                
+              </select>
+            </div>
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Código Postal</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </div>
+
+
+        </div>
+        <script>
+            var app_alcaldias = new Vue({
+                el: '#app-alcaldias',
+                data: {
+                    alcaldias: [{
+                        text: 'Álvaro Obregón'
+                    }, {
+                        text: 'Azcapotzalco'
+                    }, {
+                        text: 'Benito Juárez'
+                    }, {
+                        text: 'Cuauhtémoc'
+                    }, {
+                        text: 'Gustavo A.Madero'
+                    }, {
+                        text: 'Iztacalco'
+                    }, {
+                        text: 'Iztapalapa'
+                    }, {
+                        text: 'Magdalena Contreras'
+                    }, {
+                        text: 'Miguel Hidalgo'
+                    }, {
+                        text: 'Milpa Alta'
+                    }, {
+                        text: 'Tlahuac'
+                    }, {
+                        text: 'Tlalpan'
+                    }, {
+                        text: 'Venustiano Carranza'
+                    }, {
+                        text: 'Xochimilco'
+                    }]
+                }
+            })
+        </script>
+
+</body>
+
 </html>
