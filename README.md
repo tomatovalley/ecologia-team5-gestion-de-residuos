@@ -1,4 +1,7 @@
-# Equipo TU_EQUIPO
+# Equipo gestión de residuos
+
+Página Web dónde podrás encontrar información referente a lugares a dónde llevar residuos como medicinas, pilas, desperdicios electrónicos 
+
 
 Aquí deberás escribir toda la información de tu proyecto.
 
