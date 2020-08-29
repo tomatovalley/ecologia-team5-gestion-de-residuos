@@ -1,0 +1,218 @@
+[
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. SANTA FE - JUAN O\u00b4 GORM\u00c1N",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "P-O",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. SANTA FE - JUAN O\u00b4 GORM\u00c1N",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "P-O",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. SANTA FE - ENRIQUE DEL MORAL",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 1219.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. SANTA FE - ENRIQUE DEL MORAL",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 1219.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL VASCO DE QUIROGA - AUTOPISTA CONSTITUYENTES LA VENTA - PLACIO DE HIERRO",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL VASCO DE QUIROGA - AUTOPISTA CONSTITUYENTES LA VENTA - PLACIO DE HIERRO",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PROL. PASEO DE LA REFORMA - AV. TAMAULIPAS",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "N-S",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5349.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "PROL. PASEO DE LA REFORMA - AV. TAMAULIPAS",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "N-S",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5349.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - JUAN SALVADOR",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - JUAN SALVADOR",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA FRANCISCO J. SERRANO Y AVENIDA SANTA FE.",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "S-N",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 1376.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA FRANCISCO J. SERRANO Y AVENIDA SANTA FE.",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "S-N",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 1376.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA CARLOS LAZO Y AVENIDA SANTA FE.",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "N-S",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5249.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA CARLOS LAZO Y AVENIDA SANTA FE.",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "N-S",
+        "COLONIA": "CENTRO COMERCIAL SANTA FE",
+        "CP": 5249.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. VASCO DE QUIROGA Y CALLE CARLOS ECH\u00c1NOVE. (COND. LA CAMPINA)",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "LA ROSITA",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. VASCO DE QUIROGA Y CALLE CARLOS ECH\u00c1NOVE. (COND. LA CAMPINA)",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "O-P",
+        "COLONIA": "LA ROSITA",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. VASCO DE QUIROGA Y CALLE CARLOS ECH\u00c1NOVE.",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "P-O",
+        "COLONIA": "LA ROSITA",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. VASCO DE QUIROGA Y CALLE CARLOS ECH\u00c1NOVE.",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "SANTA FE",
+        "SENTIDO": "P-O",
+        "COLONIA": "LA ROSITA",
+        "CP": 5109.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PASEO DE LOS LAURELES - PASEO DE LOS LAURELES",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "SENTIDO": "N-S",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PASEO DE LOS LAURELES - PASEO DE LOS LAURELES",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "SENTIDO": "N-S",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PASEO DE LOS LAURELES - BOSQUES DE TULLAS",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "SENTIDO": "P-O",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PASEO DE LOS LAURELES - BOSQUES DE TULLAS",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "SENTIDO": "P-O",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - PROL. BOSQUES DE LA REFORMA",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "CUMBRES REFORMA",
+        "CP": 5127.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - PROL. BOSQUES DE LA REFORMA",
+        "ALCALDIA": "CUAJIMALPA",
+        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "CUMBRES REFORMA",
+        "CP": 5127.0
+    }
+]

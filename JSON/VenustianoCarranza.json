@@ -1,0 +1,398 @@
+[
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. IGNACIO ZARAGOZA - CALLE 73.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "INHAB",
+        "CP": 15020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. IGNACIO ZARAGOZA - CALLE 73.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "INHAB",
+        "CP": 15020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. EMILIO CARRANZA - CALLE LUIS PRECIADO DE LA TORRE.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "MOCTEZUMA 1RA SECC",
+        "CP": 15500.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. EMILIO CARRANZA - CALLE LUIS PRECIADO DE LA TORRE.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "MOCTEZUMA 1RA SECC",
+        "CP": 15500.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE 15. - AV. IZTACC\u00cdHUATL",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "MOCTEZUMA 1RA SECC",
+        "CP": 15530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE 15. - AV. IZTACC\u00cdHUATL",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "MOCTEZUMA 1RA SECC",
+        "CP": 15530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EMILIO CARRANZA ESQ. IZTACCIHUATL FRENTE A UN OXXO",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "O-P",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EMILIO CARRANZA ESQ. IZTACCIHUATL FRENTE A UN OXXO",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "O-P",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "ORIENTE 158 PASANDO NORTE 17 EN JARD\u00cdN",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "ORIENTE 158 PASANDO NORTE 17 EN JARD\u00cdN",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15530.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. CANAL - CALZ. ZOQUIPA",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "LA VIGA",
+        "SENTIDO": "N-S",
+        "COLONIA": "MERCED BALBUENA",
+        "CP": 15810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. CANAL - CALZ. ZOQUIPA",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "LA VIGA",
+        "SENTIDO": "N-S",
+        "COLONIA": "MERCED BALBUENA",
+        "CP": 15810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE LA VIGA PASANDO CALLEJ\u00d3N CUITL\u00c1HUAC.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "LA VIGA",
+        "SENTIDO": "N-S",
+        "COLONIA": "LORENZO BOTURINI",
+        "CP": 15820.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE LA VIGA PASANDO CALLEJ\u00d3N CUITL\u00c1HUAC.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "LA VIGA",
+        "SENTIDO": "N-S",
+        "COLONIA": "LORENZO BOTURINI",
+        "CP": 15820.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. FRAY SERVANDO TERESA DE MIER - CALLE RETORNO 25",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "FRAY SERVANDO",
+        "SENTIDO": "P-O",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. FRAY SERVANDO TERESA DE MIER - CALLE RETORNO 25",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "FRAY SERVANDO",
+        "SENTIDO": "P-O",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DEL TALLER PASANDO AV. GENARO GARC\u00cdA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "SENTIDO": "P-O",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DEL TALLER PASANDO AV. GENARO GARC\u00cdA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "SENTIDO": "P-O",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. LORENZO BOTURINI PASANDO CALLE SUR 109.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "SENTIDO": "O-P",
+        "COLONIA": "AERONAUTICA MILITAR",
+        "CP": 15970.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. LORENZO BOTURINI PASANDO CALLE SUR 109.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "SENTIDO": "O-P",
+        "COLONIA": "AERONAUTICA MILITAR",
+        "CP": 15970.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. LORENZO BOTURINI - CALLE ROSARIO",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "SENTIDO": "O-P",
+        "COLONIA": "LORENZO BOTURINI",
+        "CP": 15820.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. LORENZO BOTURINI - CALLE ROSARIO",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "SENTIDO": "O-P",
+        "COLONIA": "LORENZO BOTURINI",
+        "CP": 15820.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N PASANDO CALLE MOCORITO.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "S-N",
+        "COLONIA": "ALVARO OBREGON",
+        "CP": 15850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N PASANDO CALLE MOCORITO.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "S-N",
+        "COLONIA": "ALVARO OBREGON",
+        "CP": 15850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N - AV. FRAY SERVANDO TERESA DE MIER",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "N-S",
+        "COLONIA": "MERCED BALBUENA",
+        "CP": 15810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N - AV. FRAY SERVANDO TERESA DE MIER",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "N-S",
+        "COLONIA": "MERCED BALBUENA",
+        "CP": 15810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N - CALLE GENERAL ANAYA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "N-S",
+        "COLONIA": "MORAZAN",
+        "CP": 15120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N - CALLE GENERAL ANAYA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "N-S",
+        "COLONIA": "MORAZAN",
+        "CP": 15120.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N - CALLE GENERAL EMILIANO ZAPATA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "N-S",
+        "COLONIA": "CENTRO",
+        "CP": 15290.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CONGRESO DE LA UNI\u00d3N - CALLE GENERAL EMILIANO ZAPATA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
+        "SENTIDO": "N-S",
+        "COLONIA": "CENTRO",
+        "CP": 15290.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "BULEVAR PUERTO A\u00c9REO - PASANDO CALLE NORTE 33.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "BOULEVARD AEROPUERTO",
+        "SENTIDO": "N-S",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "BULEVAR PUERTO A\u00c9REO - PASANDO CALLE NORTE 33.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "BOULEVARD AEROPUERTO",
+        "SENTIDO": "N-S",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INTERIOR BULEVAR PUERTO A\u00c9REO - PASANDO AV. NORTE 3",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "BOULEVARD AEROPUERTO",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTA CRUZ AVIACION",
+        "CP": 15540.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INTERIOR BULEVAR PUERTO A\u00c9REO - PASANDO AV. NORTE 3",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "BOULEVARD AEROPUERTO",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTA CRUZ AVIACION",
+        "CP": 15540.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INT. R\u00cdO CHURUBUSCO - CALLE 1",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
+        "SENTIDO": "S-N",
+        "COLONIA": "IGNACIO ZARAGOZA",
+        "CP": 15000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INT. R\u00cdO CHURUBUSCO - CALLE 1",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
+        "SENTIDO": "S-N",
+        "COLONIA": "IGNACIO ZARAGOZA",
+        "CP": 15000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HANGARES AVIACI\u00d3N - CALLE ASISTENCIA P\u00daBLICA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "BOULEVARD AEROPUERTO",
+        "SENTIDO": "S-N",
+        "COLONIA": "FEDERAL",
+        "CP": 15700.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. HANGARES AVIACI\u00d3N - CALLE ASISTENCIA P\u00daBLICA.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "BOULEVARD AEROPUERTO",
+        "SENTIDO": "S-N",
+        "COLONIA": "FEDERAL",
+        "CP": 15700.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 ORIENTE AV. FRANCISCO DEL PASO Y TRONCOSO - CALLE RETORNO 7.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "EJE 3",
+        "SENTIDO": "N-S",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15960.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 ORIENTE AV. FRANCISCO DEL PASO Y TRONCOSO - CALLE RETORNO 7.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "EJE 3",
+        "SENTIDO": "N-S",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15960.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INGENIERO EDUARDO MOLINA - AV. SIDAR Y RUBIROSA",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "N-S",
+        "COLONIA": "AERONAUTICA MILITAR",
+        "CP": 15960.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INGENIERO EDUARDO MOLINA - AV. SIDAR Y RUBIROSA",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "EDUARDO MOLINA",
+        "SENTIDO": "N-S",
+        "COLONIA": "AERONAUTICA MILITAR",
+        "CP": 15960.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 SUR AV. MORELOS  - EJE 3 ORIENTE FRANCISCO DEL PASO Y TRONCOSO.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "A\u00d1IL",
+        "SENTIDO": "O-P",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15850.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 SUR AV. MORELOS  - EJE 3 ORIENTE FRANCISCO DEL PASO Y TRONCOSO.",
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "V\u00cdA PRINCIPAL": "A\u00d1IL",
+        "SENTIDO": "O-P",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15850.0
+    }
+]

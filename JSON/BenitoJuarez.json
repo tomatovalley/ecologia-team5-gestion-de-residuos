@@ -1,0 +1,1028 @@
+[
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y CALLE AJUSCO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "PORTALES NORTE",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y CALLE AJUSCO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "PORTALES NORTE",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - CALLE GIROS POST\u00c1LES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "IZTACCIHUATL",
+        "CP": 3410.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - CALLE GIROS POST\u00c1LES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "IZTACCIHUATL",
+        "CP": 3410.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - CALLE ING. PASCUAL ORTIZ RUBIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "ZACAHUITZCO",
+        "CP": 3660.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DE TLALPAN - CALLE ING. PASCUAL ORTIZ RUBIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "ZACAHUITZCO",
+        "CP": 3660.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DEL OBRERO MUNDIAL - ESQ. CALZ. DE TLALPAN",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "P-O",
+        "COLONIA": "ALAMOS",
+        "CP": 3400.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DEL OBRERO MUNDIAL - ESQ. CALZ. DE TLALPAN",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "TLALPAN",
+        "SENTIDO": "P-O",
+        "COLONIA": "ALAMOS",
+        "CP": 3400.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSURGENTES SUR - CALLE DAMAS -  TORRE INSURGENTES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "CREDITO CONSTRUCTOR",
+        "CP": 3900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSURGENTES SUR - CALLE DAMAS -  TORRE INSURGENTES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "N-S",
+        "COLONIA": "CREDITO CONSTRUCTOR",
+        "CP": 3900.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSURGENTES SUR - LUZ SAVI\u00d1\u00d3N - FRENTE AL NO. 715",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "NAPOLES",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. INSURGENTES SUR - LUZ SAVI\u00d1\u00d3N - FRENTE AL NO. 715",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "NAPOLES",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE DAKOTA - ESQ. VIADUCTO PRESIDENTE MIGUEL ALEM\u00c1N",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "NAPOLES",
+        "CP": 3810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE DAKOTA - ESQ. VIADUCTO PRESIDENTE MIGUEL ALEM\u00c1N",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
+        "SENTIDO": "S-N",
+        "COLONIA": "NAPOLES",
+        "CP": 3810.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS Y AVENIDA SAN ANTONIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (PONIENTE)",
+        "SENTIDO": "N-S",
+        "COLONIA": "INHAB",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS Y AVENIDA SAN ANTONIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (PONIENTE)",
+        "SENTIDO": "N-S",
+        "COLONIA": "INHAB",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ M. - PAS. CALLE NATAL PESADO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (PONIENTE)",
+        "SENTIDO": "S-N",
+        "COLONIA": "MIXCOAC",
+        "CP": 3910.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ M. - PAS. CALLE NATAL PESADO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (PONIENTE)",
+        "SENTIDO": "S-N",
+        "COLONIA": "MIXCOAC",
+        "CP": 3910.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS Y CALLE CORRESPONDENCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "ALAMOS",
+        "CP": 3410.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS Y CALLE CORRESPONDENCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "ALAMOS",
+        "CP": 3410.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS - CALLE TORRES ADALID",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS - CALLE TORES ADALID",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS - ESQ. EJE 4 SUR  XOLA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "U HAB IMSS NARVARTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS - ESQ. EJE 4 SUR  XOLA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
+        "SENTIDO": "S-N",
+        "COLONIA": "U HAB IMSS NARVARTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR JOS\u00c9 MAR\u00cdA RICO - PASANDO AV. INSURGENTES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "ACTIPAN",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR JOS\u00c9 MAR\u00cdA RICO - PASANDO AV. INSURGENTES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "ACTIPAN",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR JOS\u00c9 MAR\u00cdA RICO - PASANDO AV. AMORES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR JOS\u00c9 MAR\u00cdA RICO - PASANDO AV. AMORES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR POPOCAT\u00c9PETL - PASANDO AV. UNIVERSIDAD",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "INHAB",
+        "CP": 3330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR POPOCAT\u00c9PETL - PASANDO AV. UNIVERSIDAD",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "INHAB",
+        "CP": 3330.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR POPOCAT\u00c9PETL - CERRADA DE TENAYUCA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "SANTA CRUZ ATOYAC",
+        "CP": 3310.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR POPOCAT\u00c9PETL - CERRADA DE TENAYUCA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "JOS\u00c9 MAR\u00cdA RICO",
+        "SENTIDO": "P-O",
+        "COLONIA": "SANTA CRUZ ATOYAC",
+        "CP": 3310.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR POPOCAT\u00c9PETL - ALHAMBRA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "ERMITA",
+        "SENTIDO": "P-O",
+        "COLONIA": "PORTALES SUR",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 8 SUR POPOCAT\u00c9PETL - ALHAMBRA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "ERMITA",
+        "SENTIDO": "P-O",
+        "COLONIA": "PORTALES SUR",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA PATRIOTISMO Y CALLE 25",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "SENTIDO": "S-N",
+        "COLONIA": "SAN PEDRO DE LOS PINOS",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AVENIDA PATRIOTISMO Y CALLE 25",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "SENTIDO": "S-N",
+        "COLONIA": "SAN PEDRO DE LOS PINOS",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INTERIOR PATRIOTISMO - PASANDO PUENTE LA MORENA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "SENTIDO": "S-N",
+        "COLONIA": "SAN PEDRO DE LOS PINOS",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INTERIOR PATRIOTISMO - PASANDO PUENTE LA MORENA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "SENTIDO": "S-N",
+        "COLONIA": "SAN PEDRO DE LOS PINOS",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INTERIOR PATRIOTISMO - CALLE 13",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "SENTIDO": "S-N",
+        "COLONIA": "SAN PEDRO DE LOS PINOS",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CTO. INTERIOR PATRIOTISMO - CALLE 13",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "SENTIDO": "S-N",
+        "COLONIA": "SAN PEDRO DE LOS PINOS",
+        "CP": 3800.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE Y MUNICIPIO LIBRE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "O-P",
+        "COLONIA": "PORTALES NORTE",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISION DEL NORTE Y MUNICIPIO LIBRE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "O-P",
+        "COLONIA": "PORTALES NORTE",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISI\u00d3N DEL NORTE - CTO. INTERIOR R\u00cdO CHURUBUSCO  -  ABAJO DEL PUENTE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "PORTALES SUR",
+        "CP": 3340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISI\u00d3N DEL NORTE - CTO. INTERIOR R\u00cdO CHURUBUSCO  -  ABAJO DEL PUENTE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "S-N",
+        "COLONIA": "PORTALES SUR",
+        "CP": 3340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISI\u00d3N DEL NORTE - 1A. CERRADA DE BEISTEGUI",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. DIVISI\u00d3N DEL NORTE - 1A. CERRADA DE BEISTEGUI",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "DIVISI\u00d3N DEL NORTE",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CUAUHTEMOC Y MORENA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CUAUHTEMOC Y MORENA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3000.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CUAUHTEMOC Y  TORRES ADALID",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. CUAUHTEMOC Y  TORRES ADALID",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE CUAUHT\u00c9MOC Y CALLE SAN BORJA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE CUAUHT\u00c9MOC Y CALLE SAN BORJA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE AV. CUAUHT\u00c9MOC - PASANDO EJE 7 SUR AV. MUNICIPIO LIBRE -  TIENDA WALDO\u00b4S MART",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTA CRUZ ATOYAC",
+        "CP": 3310.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE AV. CUAUHT\u00c9MOC - PASANDO EJE 7 SUR AV. MUNICIPIO LIBRE -  TIENDA WALDO\u00b4S MART",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "SANTA CRUZ ATOYAC",
+        "CP": 3310.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE COYOAC\u00c1N - EJE 8 SUR POPOCAT\u00c9PETL",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "GRAL PEDRO MARIA ANAYA",
+        "CP": 3340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE COYOAC\u00c1N - EJE 8 SUR POPOCAT\u00c9PETL",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "GRAL PEDRO MARIA ANAYA",
+        "CP": 3340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE COYOAC\u00c1N - BRUNO TRAVEN",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "GRAL PEDRO MARIA ANAYA",
+        "CP": 3340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE COYOAC\u00c1N - BRUNO TRAVEN",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "GRAL PEDRO MARIA ANAYA",
+        "CP": 3340.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE AV. CUAUHT\u00c9MOC - EJE 5 SUR EUGENIA - ACCESO AL METRO EUGENIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 1 PONIENTE AV. CUAUHT\u00c9MOC - EJE 5 SUR EUGENIA - ACCESO AL METRO EUGENIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
+        "SENTIDO": "N-S",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. EMILIANO ZAPATA - PASANDO AV. DIVISI\u00d3N DEL NORTE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "MUNICIPIO LIBRE",
+        "SENTIDO": "P-O",
+        "COLONIA": "PORTALES NORTE",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. EMILIANO ZAPATA - PASANDO AV. DIVISI\u00d3N DEL NORTE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "MUNICIPIO LIBRE",
+        "SENTIDO": "P-O",
+        "COLONIA": "PORTALES NORTE",
+        "CP": 3300.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 7 SUR F\u00c9LIX CUEVAS - PASANDO CALLE MORAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3200.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 7 SUR F\u00c9LIX CUEVAS - PASANDO CALLE MORAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3200.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 7 SUR F\u00c9LIX CUEVAS - PASANDO CERRADA DE F\u00c9LIX CUEVAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3200.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 7 SUR F\u00c9LIX CUEVAS - PASANDO CERRADA DE F\u00c9LIX CUEVAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3200.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 7 SUR AVENIDA EXTREMADURA - CALLE JER\u00c9Z",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "EXTREMADURA INSURGENTES",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 7 SUR AVENIDA EXTREMADURA - CALLE JER\u00c9Z",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "EXTREMADURA INSURGENTES",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE OSO - PASANDO CALLE PARROQUIA -  GALERIAS INSURGENTES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "N-S",
+        "COLONIA": "ACTIPAN",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE OSO - PASANDO CALLE PARROQUIA -  GALERIAS INSURGENTES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "F\u00c9LIX CUEVAS",
+        "SENTIDO": "N-S",
+        "COLONIA": "ACTIPAN",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. UNIVERSIDAD \u2013 ESQ. JOS\u00c9 MA. OLLOQUI",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "N-S",
+        "COLONIA": "ACACIAS",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. UNIVERSIDAD \u2013 ESQ. JOS\u00c9 MA. OLLOQUI",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "N-S",
+        "COLONIA": "ACACIAS",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. JOS\u00c9 MAR\u00cdA VERTIZ - CALLE ESPERANZA -  PARQUE LAS AM\u00c9RICAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. JOS\u00c9 MAR\u00cdA VERTIZ - CALLE ESPERANZA -  PARQUE LAS AM\u00c9RICAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE PILARES - PESTALOZZI -  FTE. A PARQUE DE LAS ARBOLEDAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "P-O",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE PILARES - PESTALOZZI -  FTE. A PARQUE DE LAS ARBOLEDAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "P-O",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CUMBRES DE MALTRATA - AV. JOS\u00c9 MAR\u00cdA VERTIZ -  RESTAURANTE CASA DEL FILETE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "P-O",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CUMBRES DE MALTRATA - AV. JOS\u00c9 MAR\u00cdA VERTIZ -  RESTAURANTE CASA DEL FILETE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "UNIVERSIDAD",
+        "SENTIDO": "P-O",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. XOLA  Y SANCHEZ AZCONA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "XOLA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. XOLA  Y SANCHEZ AZCONA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "XOLA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 4 SUR XOLA Y CALLE AMORES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "XOLA",
+        "SENTIDO": "P-O",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 4 SUR XOLA Y CALLE AMORES",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "XOLA",
+        "SENTIDO": "P-O",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 4 SUR XOLA Y CALLE ISABEL LA CAT\u00d3LICA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "XOLA",
+        "SENTIDO": "P-O",
+        "COLONIA": "ALAMOS",
+        "CP": 3400.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 4 SUR XOLA Y CALLE ISABEL LA CAT\u00d3LICA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "XOLA",
+        "SENTIDO": "P-O",
+        "COLONIA": "ALAMOS",
+        "CP": 3400.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. BARRANCA DEL MUERTO Y ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ MATEOS  O-P",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "LAS \u00c1GUILAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "LOS ALPES",
+        "CP": 3930.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. BARRANCA DEL MUERTO Y ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ MATEOS  O-P",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "LAS \u00c1GUILAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "LOS ALPES",
+        "CP": 3930.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. BARRANCA DEL MUERTO ESQ. CALLE 2 DE ABRIL",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "LAS \u00c1GUILAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "FLORIDA",
+        "CP": 3940.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. BARRANCA DEL MUERTO ESQ. CALLE 2 DE ABRIL",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "LAS \u00c1GUILAS",
+        "SENTIDO": "O-P",
+        "COLONIA": "FLORIDA",
+        "CP": 3940.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DEL OBRERO MUNDIAL - S\u00c1NCHEZ AZCONA -  CAMELL\u00d3N CENTRAL",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "MONTERREY",
+        "SENTIDO": "P-O",
+        "COLONIA": "PIEDAD NARVARTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALZ. DEL OBRERO MUNDIAL - S\u00c1NCHEZ AZCONA -  CAMELL\u00d3N CENTRAL",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "MONTERREY",
+        "SENTIDO": "P-O",
+        "COLONIA": "PIEDAD NARVARTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 2 PONIENTE GABRIEL MANCERA - CALLE ESCOCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "GABRIEL MANCERA",
+        "SENTIDO": "S-N",
+        "COLONIA": "DEL VALLE CENTRO",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 2 PONIENTE GABRIEL MANCERA - CALLE ESCOCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "GABRIEL MANCERA",
+        "SENTIDO": "S-N",
+        "COLONIA": "DEL VALLE CENTRO",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 2 PONIENTE GABRIEL MANCERA - PASANDO CALLE LUZ SAVI\u00d1ON",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "GABRIEL MANCERA",
+        "SENTIDO": "S-N",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 2 PONIENTE GABRIEL MANCERA - PASANDO CALLE LUZ SAVI\u00d1ON",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "GABRIEL MANCERA",
+        "SENTIDO": "S-N",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 PONIENTE COYOACAN - PASANDO CALLE PARROQUIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 3 PONIENTE COYOACAN - PASANDO CALLE PARROQUIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
+        "SENTIDO": "N-S",
+        "COLONIA": "DEL VALLE SUR",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE ANAX\u00c1GORAS - EJE 6 SUR \u00c1NGEL URRAZA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "CALLE ANAX\u00c1GORAS - EJE 6 SUR \u00c1NGEL URRAZA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 SUR AVENIDA HOLBEIN - PASANDO CALLE CAROLINA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NOCHE BUENA",
+        "CP": 3710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 SUR AVENIDA HOLBEIN - PASANDO CALLE CAROLINA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NOCHE BUENA",
+        "CP": 3710.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 TINTORETO - PASANDO EJE 5 SUR SAN ANTONIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NONOALCO",
+        "CP": 3730.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 6 TINTORETO - PASANDO EJE 5 SUR SAN ANTONIO",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "P-O",
+        "COLONIA": "NONOALCO",
+        "CP": 3730.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. JOS\u00c9 MA. V\u00c9RTIZ ESQ. EJE  SUR \u00c1NGEL URRAZA - FRENTE A FARMACIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "INDEPENDENCIA",
+        "CP": 3630.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "AV. JOS\u00c9 MA. V\u00c9RTIZ ESQ. EJE  SUR \u00c1NGEL URRAZA - FRENTE A FARMACIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "\u00c1NGEL URRAZA",
+        "SENTIDO": "S-N",
+        "COLONIA": "INDEPENDENCIA",
+        "CP": 3630.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE MITLA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE MITLA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE ORIENTE",
+        "CP": "#N/A"
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE ANAX\u00c1GORAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 EUGENIA SUR Y CALLE ANAX\u00c1GORAS",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "NARVARTE PONIENTE",
+        "CP": 3020.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR SAN ANTONIO - ESQ. AV. VIADUCTO R\u00cdO BECERRA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR SAN ANTONIO - ESQ. AV. VIADUCTO R\u00cdO BECERRA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  AV. COLONIA DEL VALLE - PASANDO CALLE PROVIDENCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  AV. COLONIA DEL VALLE - PASANDO CALLE PROVIDENCIA",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "DEL VALLE",
+        "CP": 3100.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  SAN ANTONIO - ESQ. CALLE TENNESSEE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    },
+    {
+        "ESTATUS": "HABILITADO",
+        "UBICACI\u00d3N": "EJE 5 SUR  SAN ANTONIO - ESQ. CALLE TENNESSEE",
+        "ALCALDIA": "BENITO JUAREZ",
+        "V\u00cdA PRINCIPAL": "EUGENIA",
+        "SENTIDO": "O-P",
+        "COLONIA": "CIUDAD DE LOS DEPORTES",
+        "CP": 3840.0
+    }
+]

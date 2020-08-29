@@ -1,6 +1,5 @@
 [
     {
-        "": 17.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - CERRADA VASCO DE QUIROGA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -10,7 +9,6 @@
         "CP": 1320.0
     },
     {
-        "": 18.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - CERRADA VASCO DE QUIROGA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -20,7 +18,6 @@
         "CP": 1320.0
     },
     {
-        "": 19.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "JOAQUIN GALLO - AV. VASCO DE QUIROGA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -30,7 +27,6 @@
         "CP": 1219.0
     },
     {
-        "": 20.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "JOAQUIN GALLO - AV. VASCO DE QUIROGA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -40,7 +36,6 @@
         "CP": 1219.0
     },
     {
-        "": 21.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - CALLE ROBERTO MEDELLIN - CORP. BANAMEX",
         "ALCALDIA": "ALVARO OBREGON",
@@ -50,7 +45,6 @@
         "CP": 1330.0
     },
     {
-        "": 22.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - CALLE ROBERTO MEDELLIN - CORP. BANAMEX",
         "ALCALDIA": "ALVARO OBREGON",
@@ -60,7 +54,6 @@
         "CP": 1330.0
     },
     {
-        "": 23.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - AUTOPISTA CONSTITUYENTES LA VENTA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -70,7 +63,6 @@
         "CP": 1219.0
     },
     {
-        "": 24.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - AUTOPISTA CONSTITUYENTES LA VENTA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -80,7 +72,6 @@
         "CP": 1219.0
     },
     {
-        "": 25.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "JUAN SEGALE - CTO. GUILLERMO GONZALEZ CAMARENA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -90,7 +81,6 @@
         "CP": 1376.0
     },
     {
-        "": 26.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "JUAN SEGALE - CTO. GUILLERMO GONZALEZ CAMARENA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -100,7 +90,6 @@
         "CP": 1376.0
     },
     {
-        "": 27.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CTO. GONZALEZ CAMARENA - ERNESTO DOMINGUEZ - PARQUE",
         "ALCALDIA": "ALVARO OBREGON",
@@ -110,7 +99,6 @@
         "CP": 1376.0
     },
     {
-        "": 28.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CTO. GONZALEZ CAMARENA - ERNESTO DOMINGUEZ - PARQUE",
         "ALCALDIA": "ALVARO OBREGON",
@@ -120,7 +108,6 @@
         "CP": 1376.0
     },
     {
-        "": 29.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - PASANDO AV. DOVALI JAIME",
         "ALCALDIA": "ALVARO OBREGON",
@@ -130,7 +117,6 @@
         "CP": 1376.0
     },
     {
-        "": 30.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - PASANDO AV. DOVALI JAIME",
         "ALCALDIA": "ALVARO OBREGON",
@@ -140,7 +126,6 @@
         "CP": 1376.0
     },
     {
-        "": 31.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA SANTA FE Y CALLE DOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -150,7 +135,6 @@
         "CP": 1376.0
     },
     {
-        "": 32.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA SANTA FE Y CALLE DOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -160,7 +144,6 @@
         "CP": 1376.0
     },
     {
-        "": 37.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "PROL. AV. PASEO DE LA REFORMA Y AV. VASCO DE QUIROGA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -170,7 +153,6 @@
         "CP": 1340.0
     },
     {
-        "": 38.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "PROL. AV. PASEO DE LA REFORMA Y AV. VASCO DE QUIROGA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -180,7 +162,6 @@
         "CP": 1340.0
     },
     {
-        "": 39.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALLE 8 FERNANDO ESPINOSA DE GUTI\u00c9RREZ Y AV. JAVIER BARROS SIERRA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -190,7 +171,6 @@
         "CP": 1219.0
     },
     {
-        "": 40.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALLE 8 FERNANDO ESPINOSA DE GUTI\u00c9RREZ Y AV. JAVIER BARROS SIERRA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -200,7 +180,6 @@
         "CP": 1219.0
     },
     {
-        "": 41.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. JAVIER BARROS SIERRA Y CALLE FERNANDO ESPINOSA GUTI\u00c9RREZ.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -210,7 +189,6 @@
         "CP": 1219.0
     },
     {
-        "": 42.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. JAVIER BARROS SIERRA Y CALLE FERNANDO ESPINOSA GUTI\u00c9RREZ.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -220,7 +198,6 @@
         "CP": 1219.0
     },
     {
-        "": 47.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. DOVALI JAIME Y AV. SANTA FE.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -230,7 +207,6 @@
         "CP": 1376.0
     },
     {
-        "": 48.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. DOVALI JAIME Y AV. SANTA FE.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -240,7 +216,6 @@
         "CP": 1376.0
     },
     {
-        "": 49.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PROL. SANTA FE Y AV. JAVIER BARROS SIERRA.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -250,7 +225,6 @@
         "CP": 1219.0
     },
     {
-        "": 50.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PROL. SANTA FE Y AV. JAVIER BARROS SIERRA.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -260,7 +234,6 @@
         "CP": 1219.0
     },
     {
-        "": 103.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. INSURGENTES SUR Y CALLE GUSTAVO E. CAMPA (TORRE DE BANCOMER)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -270,7 +243,6 @@
         "CP": 1030.0
     },
     {
-        "": 104.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. INSURGENTES SUR Y CALLE GUSTAVO E. CAMPA (TORRE DE BANCOMER)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -280,7 +252,6 @@
         "CP": 1030.0
     },
     {
-        "": 135.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "INSURGENTES - GUSTAVO E. CAMPA  (FRENTE A SECRETARIA DE LA FUNCI\u00d3N PUBLICA)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -290,7 +261,6 @@
         "CP": 1030.0
     },
     {
-        "": 136.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "INSURGENTES - GUSTAVO E. CAMPA  (FRENTE A SECRETARIA DE LA FUNCI\u00d3N PUBLICA)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -300,7 +270,6 @@
         "CP": 1030.0
     },
     {
-        "": 153.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO RUIZ CORTINES PASANDO SAN JER\u00d3NIMO (VIP\u00b4S)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -310,7 +279,6 @@
         "CP": 10200.0
     },
     {
-        "": 154.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO RUIZ CORTINES PASANDO SAN JER\u00d3NIMO (VIP\u00b4S)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -320,7 +288,6 @@
         "CP": 10200.0
     },
     {
-        "": 155.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO RUIZ CORTINES Y CAMINO A STA. TERESA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -330,7 +297,6 @@
         "CP": 10700.0
     },
     {
-        "": 156.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO RUIZ CORTINES Y CAMINO A STA. TERESA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -340,7 +306,6 @@
         "CP": 10700.0
     },
     {
-        "": 157.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "BLVD ADOLFO L\u00d3PEZ MATEOS Y AV. SAN JER\u00d3NIMO (UNIDAD INDEPENDENCIA) N-S",
         "ALCALDIA": "ALVARO OBREGON",
@@ -350,7 +315,6 @@
         "CP": 10100.0
     },
     {
-        "": 158.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "BLVD ADOLFO L\u00d3PEZ MATEOS Y AV. SAN JER\u00d3NIMO (UNIDAD INDEPENDENCIA) N-S",
         "ALCALDIA": "ALVARO OBREGON",
@@ -360,7 +324,6 @@
         "CP": 10100.0
     },
     {
-        "": 159.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "BLVD. DE LA LUZ Y CALLE DE AGUA. N-S",
         "ALCALDIA": "ALVARO OBREGON",
@@ -370,7 +333,6 @@
         "CP": 1900.0
     },
     {
-        "": 160.0,
         "ESTATUS": "HABILITADO/DIGITAL",
         "UBICACI\u00d3N": "BLVD. DE LA LUZ Y CALLE DE AGUA. N-S",
         "ALCALDIA": "ALVARO OBREGON",
@@ -380,7 +342,6 @@
         "CP": 1900.0
     },
     {
-        "": 161.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS - PASANDO CALLE P. MIRANDA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -390,7 +351,6 @@
         "CP": 1600.0
     },
     {
-        "": 162.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS - PASANDO CALLE P. MIRANDA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -400,7 +360,6 @@
         "CP": 1600.0
     },
     {
-        "": 163.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA R\u00d3MULO O'FARRIL SR. - ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -410,7 +369,6 @@
         "CP": 1710.0
     },
     {
-        "": 164.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA R\u00d3MULO O'FARRIL SR. - ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -420,7 +378,6 @@
         "CP": 1710.0
     },
     {
-        "": 165.0,
         "ESTATUS": "HABILITADO/DIGITAL",
         "UBICACI\u00d3N": "AVENIDA DESIERTO DE LOS LEONES - PASANDO CALLE ATLAMAYA.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -430,7 +387,6 @@
         "CP": 1790.0
     },
     {
-        "": 166.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA DESIERTO DE LOS LEONES - PASANDO CALLE ATLAMAYA.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -440,7 +396,6 @@
         "CP": 1790.0
     },
     {
-        "": 167.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALLE CAMINO A SANTA TERESA - PASANDO AV. DE LAS FUENTES.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -450,7 +405,6 @@
         "CP": 1900.0
     },
     {
-        "": 168.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALLE CAMINO A SANTA TERESA - PASANDO AV. DE LAS FUENTES.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -460,7 +414,6 @@
         "CP": 1900.0
     },
     {
-        "": 173.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ M. - AV. SAN JER\u00d3NIMO",
         "ALCALDIA": "ALVARO OBREGON",
@@ -470,7 +423,6 @@
         "CP": 1100.0
     },
     {
-        "": 174.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ M. - AV. SAN JER\u00d3NIMO",
         "ALCALDIA": "ALVARO OBREGON",
@@ -480,7 +432,6 @@
         "CP": 1100.0
     },
     {
-        "": 175.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ M. - PASANDO CALLE DURANGO",
         "ALCALDIA": "ALVARO OBREGON",
@@ -490,7 +441,6 @@
         "CP": 1080.0
     },
     {
-        "": 176.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVD. ADOLFO L\u00d3PEZ M. - PASANDO CALLE DURANGO",
         "ALCALDIA": "ALVARO OBREGON",
@@ -500,7 +450,6 @@
         "CP": 1080.0
     },
     {
-        "": 177.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. TOLUCA - PASANDO CALLE  MORELOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -510,7 +459,6 @@
         "CP": "01080"
     },
     {
-        "": 178.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. TOLUCA - PASANDO CALLE  MORELOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -520,7 +468,6 @@
         "CP": "01080"
     },
     {
-        "": 183.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. DE LAS FUENTES - ESQ. CALLE LLUVIA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -530,7 +477,6 @@
         "CP": 1900.0
     },
     {
-        "": 184.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. DE LAS FUENTES - ESQ. CALLE LLUVIA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -540,7 +486,6 @@
         "CP": 1900.0
     },
     {
-        "": 331.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CALLA LA OTRA BANDA  P-O",
         "ALCALDIA": "ALVARO OBREGON",
@@ -550,7 +495,6 @@
         "CP": 1090.0
     },
     {
-        "": 332.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CALLA LA OTRA BANDA  P-O",
         "ALCALDIA": "ALVARO OBREGON",
@@ -560,7 +504,6 @@
         "CP": 1090.0
     },
     {
-        "": 333.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CALLE CUAUHTEMOC",
         "ALCALDIA": "ALVARO OBREGON",
@@ -570,7 +513,6 @@
         "CP": 1090.0
     },
     {
-        "": 334.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CALLE CUAUHTEMOC O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -580,7 +522,6 @@
         "CP": 1090.0
     },
     {
-        "": 335.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CALLE CANTERA MOCTEZUMA O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -590,7 +531,6 @@
         "CP": 1090.0
     },
     {
-        "": 336.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CALLE CANTERA MOCTEZUMA O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -600,7 +540,6 @@
         "CP": 1090.0
     },
     {
-        "": 337.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CERRADA CANOA  O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -610,7 +549,6 @@
         "CP": 1090.0
     },
     {
-        "": 338.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "EJE 10 SUR R\u00cdO MAGDALENA (TRAMO CANOA) Y CERRADA CANOA  O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -620,7 +558,6 @@
         "CP": 1090.0
     },
     {
-        "": 353.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA REVOLUCI\u00d3N - CALLE CERRADA R. BOKER",
         "ALCALDIA": "ALVARO OBREGON",
@@ -630,7 +567,6 @@
         "CP": 1040.0
     },
     {
-        "": 354.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA REVOLUCI\u00d3N - CALLE CERRADA R. BOKER",
         "ALCALDIA": "ALVARO OBREGON",
@@ -640,7 +576,6 @@
         "CP": 1040.0
     },
     {
-        "": 431.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA ALTAVISTA  - PASANDO CALLE JOS\u00c9 MARIA DE TERESA .",
         "ALCALDIA": "ALVARO OBREGON",
@@ -650,7 +585,6 @@
         "CP": 1000.0
     },
     {
-        "": 432.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AVENIDA ALTAVISTA  - PASANDO CALLE JOS\u00c9 MARIA DE TERESA .",
         "ALCALDIA": "ALVARO OBREGON",
@@ -660,7 +594,6 @@
         "CP": 1000.0
     },
     {
-        "": 455.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CONSTITUYENTES - SECRET RI  DE H CIEND",
         "ALCALDIA": "ALVARO OBREGON",
@@ -670,7 +603,6 @@
         "CP": "#NA"
     },
     {
-        "": 456.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CONSTITUYENTES - SECRET RI  DE H CIEND",
         "ALCALDIA": "ALVARO OBREGON",
@@ -680,7 +612,6 @@
         "CP": "#NA"
     },
     {
-        "": 471.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. UNIVERSIDAD Y VITO ALESSIO ROBLES (CAMELL\u00d3N)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -690,7 +621,6 @@
         "CP": 1030.0
     },
     {
-        "": 472.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. UNIVERSIDAD Y VITO ALESSIO ROBLES (CAMELL\u00d3N)",
         "ALCALDIA": "ALVARO OBREGON",
@@ -700,7 +630,6 @@
         "CP": 1030.0
     },
     {
-        "": 487.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZADA DE LOS LEONES - AVENIDA BARRANCA DEL MUERTO",
         "ALCALDIA": "ALVARO OBREGON",
@@ -710,7 +639,6 @@
         "CP": 1600.0
     },
     {
-        "": 488.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZADA DE LOS LEONES - AVENIDA BARRANCA DEL MUERTO",
         "ALCALDIA": "ALVARO OBREGON",
@@ -720,7 +648,6 @@
         "CP": 1600.0
     },
     {
-        "": 489.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZADA DE LAS AGUILAS - ENTRADA AL PARQUE DE AXIOMATLA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -730,7 +657,6 @@
         "CP": 1820.0
     },
     {
-        "": 490.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZADA DE LAS AGUILAS - ENTRADA AL PARQUE DE AXIOMATLA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -740,7 +666,6 @@
         "CP": 1820.0
     },
     {
-        "": 493.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZ. DE LAS AGUILAS - PASANDO SEGUNDA CERRADA DE LAS AGUILAS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -750,7 +675,6 @@
         "CP": 1710.0
     },
     {
-        "": 494.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZ. DE LAS AGUILAS - PASANDO SEGUNDA CERRADA DE LAS AGUILAS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -760,7 +684,6 @@
         "CP": 1710.0
     },
     {
-        "": 495.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZ. DE LAS AGUILAS - PASANDO CALLE FRESNOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -770,7 +693,6 @@
         "CP": 1740.0
     },
     {
-        "": 496.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "CALZ. DE LAS AGUILAS - PASANDO CALLE FRESNOS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -780,7 +702,6 @@
         "CP": 1740.0
     },
     {
-        "": 509.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PASEOS DEL PEDREGAL ESQ. BLVD. DE LA LUZ  COL JARDINES DEL PEDREGAL SENTIDO N-S.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -790,7 +711,6 @@
         "CP": 1900.0
     },
     {
-        "": 510.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PASEOS DEL PEDREGAL ESQ. BLVD. DE LA LUZ  COL JARDINES DEL PEDREGAL SENTIDO N-S.",
         "ALCALDIA": "ALVARO OBREGON",
@@ -800,7 +720,6 @@
         "CP": 1900.0
     },
     {
-        "": 593.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "PROL. CALLA 10 Y  CALLE CANARIOS (ESTACIONAMIENTO DE LA DELAGACI\u00d3N ALVARO OBREG\u00d3N) O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -810,7 +729,6 @@
         "CP": 1160.0
     },
     {
-        "": 594.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "PROL. CALLA 10 Y  CALLE CANARIOS (ESTACIONAMIENTO DE LA DELAGACI\u00d3N ALVARO OBREG\u00d3N) O-P",
         "ALCALDIA": "ALVARO OBREGON",
@@ -820,7 +738,6 @@
         "CP": 1160.0
     },
     {
-        "": 595.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "PROL. CALLE 10 Y CALLE BATALL\u00d3N DE SAN PATRICIO P-O",
         "ALCALDIA": "ALVARO OBREGON",
@@ -830,7 +747,6 @@
         "CP": 1580.0
     },
     {
-        "": 596.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "PROL. CALLE 10 Y CALLE BATALL\u00d3N DE SAN PATRICIO P-O",
         "ALCALDIA": "ALVARO OBREGON",
@@ -840,7 +756,6 @@
         "CP": 1580.0
     },
     {
-        "": 601.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PROL. SAN ANTONIO - ESQ.  AV. R\u00cdO BECERRA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -850,7 +765,6 @@
         "CP": 1420.0
     },
     {
-        "": 602.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. PROL. SAN ANTONIO - ESQ.  AV. R\u00cdO BECERRA",
         "ALCALDIA": "ALVARO OBREGON",
@@ -860,7 +774,6 @@
         "CP": 1420.0
     },
     {
-        "": 673.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. TOLUCA - PASANDO CERRADA DE TRANSMISIONES - HOSPITAL IMSS",
         "ALCALDIA": "ALVARO OBREGON",
@@ -870,7 +783,6 @@
         "CP": 1780.0
     },
     {
-        "": 674.0,
         "ESTATUS": "HABILITADO",
         "UBICACI\u00d3N": "AV. TOLUCA - PASANDO CERRADA DE TRANSMISIONES - HOSPITAL IMSS",
         "ALCALDIA": "ALVARO OBREGON",
