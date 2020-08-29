@@ -2,6 +2,17 @@
 
 Página Web dónde podrás encontrar información referente a lugares a dónde llevar residuos como medicinas, pilas, desperdicios electrónicos 
 
+## ¿A quién va dirigida esta solución?
+- Personas que deseen deshacerse de sus residuos
+- Compañías que se dediquen a la recolección, manejo y reuso de residuos
+
+ 
+## ¿Cómo funciona?
+
+Hay dos tipos de usuario
+
+Se te hará un serie de preguntas: 
+
 
 Aquí deberás escribir toda la información de tu proyecto.
 
