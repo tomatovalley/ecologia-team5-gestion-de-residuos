@@ -67,7 +67,7 @@
         .background-blue{
             background-color: #031c3d;
             height: 150px;
-            margin-bottom: 30px;
+            margin-bottom: 80px;
         }
         #background-white{
             background-color: white;
@@ -84,9 +84,12 @@
         .box-blue {
             margin:0 0 25px;
             overflow:hidden;
+            width: 650px;
+            height: 200px;
             padding:20px;
             background-color:#031c3d;
             border-radius: 10px;
+            margin: 0 auto;
         }
         .box-white {
             margin:0 0 25px;
@@ -98,6 +101,11 @@
         }
         .margin-top{
             margin-top: 46px;
+        }
+        .content-center{
+            max-width: 800px;
+            margin: 0 auto  60px auto;
+            text-align: center;
         }
 
     </style>
@@ -135,7 +143,10 @@
             un nuevo ciclo para tus residuos especiales <br>
             </p>
         </div>
-
+        
+        <div class="content-center">
+            <h2>¡Escoge tu categoría y encuentra los<br> centros de reciclaje más cercanos a ti!</h2>
+        </div>
         <div class="bg-warning text-center py-5">
             <h1>Nombre App</h1>
             <p class="lead" id="prueba">{{ message }}</p>
