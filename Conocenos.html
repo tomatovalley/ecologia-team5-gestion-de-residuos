@@ -8,6 +8,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -20,6 +21,22 @@
         h3 {
             text-align: center;
         }
+        h1{
+            font-family: 'Bebas Neue', cursive;
+            font-size: 50px;
+        }
+        a{
+            font-family: 'Bebas Neue', cursive;
+            font-size: 27px;
+        }
+        h2{
+            font-family: 'Open Sans', sans-serif;
+        }
+        p{
+            font-family: 'Open Sans', sans-serif;
+            font-size: 20px;
+        }
+        
         
         .img-fluid {
             opacity: 1;
@@ -64,10 +81,11 @@
             font-size: 16px;
             padding: 60px 60px;
         }
-        .background-blue{
-            background-color: #031c3d;
-            height: 180px;
+        .navbar{
+            background-color:#031c3d;
+            min-height: 200px;
             margin-bottom: 80px;
+            padding-bottom: 0;
         }
         #background-white{
             background-color: white;
@@ -83,41 +101,48 @@
 
         .box-blue {
             overflow:hidden;
-            width: 650px;
-            height: 255px;
+            width: 850px;
+            height: 330px;
             padding:20px;
             background-color:#031c3d;
-            border-radius: 10px;
+            border-radius: 20px;
             margin: 0 auto;
-            margin-bottom: 50px;
+            margin-bottom: 20px;
         }
         .box-white {
-            margin:0 0 25px;
+            
             overflow:hidden;
             padding:20px;
             background-color:white;
             border-radius: 2px;
             margin-left: 5px;
         }
-        .margin-top{
-            margin-top: 76px;
-        }
+
         .content-center{
             max-width: 800px;
-            margin: 0 auto  60px auto;
+            margin-right: 220px;
+            margin-top: 100px;       
             text-align: center;
         }
-
+        .logo-brand{
+            min-width: 160px;
+            max-width: 180px;
+            margin-left: 0;
+        }
+        .margin-top{
+            margin-top: 111px;
+        }
     </style>
 </head>
 
 <body>
-    <nav class="background-blue">
+    <nav class="navbar">
     <div class="container">
-        <div class="py-4 text-center">
-            <ul class="nav justify-content-center margin-top">
+       <a class="navbar-brand" href="#"><img src="imagenes/Nuevo Ciclo Logo.png" class="logo-brand" alt="logo"></a>
+        <div class="text-center content-center margin-top">
+            <ul class="nav justify-content-center">
             <li class="nav-item">
-              <div class="box-white"><a class="nav-link active" href="#">CONÓCENOS</a></div>
+              <div class="box-white"><a class="nav-link active" href="index.html">PRINCIPAL</a></div>
             </li>
             <li class="nav-item">
               <div class="box-white"><a class="nav-link" href="#">CATEGORÍAS</a></div>
@@ -138,11 +163,11 @@
 
         <div class="box-blue text-center">
             <h1 class="color-white">CONÓCENOS</h1>
-            <p class="color-white">
-            Esta iniciativa surge de la necesidad de <b>separar la basura</b> que requiera <br>
-            un procesamiento especial para su correcto reciclaje o destrucción.<br>
+            <p class="color-white text-center">
+            Esta iniciativa surge de la necesidad de <b>separar la basura</b> que requiera<br>
+            un procesamiento especial para su correcto reciclaje o destrucción.
             </p>
-            <p class="color-white">
+            <p class="color-white text-center">
             Si te preocupa el medio ambiente encuentra en nuestro directorio los <br>
             lugares especializados en la <b>recolección</b> y <b>gestión de residuos</b><br>
             especiales. Ya sea que quieras desechar tus residuos como pilas, <br>
