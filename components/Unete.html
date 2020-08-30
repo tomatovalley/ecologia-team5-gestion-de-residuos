@@ -1,1 +1,189 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <title>Únete</title>
+    <style>
+        h3 {
+            text-align: center;
+        }
+        h1{
+            font-family: 'Bebas Neue', cursive;
+            font-size: 50px;
+        }
+        a{
+            font-family: 'Bebas Neue', cursive;
+            font-size: 27px;
+        }
+        h2{
+            font-family: 'Open Sans', sans-serif;
+        }
+        p{
+            font-family: 'Open Sans', sans-serif;
+            font-size: 23px;
+        }
+        
+        .img-fluid {
+            opacity: 1;
+            display: block;
+            width: 100%;
+            height: auto;
+            transition: .5s ease;
+            backface-visibility: hidden;
+        }
+        
+        .middle {
+            transition: .5s ease;
+            opacity: 0.1;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .middle>a {
+            color: black;
+        }
+        
+        .middle>a:hover {
+            border-bottom-color: rgba(255, 255, 255, .25);
+            color: darkolivegreen;
+        }
+        
+        .col-md-4:hover .img-fluid {
+            opacity: 0.3;
+        }
+        
+        .col-md-4:hover .middle {
+            opacity: 1;
+            border-bottom-color: greenyellow;
+        }
+        
+        .text {
+            color: black;
+            font-size: 16px;
+            padding: 60px 60px;
+        }
+        .navbar{
+            background-color:#031c3d;
+            min-height: 200px;
+            margin-bottom: 80px;
+            padding-bottom: 0;
+        }
+        #background-white{
+            background-color: white;
+            height: 80px;
+        }
+        #color-blue{
+            color: #031c3d;
+            
+        }
+        .color-white{
+            color: white;
+        }
+
+        .box-blue {
+            overflow:hidden;
+            width: 500px;
+            height: 350px;
+            padding:20px;
+            background-color:#031c3d;
+            border-radius: 20px;
+           
+            margin-bottom: 20px;
+        }
+        .box-white {
+            
+            overflow:hidden;
+            padding:20px;
+            background-color:white;
+            border-radius: 2px;
+            margin-left: 5px;
+        }
+        .box-left {
+            overflow:hidden;
+            width: 250px;
+            height: 350px;
+            background-color:red;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            margin-left: 0;
+        }
+
+        .content-center{
+            max-width: 800px;
+            margin-right: 210px;
+            margin-top: 100px;       
+            text-align: center;
+        }
+        .logo-brand{
+            min-width: 160px;
+            max-width: 180px;
+            margin-left: 0;
+        }
+        .margin-top{
+            margin-top: 111px;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+    <div class="container">
+       <a class="navbar-brand" href="#"><img src="../imagenes/Nuevo Ciclo Logo.png" class="logo-brand" alt="logo"></a>
+        <div class="text-center content-center margin-top">
+            <ul class="nav justify-content-center">
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link active" href="../components/Conocenos.html">CONÓCENOS</a></div>
+            </li>
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link" href="#">CATEGORÍAS</a></div>
+            </li>
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link" href="../index.html"> PRINCIPAL</a></div>
+            </li>
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link" href="#">COMENTARIOS</a></div>
+            </li>
+        </ul>
+        </div>
+    </div>
+    </nav>
+
+
+    <div class="container">
+
+        <div class="box-blue text-center">
+            <h1 class="color-white">ÚNETE</h1>
+            <p class="color-white text-center">
+            <b>¿Estás interesado en formar <br>parte de nuestro directorio?</b>
+            </p>
+            <p class="color-white text-center">
+            Escoge tu categoría y da click en <b>RECIBIR</b> para registrar tu empresa de gestión de residuos
+            </p>
+        </div>
+        
+        <div class="box-left"> 
+            <h1>xD</h1>
+        </div>
+    </div>
+</body>
+
+</html>
 
