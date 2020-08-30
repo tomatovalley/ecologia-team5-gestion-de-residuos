@@ -1,4 +1,4 @@
-# Equipo 5:  Gestión de residuos
+# Equipo 5:  Gestión de residuos NUEVO CICLO
 
 Página Web dónde podrás encontrar información referente a lugares a dónde llevar residuos como medicinas, pilas, desperdicios electrónicos 
 
@@ -19,5 +19,5 @@ Diagrama de flujo
 
 
 
-Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
+Para acceder a la página ingresa a : [NUEVO CICLO](https://nuevociclo77.github.io)
 
