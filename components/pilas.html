@@ -18,13 +18,156 @@
 
 
     <title>Pilas</title>
+<style>
+     h3 {
+            text-align: center;
+        }
+        
+        h1 {
+            font-family: 'Bebas Neue', cursive;
+            font-size: 50px;
+        }
+        
+        a {
+            font-family: 'Bebas Neue', cursive;
+            font-size: 27px;
+        }
+        
+        h2 {
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        p {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 20px;
+        }
+        
+        .img-fluid {
+            opacity: 1;
+            display: block;
+            width: 100%;
+            height: auto;
+            transition: .5s ease;
+            backface-visibility: hidden;
+        }
+        
+        .middle {
+            transition: .5s ease;
+            opacity: 0.1;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .middle>a {
+            color: black;
+        }
+        
+        .middle>a:hover {
+            border-bottom-color: rgba(255, 255, 255, .25);
+            color: darkolivegreen;
+        }
+        
+        .col-md-4:hover .img-fluid {
+            opacity: 0.3;
+        }
+        
+        .col-md-4:hover .middle {
+            opacity: 1;
+            border-bottom-color: greenyellow;
+        }
+        
+        .text {
+            color: black;
+            font-size: 16px;
+            padding: 60px 60px;
+        }
+        
+        .navbar {
+            background-color: #031c3d;
+            min-height: 200px;
+            margin-bottom: 80px;
+            padding-bottom: 0;
+        }
+        
+        #background-white {
+            background-color: white;
+            height: 80px;
+        }
+        
+        #color-blue {
+            color: #031c3d;
+        }
+        
+        .color-white {
+            color: white;
+        }
+        
+        .box-blue {
+            overflow: hidden;
+            width: 650px;
+            height: 200px;
+            padding: 20px;
+            background-color: #031c3d;
+            border-radius: 20px;
+            margin: 0 auto;
+            margin-bottom: 50px;
+        }
+        
+        .box-white {
+            overflow: hidden;
+            padding: 20px;
+            background-color: white;
+            border-radius: 2px;
+            margin-left: 5px;
+        }
+        
+        .content-center {
+            max-width: 800px;
+            margin-right: 220px;
+            margin-top: 100px;
+            text-align: center;
+        }
+        
+        .logo-brand {
+            min-width: 160px;
+            max-width: 180px;
+            margin-left: 0;
+        }
+        
+        .margin-top {
+            margin-top: 111px;
+        }
+    </style>
 </head>
 
 <body>
+<nav class="navbar">
     <div class="container">
-        <div class="bg-dark py-4 text-center">
-            <a href="#" class="text-white p-2 lead">LogoResiduo</a>
+       <a class="navbar-brand" href="#"><img src="../imagenes/Nuevo Ciclo Logo.png" class="logo-brand" alt="logo"></a>
+        <div class="text-center content-center margin-top">
+            <ul class="nav justify-content-center">
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link active" href="../index.html">PRINCIPAL</a></div>
+            </li>
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link" href="#">CATEGORÍAS</a></div>
+            </li>
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link" href="#">ÚNETE</a></div>
+            </li>
+            <li class="nav-item">
+              <div class="box-white"><a class="nav-link" href="#">COMENTARIOS</a></div>
+            </li>
+        </ul>
         </div>
+    </div>
+    </nav>
+    <div class="container">
+        
 
         <div class="bg-warning text-center py-5">
             <h1>Nombre App</h1>
