@@ -64,10 +64,15 @@
             font-size: 16px;
             padding: 60px 60px;
         }
+        .background-color{
+            background-color: darkblue;
+            color: white;
+        }
     </style>
 </head>
 
 <body>
+    <nav class="background-color fixed-top">
     <div class="container">
         <div class="py-4 text-center">
             <ul class="nav justify-content-center">
@@ -86,11 +91,8 @@
         </ul>
         </div>
     </div>
-    
+    </nav>
     <div class="container">
-        <div class="bg-dark py-4 text-center">
-            <a href="#" class="text-white p-2 lead">LogoResiduo</a>
-        </div>
         <div class="bg-warning text-center py-5">
             <h1>Nombre App</h1>
             <p class="lead" id="prueba">{{ message }}</p>
