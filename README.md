@@ -19,5 +19,5 @@ Diagrama de flujo
 
 
 
-Para acceder a la página ingresa a : [NUEVO CICLO](https://nuevociclo77.github.io)
+Para acceder a la página ingresa a : [NUEVO CICLO](https://tomatovalley.github.io/ecologia-team5-gestion-de-residuos/)
 
