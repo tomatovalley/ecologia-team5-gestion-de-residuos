@@ -76,6 +76,7 @@
      text-align: center;
      color: #7ed957;
  }
+ /* text Boxes*/
  
  .jumbotron {
      margin: 120px 10px 40px 10px;
@@ -94,6 +95,16 @@
  .text-dir h4 {
      font-family: 'Open Sans', sans-serif;
      color: #031c3d;
+ }
+ /* Categories Card boxes */
+ 
+ .residues-cards {
+     margin: 140px 10px 40px 10px;
+ }
+ 
+ .residues-cards h3 {
+     background-color: #031c3d;
+     color: white;
  }
  /*
  FOOTER
@@ -136,11 +147,11 @@
      color: darkolivegreen;
  }
  
- .col-md-4:hover .img-fluid {
+ .category:hover .img-fluid {
      opacity: 0.3;
  }
  
- .col-md-4:hover .middle {
+ .category:hover .middle {
      opacity: 1;
      border-bottom-color: greenyellow;
  }

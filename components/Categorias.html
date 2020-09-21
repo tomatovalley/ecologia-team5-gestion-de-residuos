@@ -8,163 +8,66 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!--Fontawesome-->
+    <script src="https://kit.fontawesome.com/9f8e8fc542.js" crossorigin="anonymous"></script>
 
-    <title>Categorias</title>
-    <style>
-        h3 {
-            text-align: center;
-        }
-        h1{
-            font-family: 'Bebas Neue', cursive;
-            font-size: 50px;
-        }
-        a{
-            font-family: 'Bebas Neue', cursive;
-            font-size: 27px;
-        }
-        h2{
-            font-family: 'Open Sans', sans-serif;
-        }
-        p{
-            font-family: 'Open Sans', sans-serif;
-            font-size: 20px;
-        }
-        
-        .img-fluid {
-            opacity: 1;
-            display: block;
-            width: 100%;
-            height: auto;
-            transition: .5s ease;
-            backface-visibility: hidden;
-        }
-        
-        .middle {
-            transition: .5s ease;
-            opacity: 0.1;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            -ms-transform: translate(-50%, -50%);
-            text-align: center;
-        }
-        
-        .middle>a {
-            color: black;
-        }
-        
-        .middle>a:hover {
-            border-bottom-color: rgba(255, 255, 255, .25);
-            color: darkolivegreen;
-        }
-        
-        .col-md-4:hover .img-fluid {
-            opacity: 0.3;
-        }
-        
-        .col-md-4:hover .middle {
-            opacity: 1;
-            border-bottom-color: greenyellow;
-        }
-        
-        .text {
-            color: black;
-            font-size: 16px;
-            padding: 60px 60px;
-        }
-        .navbar{
-            background-color:#031c3d;
-            min-height: 200px;
-            margin-bottom: 80px;
-            padding-bottom: 0;
-        }
-        #background-white{
-            background-color: white;
-            height: 80px;
-        }
-        #color-blue{
-            color: #031c3d;
-            
-        }
-        .color-white{
-            color: white;
-        }
+    <title>Nuevo Ciclo - Categorias</title>
 
-        .box-blue {
-            overflow:hidden;
-            width: 650px;
-            height: 200px;
-            padding:20px;
-            background-color:#031c3d;
-            border-radius: 20px;
-            margin: 0 auto;
-            margin-bottom: 50px;
-        }
-        .box-white {
-            
-            overflow:hidden;
-            padding:20px;
-            background-color:white;
-            border-radius: 2px;
-            margin-left: 5px;
-        }
-
-        .content-center{
-            max-width: 800px;
-            margin-right: 220px;
-            margin-top: 100px;       
-            text-align: center;
-        }
-        .logo-brand{
-            min-width: 160px;
-            max-width: 180px;
-            margin-left: 0;
-        }
-        .margin-top{
-            margin-top: 111px;
-        }
-    </style>
 </head>
 
 <body>
-    <nav class="navbar">
-    <div class="container">
-        <a class="navbar-brand" href="#"><img src="../imagenes/Nuevo Ciclo Logo.png" class="logo-brand" alt="logo"></a>
+    <!-- Start Navbar-->
+    <div class="main-header fixed-top">
+        <nav class="navbar  navbar-expand-md  container">
+            <a class="navbar-brand" href="../index.html">
+                <img src="../imagenes/NuevoCicloLogo.png " width="80 " height="80 " class="d-inline-block align-center" alt=" " loading="lazy ">Nuevo Ciclo</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #7ed957;">
+                <span class="navbar-toggler-icon" style="color: #031c3d" >
+                    <i class="fas fa-bars" style="padding-top:4px"></i>
+                </span>
+            </button>
+            <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                <ul class="nav nav-tabs m-auto">
+                    <li class="nav-item  align-text-bottom">
+                        <a class="nav-link  align-text-bottom" href="../index.html">INICIO</a>
+                    </li>
+                    <li class="nav-item align-text-bottom ">
+                        <a class="nav-link align-text-bottom " href="Conocenos.html ">CONÓCENOS</a>
 
-        <div class="text-center content-center margin-top ">
-            <ul class="nav justify-content-center">
-                <li class="nav-item">
-                  <div class="box-white"><a class="nav-link active" href="Conocenos.html">CONÓCENOS</a></div>
-                </li>
-                <li class="nav-item">
-                  <div class="box-white"><a class="nav-link" href="../index.html">PRINCIPAL</a></div>
-                </li>
-                <li class="nav-item">
-                  <div class="box-white"><a class="nav-link" href="Unete.html">ÚNETE</a></div>
-                </li>
-                <li class="nav-item">
-                  <div class="box-white"><a class="nav-link" href="#">COMENTARIOS</a></div>
-                </li>
-            </ul>
-        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link active align-text-bottom " href="Categorias.html ">CATEGORÍAS</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link " href="Unete.html ">ÚNETE</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link " href="#">COMENTARIOS</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
     </div>
-    </nav>
+    <!--End Navbar-->
 
+    <!--Start Category Cards  -->
 
-    <div class="row align-items-center">
-        <div class="col-md-4 ">
-
-            <h3>Pilas</h3>
-            <hr>
-            <img src="../imagenes/pilas.jpg " alt=" " class="img-fluid rounded " style="width:100% ">
+    <div class="residues-cards row align-items-center">
+        <div class="category col-md-3 text-center">
+            <div>
+                <h3 class="py-4 rounded-top">PILAS</h3>
+            </div>
+            <img src="../imagenes/pilas.jpg " alt="" class="card-img-bottom img-fluid rounded " style="width:100% ">
             <ul class="nav flex-column middle text-center ">
                 <li class="nav-item ">
                     <a class="nav-link active " href="pilas.html ">Donador</a>
@@ -176,8 +79,7 @@
 
         </div>
         <div class="col-md-4 text-center ">
-            <h3>Medicinas</h3>
-            <hr>
+            <h3 class="py-4 rounded-top">MEDICINAS CADUCAS</h3>
             <img src="../imagenes/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash.jpg " alt=" " class="img-fluid rounded ">
             <ul class="nav flex-column middle text-center ">
                 <li class="nav-item ">
@@ -187,14 +89,11 @@
                     <a class="nav-link " href="# ">Receptor</a>
                 </li>
             </ul>
-
-
-            
         </div>
 
         <div class="col-md-4 text-center ">
-            <h3>e-waste</h3>
-            <hr>
+            <h3 class="py-4 rounded-top">e-waste</h3>
+
             <img src="../imagenes/markus-spiske-f6IS1bAZao4-unsplash.jpg " alt=" " class="img-fluid rounded ">
             <ul class="nav flex-column middle text-center ">
                 <li class="nav-item ">
@@ -207,27 +106,32 @@
 
         </div>
     </div>
-    <div class="row ">
-        <div class="col-md-6 ">
-            <h3>Aceite de cocina</h3>
-            <hr>
-        </div>
-        <div class="col-md-6 ">
-            <h3>Tetra Pak</h3>
-            <hr>
-        </div>
-    </div>
-    <footer>
-        <a href='https://www.freepik.com/photos/background'>Background photo created by rawpixel.com - www.freepik.com</a>
-        <span>Photo by <a
+
+    <!--End Category Cards  -->
+
+
+    <!--Start Footer -->
+    <footer class="mt-5 py-4 text-center ">
+        <div class="container ">
+            <a href='https://www.freepik.com/photos/background'>Background photo created by rawpixel.com - www.freepik.com</a>
+            <span>Photo by <a
                 href="https://unsplash.com/@lunarts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText ">Volodymyr
                 Hryshchenko</a> on <a
                 href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText ">Unsplash</a></span>
-        <span>Photo by <a
+            <span>Photo by <a
                 href="https://unsplash.com/@floweichelt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText ">Florian
                 Weichelt</a> on <a
                 href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText ">Unsplash</a></span>
+
+            <p>
+                &copy; Copyright 2020. Nuevo Ciclo
+            </p>
+
+        </div>
+
+
     </footer>
+    <!--End Footer -->
 </body>
 
 </html>
