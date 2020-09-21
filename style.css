@@ -102,7 +102,7 @@
      margin: 140px 10px 40px 10px;
  }
  
- .residues-cards h3 {
+ .residues-cards .card {
      background-color: #031c3d;
      color: white;
  }
@@ -131,20 +131,26 @@
      transition: .5s ease;
      opacity: 0.1;
      position: absolute;
-     top: 50%;
+     top: 70%;
      left: 50%;
      transform: translate(-50%, -50%);
      -ms-transform: translate(-50%, -50%);
      text-align: center;
  }
  
- .middle>a {
-     color: black;
+ .card-body h3 {
+     font-size: 30px;
+     letter-spacing: 3px;
  }
  
- .middle>a:hover {
-     border-bottom-color: rgba(255, 255, 255, .25);
-     color: darkolivegreen;
+ .middle a {
+     color: white;
+     font-size: 30px;
+ }
+ 
+ .middle a:hover {
+     border-bottom-color: ;
+     color: #7ed957;
  }
  
  .category:hover .img-fluid {
