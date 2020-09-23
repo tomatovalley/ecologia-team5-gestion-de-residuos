@@ -79,7 +79,7 @@
  /* text Boxes*/
  
  .jumbotron {
-     margin: 120px 10px 40px 10px;
+     margin: 160px 10px 40px 10px;
      background-color: #031c3d;
      color: white;
  }
@@ -99,12 +99,23 @@
  /* Categories Card boxes */
  
  .residues-cards {
-     margin: 140px 10px 40px 10px;
+     margin: 160px 10px 40px 10px;
  }
  
  .residues-cards .card {
      background-color: #031c3d;
      color: white;
+ }
+ 
+ .card-deck {
+     margin-top: 160px;
+ }
+ 
+ .card-deck .card {
+     background-color: #031c3d;
+     color: white;
+     justify-content: center;
+     align-items: center;
  }
  
  .img-fluid {
@@ -140,9 +151,17 @@
      background-color: #7ed957;
  }
  
+ .container .card-deck .card .card-body .jumbotron {
+     margin: 0;
+     background-color: #031c3d;
+     color: white;
+ }
+ 
  .card-body h3 {
      font-size: 30px;
      letter-spacing: 3px;
+     justify-content: center;
+     align-items: center;
  }
  
  .category:hover .img-fluid {
