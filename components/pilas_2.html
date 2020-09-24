@@ -103,6 +103,7 @@
 
 
     </div>
+    <!-- Start  list of containers by Colonia -->
 
     <div class="container text-center" id="app-listado">
         <h1 id="alcaldia-heading"></h1>
@@ -110,23 +111,9 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <hr>
-                <div V-for="lugares in lista">
-                    <p> Estatus: {{lugares.ESTATUS}}</p>
-                    <p> Ubicación: {{lugares.UBICACIÓN}}</p>
-                    <p> Alcaldía: {{lugares.ALCALDIA}}</p>
-                    <p> Colonia: {{lugares.COLONIA}}</p>
-                    <p> C.P.: {{lugares.CP}}</p>
-                    <hr>
-
+                <div id="lista-cont-colonia">
                 </div>
-
-
-
             </div>
-
-
-
-
         </div>
 
 
@@ -223,10 +210,7 @@
                 var selected_colonia_info = alcaldia_info.filter(function(entry) {
                     return entry.COLONIA === getColonia;
                 });
-
-                //remove duplicates
-                selected_colonia_info = [...new Set(selected_colonia_info)];
-                console.log(selected_colonia_info);
+                show_colonia_info(selected_colonia_info);
             }
 
             function remove_all_childnodes(parent) {
@@ -240,7 +224,35 @@
                 document.getElementById("colonia-heading").innerHTML = 'Contenedores en la colonia ' + getColonia;
             }
 
-            function show_colonia_info(jsonObj) {}
+            function show_colonia_info(jsonObj) {
+                var listas = document.getElementById("lista-cont-colonia");
+                for (let i = 0; i < jsonObj.length; i++) {
+                    const contenido = document.createElement('contenido');
+                    const estatus = document.createElement('p');
+                    const ubicacion = document.createElement('p');
+                    const alcaldia = document.createElement('p');
+                    const colonia = document.createElement('p');
+                    const cod_pos = document.createElement('p');
+                    const line_bar = document.createElement('hr');
+                    estatus.textContent = 'Estatus: ' + jsonObj[i].ESTATUS;
+                    ubicacion.textContent = 'Ubicación: ' + jsonObj[i].UBICACIÓN;
+                    alcaldia.textContent = 'Alcaldía: ' + jsonObj[i].ALCALDIA;
+                    colonia.textContent = 'Colonia: ' + jsonObj[i].COLONIA;
+                    cod_pos.textContent = 'C. P. : ' + jsonObj[i].CP;
+
+                    //console.log(jsonObj[i].ESTATUS);
+                    contenido.appendChild(estatus);
+                    contenido.appendChild(ubicacion);
+                    contenido.appendChild(alcaldia);
+                    contenido.appendChild(colonia);
+                    contenido.appendChild(cod_pos);
+                    contenido.appendChild(line_bar);
+                    listas.appendChild(contenido);
+
+                }
+
+
+            }
         </script>
 
 
