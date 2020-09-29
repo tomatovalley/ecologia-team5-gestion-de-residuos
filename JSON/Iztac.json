@@ -1,182 +1,92 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD PASANDO CALZ. COYUYA.",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
-        "SENTIDO": "P-O",
         "COLONIA": "MAGDALENA MIXHUCA",
-        "CP": 8010.0
-    },
-    {
+        "CP": 8010,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD PASANDO CALZ. COYUYA.",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
         "SENTIDO": "P-O",
-        "COLONIA": "MAGDALENA MIXHUCA",
-        "CP": 8010.0
+        "UBICACIÓN": "AV. VIADUCTO RÍO DE LA PIEDAD PASANDO CALZ. COYUYA.",
+        "VÍA PRINCIPAL": "CONGRESO DE LA UNIÓN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AV. R\u00cdO CHURUBUSCO PASANDO CALLE ATLETAS.",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
-        "SENTIDO": "N-S",
         "COLONIA": "GRANJAS MEXICO",
-        "CP": 8400.0
-    },
-    {
+        "CP": 8400,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AV. R\u00cdO CHURUBUSCO PASANDO CALLE ATLETAS.",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
         "SENTIDO": "N-S",
-        "COLONIA": "GRANJAS MEXICO",
-        "CP": 8400.0
+        "UBICACIÓN": "CIRCUITO INTERIOR AV. RÍO CHURUBUSCO PASANDO CALLE ATLETAS.",
+        "VÍA PRINCIPAL": "CHURUBUSCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. TEZONTLE - CTO. INTERIOR R\u00cdO CHURUBUSCO",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
-        "SENTIDO": "P-O",
         "COLONIA": "IZTACALCO INFONAVIT",
-        "CP": 8040.0
+        "CP": 8040,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. TEZONTLE - CTO. INTERIOR RÍO CHURUBUSCO",
+        "VÍA PRINCIPAL": "CHURUBUSCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. TEZONTLE - CTO. INTERIOR R\u00cdO CHURUBUSCO",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "IZTACALCO INFONAVIT",
-        "CP": 8040.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA PASANDO CALLE PLAYA PESCADORES.",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
         "COLONIA": "REFORMA IZTACCIHUATL SUR",
-        "CP": 8840.0
+        "CP": 8840,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA PASANDO CALLE PLAYA PESCADORES.",
+        "VÍA PRINCIPAL": "EJE 6"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA PASANDO CALLE PLAYA PESCADORES.",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
         "COLONIA": "REFORMA IZTACCIHUATL SUR",
-        "CP": 8840.0
+        "CP": 8840,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA - CALLE PLAYA CLAVELITOS.",
+        "VÍA PRINCIPAL": "EJE 6"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA - CALLE PLAYA CLAVELITOS.",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
-        "COLONIA": "REFORMA IZTACCIHUATL SUR",
-        "CP": 8840.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA - CALLE PLAYA CLAVELITOS.",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
-        "COLONIA": "REFORMA IZTACCIHUATL SUR",
-        "CP": 8840.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD - EJE 3 SUR.",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
-        "SENTIDO": "P-O",
         "COLONIA": "JARDIN BALBUENA",
-        "CP": 8400.0
-    },
-    {
+        "CP": 8400,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD - EJE 3 SUR.",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
         "SENTIDO": "P-O",
-        "COLONIA": "JARDIN BALBUENA",
-        "CP": 8400.0
+        "UBICACIÓN": "AV. VIADUCTO RÍO DE LA PIEDAD - EJE 3 SUR.",
+        "VÍA PRINCIPAL": "EJE 3"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 OTE. AV. FCO. DEL PASO Y TRONCOSO - CALLE 10 DE MARZO ( OTE. ).",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
-        "SENTIDO": "S-N",
         "COLONIA": "IZTACALCO INFONAVIT",
-        "CP": 8900.0
+        "CP": 8900,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE 3 OTE. AV. FCO. DEL PASO Y TRONCOSO - CALLE 10 DE MARZO ( OTE. ).",
+        "VÍA PRINCIPAL": "EJE 3"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 OTE. AV. FCO. DEL PASO Y TRONCOSO - CALLE 10 DE MARZO ( OTE. ).",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
-        "SENTIDO": "S-N",
-        "COLONIA": "IZTACALCO INFONAVIT",
-        "CP": 8900.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "FCO. DEL PASO Y TRONCOSO ESQ. TRABAJADORES SOCIALES ABAJO DEL PUENTE",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
-        "SENTIDO": "S-N",
         "COLONIA": "MAGDALENA ATLAZOLPA",
-        "CP": 9410.0
-    },
-    {
+        "CP": 9410,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "FCO. DEL PASO Y TRONCOSO ESQ. TRABAJADORES SOCIALES ABAJO DEL PUENTE",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
         "SENTIDO": "S-N",
-        "COLONIA": "MAGDALENA ATLAZOLPA",
-        "CP": 9410.0
+        "UBICACIÓN": "FCO. DEL PASO Y TRONCOSO ESQ. TRABAJADORES SOCIALES ABAJO DEL PUENTE",
+        "VÍA PRINCIPAL": "EJE 3"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR - CTO. INT. R\u00cdO CHURUBUSCO",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "A\u00d1IL",
+        "COLONIA": "UNIDAD DEPORTIVA MAGDALENA MIXHUCA",
+        "CP": 8400,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "O-P",
-        "COLONIA": "UNIDAD DEPORTIVA MAGDALENA MIXHUCA",
-        "CP": 8400.0
+        "UBICACIÓN": "EJE 3 SUR - CTO. INT. RÍO CHURUBUSCO",
+        "VÍA PRINCIPAL": "AÑIL"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR - CTO. INT. R\u00cdO CHURUBUSCO",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "A\u00d1IL",
-        "SENTIDO": "O-P",
         "COLONIA": "UNIDAD DEPORTIVA MAGDALENA MIXHUCA",
-        "CP": 8400.0
-    },
-    {
+        "CP": 8400,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR A\u00d1IL ESQ. CANELA FRENTE ENTRADA PISTA DE PATINAJE",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "A\u00d1IL",
         "SENTIDO": "S-N",
-        "COLONIA": "UNIDAD DEPORTIVA MAGDALENA MIXHUCA",
-        "CP": 8400.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR A\u00d1IL ESQ. CANELA FRENTE ENTRADA PISTA DE PATINAJE",
-        "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "A\u00d1IL",
-        "SENTIDO": "S-N",
-        "COLONIA": "UNIDAD DEPORTIVA MAGDALENA MIXHUCA",
-        "CP": 8400.0
+        "UBICACIÓN": "EJE 3 SUR AÑIL ESQ. CANELA FRENTE ENTRADA PISTA DE PATINAJE",
+        "VÍA PRINCIPAL": "AÑIL"
     }
 ]

@@ -1,236 +1,119 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CULTURA NORTE Y AV. DE LAS CULTURAS.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
+        "COLONIA": "INFONAVIT EL ROSARIO",
+        "CP": 2125,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "N-S",
-        "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2125.0
+        "UBICACIÓN": "AV. CULTURA NORTE Y AV. DE LAS CULTURAS.",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CULTURA NORTE Y AV. DE LAS CULTURAS.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "N-S",
         "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2125.0
-    },
-    {
+        "CP": 2120,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DE LAS CULTURAS Y CALLE MERCADERES.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
         "SENTIDO": "O-P",
-        "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2120.0
+        "UBICACIÓN": "AV. DE LAS CULTURAS Y CALLE MERCADERES.",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DE LAS CULTURAS Y CALLE MERCADERES.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
+        "COLONIA": "INFONAVIT EL ROSARIO",
+        "CP": 2100,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "O-P",
-        "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2120.0
+        "UBICACIÓN": "AV. AQUILES SERDÁN - ESQ. CALLE RÍO BLANCO.",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. AQUILES SERD\u00c1N - ESQ. CALLE R\u00cdO BLANCO.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "O-P",
-        "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2100.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. AQUILES SERD\u00c1N - ESQ. CALLE R\u00cdO BLANCO.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "O-P",
-        "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2100.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INVIERNO - ESQ. AV. AQUILES SERD\u00c1N.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "P-O",
         "COLONIA": "ANGEL ZIMBRON",
-        "CP": 2099.0
-    },
-    {
+        "CP": 2099,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INVIERNO - ESQ. AV. AQUILES SERD\u00c1N.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
         "SENTIDO": "P-O",
-        "COLONIA": "ANGEL ZIMBRON",
-        "CP": 2099.0
+        "UBICACIÓN": "AV. INVIERNO - ESQ. AV. AQUILES SERDÁN.",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - AV. DE LAS GRANJAS.    - DEP\u00d3SITO DE PEPSI",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "EJE 5 NORTE",
-        "SENTIDO": "O-P",
         "COLONIA": "SANTA BARBARA",
-        "CP": 2110.0
+        "CP": 2110,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - AV. DE LAS GRANJAS.    - DEPÓSITO DE PEPSI",
+        "VÍA PRINCIPAL": "EJE 5 NORTE"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - AV. DE LAS GRANJAS.    - DEP\u00d3SITO DE PEPSI",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "EJE 5 NORTE",
-        "SENTIDO": "O-P",
-        "COLONIA": "SANTA BARBARA",
-        "CP": 2110.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. AQUILES SERD\u00c1N - PASANDO  CALLE PRIVADA 16 DE SEPTIEMBRE.  -",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "O-P",
         "COLONIA": "PASTEROS",
-        "CP": 2150.0
-    },
-    {
+        "CP": 2150,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. AQUILES SERD\u00c1N - PASANDO  CALLE PRIVADA 16 DE SEPTIEMBRE.  -",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
         "SENTIDO": "O-P",
-        "COLONIA": "PASTEROS",
-        "CP": 2150.0
+        "UBICACIÓN": "AV. AQUILES SERDÁN - PASANDO  CALLE PRIVADA 16 DE SEPTIEMBRE.  -",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HACIENDA EL ROSARIO Y AV. HACIENDA DE SOTELO ( MANUEL SALAZAR )  - ACCESO AL PARQUE TEZOZOMOC",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "P-O",
         "COLONIA": "PEMEX PRADOS DEL ROSARIO",
-        "CP": 2410.0
+        "CP": 2410,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. HACIENDA EL ROSARIO Y AV. HACIENDA DE SOTELO ( MANUEL SALAZAR )  - ACCESO AL PARQUE TEZOZOMOC",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HACIENDA EL ROSARIO Y AV. HACIENDA DE SOTELO ( MANUEL SALAZAR )  - ACCESO AL PARQUE TEZOZOMOC",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "P-O",
-        "COLONIA": "PEMEX PRADOS DEL ROSARIO",
-        "CP": 2410.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE SANTA APOLONIA - ESQ. AV. AQUILES SERD\u00c1N.  - METRO CAMARONES",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "P-O",
         "COLONIA": "BARRIO NEXTENGO",
-        "CP": 2730.0
-    },
-    {
+        "CP": 2730,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE SANTA APOLONIA - ESQ. AV. AQUILES SERD\u00c1N.  - METRO CAMARONES",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
         "SENTIDO": "P-O",
-        "COLONIA": "BARRIO NEXTENGO",
-        "CP": 2730.0
+        "UBICACIÓN": "EJE 3 NORTE SANTA APOLONIA - ESQ. AV. AQUILES SERDÁN.  - METRO CAMARONES",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - ESQ.  AV. FERROCARRIL CENTRAL.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "EJE 5 NORTE",
-        "SENTIDO": "N-S",
         "COLONIA": "NUEVA AMPL EL ROSARIO",
-        "CP": 2220.0
-    },
-    {
+        "CP": 2220,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - ESQ.  AV. FERROCARRIL CENTRAL.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "EJE 5 NORTE",
         "SENTIDO": "N-S",
-        "COLONIA": "NUEVA AMPL EL ROSARIO",
-        "CP": 2220.0
+        "UBICACIÓN": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - ESQ.  AV. FERROCARRIL CENTRAL.",
+        "VÍA PRINCIPAL": "EJE 5 NORTE"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - ESQ. AV. HELIOPOLIS.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
         "COLONIA": "LOTERIA NACIONAL",
-        "CP": 2080.0
+        "CP": 2080,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 3 NORTE CALZ. CAMARONES - ESQ. AV. HELIOPOLIS.",
+        "VÍA PRINCIPAL": "CALZ. CAMARONES"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - ESQ. AV. HELIOPOLIS.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
-        "COLONIA": "LOTERIA NACIONAL",
-        "CP": 2080.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - PASANDO AV. BI\u00d3LOGO MAXIMINO MART\u00cdNEZ.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
         "COLONIA": "SAN SALVADOR XOCHIMANCA",
-        "CP": 2870.0
+        "CP": 2870,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 3 NORTE CALZ. CAMARONES - PASANDO AV. BIÓLOGO MAXIMINO MARTÍNEZ.",
+        "VÍA PRINCIPAL": "CALZ. CAMARONES"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - PASANDO AV. BI\u00d3LOGO MAXIMINO MART\u00cdNEZ.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
-        "COLONIA": "SAN SALVADOR XOCHIMANCA",
-        "CP": 2870.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - ESQ. NORTE 87 B",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
         "COLONIA": "LOTERIA NACIONAL",
-        "CP": 2070.0
+        "CP": 2070,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 3 NORTE CALZ. CAMARONES - ESQ. NORTE 87 B",
+        "VÍA PRINCIPAL": "CALZ. CAMARONES"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - ESQ. NORTE 87 B",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
-        "COLONIA": "LOTERIA NACIONAL",
-        "CP": 2070.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - ESQ. CALLE NORTE 67.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
-        "SENTIDO": "P-O",
         "COLONIA": "OBRERO POPULAR",
-        "CP": 2840.0
-    },
-    {
+        "CP": 2840,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 NORTE CALZ. CAMARONES - ESQ. CALLE NORTE 67.",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "CALZ. CAMARONES",
         "SENTIDO": "P-O",
-        "COLONIA": "OBRERO POPULAR",
-        "CP": 2840.0
+        "UBICACIÓN": "EJE 3 NORTE CALZ. CAMARONES - ESQ. CALLE NORTE 67.",
+        "VÍA PRINCIPAL": "CALZ. CAMARONES"
     }
 ]

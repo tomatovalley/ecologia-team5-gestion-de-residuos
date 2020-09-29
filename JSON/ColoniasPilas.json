@@ -1,532 +1,488 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CULTURA NORTE Y AV. DE LAS CULTURAS.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "N-S",
         "COLONIA": "INFONAVIT EL ROSARIO",
-        "CP": 2125.0
+        "CP": 2125.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AV. CULTURA NORTE Y AV. DE LAS CULTURAS.",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INVIERNO - ESQ. AV. AQUILES SERD\u00c1N.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
-        "SENTIDO": "P-O",
         "COLONIA": "ANGEL ZIMBRON",
-        "CP": 2099.0
+        "CP": 2099.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. INVIERNO - ESQ. AV. AQUILES SERDÁN.",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - AV. DE LAS GRANJAS.    - DEP\u00d3SITO DE PEPSI",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "EJE 5 NORTE",
-        "SENTIDO": "O-P",
         "COLONIA": "SANTA BARBARA",
-        "CP": 2110.0
-    },
-     {
+        "CP": 2110.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. AQUILES SERD\u00c1N - PASANDO  CALLE PRIVADA 16 DE SEPTIEMBRE.  -",
-        "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "AQUILES SERD\u00c1N",
         "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - AV. DE LAS GRANJAS.    - DEPÓSITO DE PEPSI",
+        "VÍA PRINCIPAL": "EJE 5 NORTE"
+    },
+    {
+        "ALCALDIA": "AZCAPOTZALCO",
         "COLONIA": "PASTEROS",
-        "CP": 2150.0
+        "CP": 2150.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. AQUILES SERDÁN - PASANDO  CALLE PRIVADA 16 DE SEPTIEMBRE.  -",
+        "VÍA PRINCIPAL": "AQUILES SERDÁN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - ESQ.  AV. FERROCARRIL CENTRAL.",
         "ALCALDIA": "AZCAPOTZALCO",
-        "V\u00cdA PRINCIPAL": "EJE 5 NORTE",
-        "SENTIDO": "N-S",
         "COLONIA": "NUEVA AMPL EL ROSARIO",
-        "CP": 2220.0
+        "CP": 2220.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "EJE 5 NORTE AV. DEPORTIVO REYNOSA - ESQ.  AV. FERROCARRIL CENTRAL.",
+        "VÍA PRINCIPAL": "EJE 5 NORTE"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y CALLE AJUSCO",
         "ALCALDIA": "BENITO JUAREZ",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
         "COLONIA": "PORTALES NORTE",
-        "CP": 3300.0
+        "CP": 3300.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZADA DE TLALPAN Y CALLE AJUSCO",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. DE TLALPAN - CALLE ING. PASCUAL ORTIZ RUBIO",
         "ALCALDIA": "BENITO JUAREZ",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
         "COLONIA": "ZACAHUITZCO",
-        "CP": 3660.0
+        "CP": 3660.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZ. DE TLALPAN - CALLE ING. PASCUAL ORTIZ RUBIO",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. DEL OBRERO MUNDIAL - ESQ. CALZ. DE TLALPAN",
         "ALCALDIA": "BENITO JUAREZ",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "P-O",
         "COLONIA": "ALAMOS",
-        "CP": 3400.0
+        "CP": 3400.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALZ. DEL OBRERO MUNDIAL - ESQ. CALZ. DE TLALPAN",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES SUR - CALLE DAMAS -  TORRE INSURGENTES",
         "ALCALDIA": "BENITO JUAREZ",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "CREDITO CONSTRUCTOR",
-        "CP": 3900.0
+        "CP": 3900.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AV. INSURGENTES SUR - CALLE DAMAS -  TORRE INSURGENTES",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BULEVAR ADOLFO L\u00d3PEZ MATEOS Y AVENIDA SAN ANTONIO",
         "ALCALDIA": "BENITO JUAREZ",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (PONIENTE)",
-        "SENTIDO": "N-S",
         "COLONIA": "INHAB",
-        "CP": 3800.0
+        "CP": 3800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "ANILLO PERIFÉRICO BULEVAR ADOLFO LÓPEZ MATEOS Y AVENIDA SAN ANTONIO",
+        "VÍA PRINCIPAL": "PERIFÉRICO (PONIENTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. ESTADIO AZTECA ESQ. CALZADA DE TLALPAN",
         "ALCALDIA": "COYOACAN",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "P-O",
         "COLONIA": "SANTA URSULA COAPA",
-        "CP": 4600.0
+        "CP": 4600.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. ESTADIO AZTECA ESQ. CALZADA DE TLALPAN",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ.AV. RIO CHURUBUSCO",
         "ALCALDIA": "COYOACAN",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
         "COLONIA": "CHURUBUSCO",
-        "CP": 4120.0
+        "CP": 4120.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZADA DE TLALPAN, ESQ.AV. RIO CHURUBUSCO",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN, ESQ. HEROES DEL 47",
         "ALCALDIA": "COYOACAN",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
         "COLONIA": "COUNTRY CLUB",
-        "CP": 4120.0
-    },
-    {
+        "CP": 4120.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y AMERICA",
-        "ALCALDIA": "COYOACAN",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
         "SENTIDO": "N-S",
-        "COLONIA": "PARQUE SAN ANDRES",
-        "CP": 4040.0
+        "UBICACIÓN": "CALZADA DE TLALPAN, ESQ. HEROES DEL 47",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y AMERICA",
         "ALCALDIA": "COYOACAN",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
         "COLONIA": "PARQUE SAN ANDRES",
-        "CP": 4040.0
+        "CP": 4040.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZADA DE TLALPAN Y AMERICA",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CANTERA Y CALLE HIDALGO.",
         "ALCALDIA": "GUSTAVO A. MADERO",
-        "V\u00cdA PRINCIPAL": "REFORMA (NORTE)",
-        "SENTIDO": "O-P",
         "COLONIA": "GUSTAVO A MADERO",
-        "CP": 7010.0
+        "CP": 7010.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. CANTERA Y CALLE HIDALGO.",
+        "VÍA PRINCIPAL": "REFORMA (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y AV. CALLAO. ( SE DESTAPAN PARA VALIDAR SI SE PUEDE PONER)",
         "ALCALDIA": "GUSTAVO A. MADERO",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
-        "SENTIDO": "O-P",
         "COLONIA": "LINDAVISTA",
-        "CP": 7300.0
+        "CP": 7300.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE 5 NORTE AV. MONTEVIDEO Y AV. CALLAO. ( SE DESTAPAN PARA VALIDAR SI SE PUEDE PONER)",
+        "VÍA PRINCIPAL": "INSURGENTES (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 5 NORTE AV. MONTEVIDEO Y AV. INSTITUTO POLIT\u00c9CNICO NACIONAL.",
         "ALCALDIA": "GUSTAVO A. MADERO",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
-        "SENTIDO": "O-P",
         "COLONIA": "PLANETARIO LINDAVISTA",
-        "CP": 7300.0
-    },
-     {
+        "CP": 7300.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "OTH\u00d3N DE MENDIZ\u00c1BAL \u2013 MIGUEL BERNARD",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE 5 NORTE AV. MONTEVIDEO Y AV. INSTITUTO POLITÉCNICO NACIONAL.",
+        "VÍA PRINCIPAL": "INSURGENTES (NORTE)"
+    },
+    {
         "ALCALDIA": "GUSTAVO A. MADERO",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
-        "SENTIDO": "S-N",
         "COLONIA": "TORRES LINDAVISTA",
-        "CP": 7360.0
+        "CP": 7360.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "OTHÓN DE MENDIZÁBAL – MIGUEL BERNARD",
+        "VÍA PRINCIPAL": "INSURGENTES (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 8 SUR CALZ. ERMITA IZTAPALAPA Y CALLE CASCADA.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "EL PRADO",
-        "CP": 9450.0
+        "CP": 9450.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 8 SUR CALZ. ERMITA IZTAPALAPA Y CALLE CASCADA.",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - AV. ERMITA IZTAPALAPA.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "BARRIO SAN LUCAS",
-        "CP": 9000.0
+        "CP": 9000.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALZ. ERMITA IZTAPALAPA - AV. ERMITA IZTAPALAPA.",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - ROJO G\u00d3MEZ",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "EL MOLINO",
-        "CP": 9830.0
+        "CP": 9830.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALZ. ERMITA IZTAPALAPA - ROJO GÓMEZ",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - ROJO G\u00d3MEZ",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
-        "COLONIA": "EL MOLINO",
-        "CP": 9830.0
-    },
-     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - PASANDO AV. TOLTECAS.",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "O-P",
         "COLONIA": "LOS CIPRESES",
-        "CP": "#N/A"
-    },
-        {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "INSURGENTES SUR \u2013 VIVANCO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "CALZ. ERMITA IZTAPALAPA - PASANDO AV. TOLTECAS.",
+        "VÍA PRINCIPAL": "ERMITA"
+    },
+    {
         "ALCALDIA": "TLALPAN",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "S-N",
         "COLONIA": "BARRIO LA FAMA",
-        "CP": 14000.0
-    },
-    {
+        "CP": 14000.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. M\u00c9XICO XOCHIMILCO - CALLE FORESTAL",
-        "ALCALDIA": "TLALPAN",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
         "SENTIDO": "S-N",
-        "COLONIA": "GUADALUPE",
-        "CP": 14389.0
+        "UBICACIÓN": "INSURGENTES SUR – VIVANCO",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. M\u00c9XICO XOCHIMILCO - CALLE FORESTAL",
         "ALCALDIA": "TLALPAN",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "COLONIA": "GUADALUPE",
+        "CP": 14389.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "S-N",
-        "COLONIA": "GUADALUPE",
-        "CP": 14389.0
+        "UBICACIÓN": "CALZ. MÉXICO XOCHIMILCO - CALLE FORESTAL",
+        "VÍA PRINCIPAL": "PERIFÉRICO (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA CANAL DE MIRAMONTES - ENTRE CALZ. DE LAS BRUJAS Y CALZ. ACOXPA.",
         "ALCALDIA": "TLALPAN",
-        "V\u00cdA PRINCIPAL": "MIRAMONTES",
-        "SENTIDO": "N-S",
         "COLONIA": "VILLA COAPA",
-        "CP": 14300.0
-    },
-        {
+        "CP": 14300.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA CANAL DE MIRAMONTES - ENTRE CALZ. DE LAS BRUJAS Y CALZ. ACOXPA.",
-        "ALCALDIA": "TLALPAN",
-        "V\u00cdA PRINCIPAL": "MIRAMONTES",
         "SENTIDO": "N-S",
-        "COLONIA": "VILLA COAPA",
-        "CP": 14300.0
+        "UBICACIÓN": "AVENIDA CANAL DE MIRAMONTES - ENTRE CALZ. DE LAS BRUJAS Y CALZ. ACOXPA.",
+        "VÍA PRINCIPAL": "MIRAMONTES"
     },
-     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE VERSALLES Y ATENAS  (HOTEL FIESTA AMERICANA)",
+    {
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
-        "SENTIDO": "N-S",
         "COLONIA": "JUAREZ",
-        "CP": 6600.0
+        "CP": 6600.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALLE VERSALLES Y ATENAS  (HOTEL FIESTA AMERICANA)",
+        "VÍA PRINCIPAL": "REFORMA (COLÓN-PERIFÉRICO)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE AYUNTAMIENTO Y DOLORES",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
-        "SENTIDO": "P-O",
         "COLONIA": "CENTRO",
-        "CP": 5010.0
-    },
-       {
+        "CP": 5010.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y EJE 3 SUR PE\u00d3N CONTRERAS (PUENTE EJE 3)",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALLE AYUNTAMIENTO Y DOLORES",
+        "VÍA PRINCIPAL": "REFORMA (COLÓN-PERIFÉRICO)"
+    },
+    {
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
         "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-        {
+        "CP": 6800.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA INSURGENTES SUR - PASANDO DURANGO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZADA DE TLALPAN Y EJE 3 SUR PEÓN CONTRERAS (PUENTE EJE 3)",
+        "VÍA PRINCIPAL": "TLALPAN"
+    },
+    {
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
-    },
-        {
+        "CP": 6760.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD PASANDO CALZ. COYUYA.",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AVENIDA INSURGENTES SUR - PASANDO DURANGO",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
+    },
+    {
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CONGRESO DE LA UNI\u00d3N",
-        "SENTIDO": "P-O",
         "COLONIA": "MAGDALENA MIXHUCA",
-        "CP": 8010.0
+        "CP": 8010.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. VIADUCTO RÍO DE LA PIEDAD PASANDO CALZ. COYUYA.",
+        "VÍA PRINCIPAL": "CONGRESO DE LA UNIÓN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AV. R\u00cdO CHURUBUSCO PASANDO CALLE ATLETAS.",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
-        "SENTIDO": "N-S",
         "COLONIA": "GRANJAS MEXICO",
-        "CP": 8400.0
-    },
-        {
+        "CP": 8400.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. TEZONTLE - CTO. INTERIOR R\u00cdO CHURUBUSCO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CIRCUITO INTERIOR AV. RÍO CHURUBUSCO PASANDO CALLE ATLETAS.",
+        "VÍA PRINCIPAL": "CHURUBUSCO"
+    },
+    {
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "CHURUBUSCO",
-        "SENTIDO": "P-O",
         "COLONIA": "IZTACALCO INFONAVIT",
-        "CP": 8040.0
+        "CP": 8040.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. TEZONTLE - CTO. INTERIOR RÍO CHURUBUSCO",
+        "VÍA PRINCIPAL": "CHURUBUSCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA PASANDO CALLE PLAYA PESCADORES.",
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
         "COLONIA": "REFORMA IZTACCIHUATL SUR",
-        "CP": 8840.0
-    },
-        {
+        "CP": 8840.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD - EJE 3 SUR.",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 6 SUR AV. PLAYA PIE DE LA CUESTA PASANDO CALLE PLAYA PESCADORES.",
+        "VÍA PRINCIPAL": "EJE 6"
+    },
+    {
         "ALCALDIA": "IZTACALCO",
-        "V\u00cdA PRINCIPAL": "EJE 3",
-        "SENTIDO": "P-O",
         "COLONIA": "JARDIN BALBUENA",
-        "CP": 8400.0
-    },
-        {
+        "CP": 8400.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR M. \u00c1VILA CAMACHO Y AV. CONSTITUYENTES (MUSEO DEL PAPALOTE)",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. VIADUCTO RÍO DE LA PIEDAD - EJE 3 SUR.",
+        "VÍA PRINCIPAL": "EJE 3"
+    },
+    {
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "N-S",
         "COLONIA": "2DA SECC DEL BOSQUE DE CHAPULTEPEC",
-        "CP": 11100.0
+        "CP": 11100.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "BLVR M. ÁVILA CAMACHO Y AV. CONSTITUYENTES (MUSEO DEL PAPALOTE)",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVR M. \u00c1VILA CAMACHO Y CALLE MONTE ELBRUZ",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "O-P",
         "COLONIA": "LOMAS DE CHAPULTEPEC",
-        "CP": 11560.0
-    },
-        {
+        "CP": 11560.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR M. \u00c1VILA CAMACHO Y HORACIO (BANAMEX)",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "ANILLO PERIFÉRICO BLVR M. ÁVILA CAMACHO Y CALLE MONTE ELBRUZ",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
+    },
+    {
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "S-N",
         "COLONIA": "LOS MORALES",
-        "CP": 11510.0
+        "CP": 11510.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "BLVR M. ÁVILA CAMACHO Y HORACIO (BANAMEX)",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR. M. \u00c1VILA CAMACHO Y JOAQUIN FERN\u00c1NDEZ DE LIZARDI",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "S-N",
         "COLONIA": "PERIODISTA",
-        "CP": 11200.0
-    },
-        {
+        "CP": 11200.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PARQUE LIRA & CALLE GOBERNADOR LUIS G. CURIEL",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "BLVR. M. ÁVILA CAMACHO Y JOAQUIN FERNÁNDEZ DE LIZARDI",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
+    },
+    {
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PARQUE LIRA",
-        "SENTIDO": "N-S",
         "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11840.0
+        "CP": 11840.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AV. PARQUE LIRA & CALLE GOBERNADOR LUIS G. CURIEL",
+        "VÍA PRINCIPAL": "PARQUE LIRA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA CARLOS LAZO Y AVENIDA SANTA FE.",
         "ALCALDIA": "CUAJIMALPA",
-        "V\u00cdA PRINCIPAL": "SANTA FE",
-        "SENTIDO": "N-S",
         "COLONIA": "CENTRO COMERCIAL SANTA FE",
-        "CP": 5249.0
+        "CP": 5249.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AVENIDA CARLOS LAZO Y AVENIDA SANTA FE.",
+        "VÍA PRINCIPAL": "SANTA FE"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PROL. VASCO DE QUIROGA Y CALLE CARLOS ECH\u00c1NOVE. (COND. LA CAMPINA)",
         "ALCALDIA": "CUAJIMALPA",
-        "V\u00cdA PRINCIPAL": "SANTA FE",
-        "SENTIDO": "O-P",
         "COLONIA": "LA ROSITA",
-        "CP": 5109.0
-    },
-        {
+        "CP": 5109.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PASEO DE LOS LAURELES - PASEO DE LOS LAURELES",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. PROL. VASCO DE QUIROGA Y CALLE CARLOS ECHÁNOVE. (COND. LA CAMPINA)",
+        "VÍA PRINCIPAL": "SANTA FE"
+    },
+    {
         "ALCALDIA": "CUAJIMALPA",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
-        "SENTIDO": "N-S",
         "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
-    },
-    {
+        "CP": 5120.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - PROL. BOSQUES DE LA REFORMA",
-        "ALCALDIA": "CUAJIMALPA",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
-        "SENTIDO": "O-P",
-        "COLONIA": "CUMBRES REFORMA",
-        "CP": 5127.0
-    },
-        {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - CERRADA VASCO DE QUIROGA",
-        "ALCALDIA": "ALVARO OBREGON",
-        "V\u00cdA PRINCIPAL": "SANTA FE",
-        "SENTIDO": "O-P",
-        "COLONIA": "CARLOS A MADRAZO",
-        "CP": 1320.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "JOAQUIN GALLO - AV. VASCO DE QUIROGA",
-        "ALCALDIA": "ALVARO OBREGON",
-        "V\u00cdA PRINCIPAL": "SANTA FE",
-        "SENTIDO": "S-N",
-        "COLONIA": "CENTRO COMERCIAL LOMAS DE SANTA FE",
-        "CP": 1219.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PROL. PASEO DE LA REFORMA - CALLE ROBERTO MEDELLIN - CORP. BANAMEX",
-        "ALCALDIA": "ALVARO OBREGON",
-        "V\u00cdA PRINCIPAL": "SANTA FE",
-        "SENTIDO": "P-O",
-        "COLONIA": "ZEDEC SANTA FE",
-        "CP": 1330.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VASCO DE QUIROGA - AUTOPISTA CONSTITUYENTES LA VENTA",
-        "ALCALDIA": "ALVARO OBREGON",
-        "V\u00cdA PRINCIPAL": "SANTA FE",
-        "SENTIDO": "O-P",
-        "COLONIA": "RES PARQUE SANTA FE",
-        "CP": 1219.0
-    },
-        {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES SUR Y CALLE GUSTAVO E. CAMPA (TORRE DE BANCOMER)",
-        "ALCALDIA": "ALVARO OBREGON",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "S-N",
-        "COLONIA": "FLORIDA",
-        "CP": 1030.0
-    },
-        {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "REUBICADA AV. GPE. I. RAMIREZ PASANDO ANTIG\u00dcO CAMINO A XOCHIMILCO",
-        "ALCALDIA": "XOCHIMILCO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
         "SENTIDO": "N-S",
-        "COLONIA": "SAN JUAN TEPEPAN",
-        "CP": 16030.0
+        "UBICACIÓN": "AV. PASEO DE LOS LAURELES - PASEO DE LOS LAURELES",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
+        "ALCALDIA": "CUAJIMALPA",
+        "COLONIA": "CUMBRES REFORMA",
+        "CP": 5127.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. ANTIGUO CAMINO A XOCHIMILCO - AV. M\u00c9XICO",
-        "ALCALDIA": "XOCHIMILCO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. PROL. PASEO DE LA REFORMA - PROL. BOSQUES DE LA REFORMA",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
+    },
+    {
+        "ALCALDIA": "ALVARO OBREGON",
+        "COLONIA": "CARLOS A MADRAZO",
+        "CP": 1320.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. VASCO DE QUIROGA - CERRADA VASCO DE QUIROGA",
+        "VÍA PRINCIPAL": "SANTA FE"
+    },
+    {
+        "ALCALDIA": "ALVARO OBREGON",
+        "COLONIA": "CENTRO COMERCIAL LOMAS DE SANTA FE",
+        "CP": 1219.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "S-N",
+        "UBICACIÓN": "JOAQUIN GALLO - AV. VASCO DE QUIROGA",
+        "VÍA PRINCIPAL": "SANTA FE"
+    },
+    {
+        "ALCALDIA": "ALVARO OBREGON",
+        "COLONIA": "ZEDEC SANTA FE",
+        "CP": 1330.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. PROL. PASEO DE LA REFORMA - CALLE ROBERTO MEDELLIN - CORP. BANAMEX",
+        "VÍA PRINCIPAL": "SANTA FE"
+    },
+    {
+        "ALCALDIA": "ALVARO OBREGON",
+        "COLONIA": "RES PARQUE SANTA FE",
+        "CP": 1219.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. VASCO DE QUIROGA - AUTOPISTA CONSTITUYENTES LA VENTA",
+        "VÍA PRINCIPAL": "SANTA FE"
+    },
+    {
+        "ALCALDIA": "ALVARO OBREGON",
+        "COLONIA": "FLORIDA",
+        "CP": 1030.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "AV. INSURGENTES SUR Y CALLE GUSTAVO E. CAMPA (TORRE DE BANCOMER)",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
+    },
+    {
+        "ALCALDIA": "XOCHIMILCO",
+        "COLONIA": "SAN JUAN TEPEPAN",
+        "CP": 16030.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "REUBICADA AV. GPE. I. RAMIREZ PASANDO ANTIGÜO CAMINO A XOCHIMILCO",
+        "VÍA PRINCIPAL": "PERIFÉRICO (SUR)"
+    },
+    {
+        "ALCALDIA": "XOCHIMILCO",
         "COLONIA": "EX EJIDO DE HUIPULCO",
-        "CP": 16030.0
+        "CP": 16030.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "AV. ANTIGUO CAMINO A XOCHIMILCO - AV. MÉXICO",
+        "VÍA PRINCIPAL": "PERIFÉRICO (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE 15. - AV. IZTACC\u00cdHUATL",
         "ALCALDIA": "VENUSTIANO CARRANZA",
-        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
-        "SENTIDO": "P-O",
         "COLONIA": "MOCTEZUMA 1RA SECC",
-        "CP": 15530.0
-    },
-    {
+        "CP": 15530.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EMILIO CARRANZA ESQ. IZTACCIHUATL FRENTE A UN OXXO",
-        "ALCALDIA": "VENUSTIANO CARRANZA",
-        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
-        "SENTIDO": "O-P",
-        "COLONIA": "MOCTEZUMA 2DA SECC",
-        "CP": 15530.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EMILIO CARRANZA ESQ. IZTACCIHUATL FRENTE A UN OXXO",
-        "ALCALDIA": "VENUSTIANO CARRANZA",
-        "V\u00cdA PRINCIPAL": "IGNACIO ZARAGOZA",
-        "SENTIDO": "O-P",
-        "COLONIA": "MOCTEZUMA 2DA SECC",
-        "CP": 15530.0
-    },    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DEL TALLER PASANDO AV. GENARO GARC\u00cdA.",
-        "ALCALDIA": "VENUSTIANO CARRANZA",
-        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
         "SENTIDO": "P-O",
-        "COLONIA": "JARDIN BALBUENA",
-        "CP": 15900.0
+        "UBICACIÓN": "CALLE 15. - AV. IZTACCÍHUATL",
+        "VÍA PRINCIPAL": "IGNACIO ZARAGOZA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. LORENZO BOTURINI PASANDO CALLE SUR 109.",
         "ALCALDIA": "VENUSTIANO CARRANZA",
-        "V\u00cdA PRINCIPAL": "AV. DEL TALLER",
+        "COLONIA": "MOCTEZUMA 2DA SECC",
+        "CP": 15530.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "O-P",
+        "UBICACIÓN": "EMILIO CARRANZA ESQ. IZTACCIHUATL FRENTE A UN OXXO",
+        "VÍA PRINCIPAL": "IGNACIO ZARAGOZA"
+    },
+    {
+        "ALCALDIA": "VENUSTIANO CARRANZA",
+        "COLONIA": "JARDIN BALBUENA",
+        "CP": 15900.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. DEL TALLER PASANDO AV. GENARO GARCÍA.",
+        "VÍA PRINCIPAL": "AV. DEL TALLER"
+    },
+    {
+        "ALCALDIA": "VENUSTIANO CARRANZA",
         "COLONIA": "AERONAUTICA MILITAR",
-        "CP": 15970.0
+        "CP": 15970.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. LORENZO BOTURINI PASANDO CALLE SUR 109.",
+        "VÍA PRINCIPAL": "AV. DEL TALLER"
     }
 ]
