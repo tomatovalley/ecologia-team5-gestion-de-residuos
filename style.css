@@ -186,6 +186,11 @@
      margin-left: 0;
  }
  
+ .btn {
+     background-color: #7ed957;
+     color: #031c3d;
+ }
+ 
  .margin-top {
      margin-top: 111px;
  }
