@@ -48,19 +48,43 @@
      width: 140px;
  }
  
- .main-header .navbar .collapse .nav-tabs .nav-item .active {
-     color: #7ed957;
- }
- 
- .main-header .container .d-flex .navbar-items a {
+ .main-header .navbar .collapse .navbar-nav .nav-item {
      list-style-type: none;
      background-color: #fff;
-     padding: 10px 10px 37px 10px;
+     border-bottom: 5px solid white;
+     border-radius: 5px 5px 0px 0px;
+     padding-bottom: 14px;
      bottom: 0;
+     margin-top: 48px;
+     width: 140px;
      font-size: 20px;
      text-align: center;
      letter-spacing: 3px;
      color: #031c3d;
+ }
+ 
+ @media(max-width: 770px) {
+     .main-header .navbar .collapse .navbar-nav .nav-item {
+         border-radius: 5px 5px 5px 5px;
+         margin-top: 1px;
+         padding-bottom: 0px;
+         border: 1px solid #031c3d;
+     }
+ }
+ 
+ .main-header .navbar .collapse .nav-tabs .nav-item .active {
+     color: #7ed957;
+ }
+ 
+ .main-header .navbar .collapse .navbar-nav .active {
+     color: #7ed957;
+ }
+ 
+ .main-header .navbar .collapse .navbar-nav a:hover,
+ .main-header .navbar .collapse .navbar-nav a:focus {
+     font-size: 20px;
+     text-align: center;
+     color: #7ed957;
  }
  
  .main-header .navbar .collapse ul li a {
@@ -261,6 +285,6 @@
  
  @media (min-width: 500px) {
      #back-to-top-button {
-         margin: 30px;
+         margin: ;
      }
  }
