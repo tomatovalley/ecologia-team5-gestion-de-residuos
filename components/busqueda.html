@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <!-- Own style -->
+    <link rel="stylesheet" href="../style.css">
+
+    <!-- Include mapbox -->
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <title>Nuevo Ciclo - Pilas</title>
+    <!--Fontawesome-->
+    <script src="https://kit.fontawesome.com/9f8e8fc542.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+    <!-- Start Navbar-->
+    <div class="main-header fixed-top">
+        <nav class="navbar navbar-expand-md container">
+            <a href="../index.html" class="navbar-brand">
+                <img src="../imagenes/NuevoCicloLogo.png " width="80 " height="80 " class="d-inline-block align-center" alt=" " loading="lazy ">Nuevo Ciclo</a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarSupportedCollapse" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #7ed957;">
+    
+                <span class="navbar-toggler-icon" style="color: #031c3d">
+                    <i class="fas fa-bars" style="padding-top:4px"></i>
+    
+                </span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav m-auto">
+                    <a href="../index.html" class="nav-item nav-link">INICIO</a>
+                    <a href="Conocenos.html" class="nav-item nav-link">CONÓCENOS</a>
+                    <a href="Categorias.html" class="nav-item nav-link">CATEGORÍAS</a>
+                    <a href="Informate.html" class="nav-item nav-link">INFÓRMATE</a>
+                    <a href="#" class="nav-item nav-link">CONTACTO</a>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!--End Navbar-->
+
+    <div class="jumbotron">
+        <div class="text-center py-5">
+            <!--Start Search by alcaldias-->
+            <h2>Pilas</h2>
+            <h3>Búsqueda</h3>
+            <form action="" id="busqueda">
+                <div class="form-group" id="app-alcaldias">
+                    <label for="select-alcaldia">Alcaldía</label>
+                    <select class="form-control" id="select-alcaldia" onchange="get_alcaldia()">
+                        <option selected id="elige-alcaldia">Elige...</option>
+                        <option value="Alob">Álvaro Obregón</option>
+                        <option value="Azca">Azcapotzalco</option>
+                        <option value="Beju">Benito Juárez</option>
+                        <option value="Coyo">Coyoacán</option>
+                        <option value="Cuaji">Cuajimalpa</option>
+                        <option value="Cuau">Cuauhtémoc</option>
+                        <option value="Gam">Gustavo A.Madero</option>
+                        <option value="Iztac">Iztacalco</option>
+                        <option value="Iztap">Iztapalapa</option>
+                        <option value="Mihi">Miguel Hidalgo</option>
+                        <option value="Tlal">Tlalpan</option>
+                        <option value="Veca">Venustiano Carranza</option>
+                        <option value="Xoch">Xochimilco</option>
+                    </select>
+
+                </div>
+
+                <div class="form-group" id="app-colonias">
+                    <label for="exampleFormControlSelect1">Colonia</label>
+                    <select class="lista-colonias form-control" id="lista-colonias" onchange="get_info_by_colonia()">
+                        <option selected id="bu">Elige...</option>                 
+                    </select>
+                </div>
+        </div>
+        </form>
+
+        <button type="button" class="btn  btn-lg btn-block" onclick="show_data()">Encuentra</button>
+
+
+    </div>
+    <!-- Start  list of containers by Colonia -->
+
+    <div class="container text-center" id="app-listado">
+        <h1 id="alcaldia-heading"></h1>
+        <h3 id="colonia-heading"></h3>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <hr>
+                <div id="lista-cont-colonia">
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!--Start Footer -->
+        <footer class="mt-5 py-4 text-center ">
+            <div class="container ">
+                <p>Información recuperada del sitio
+                    <a href="https://www.sedema.cdmx.gob.mx/programas/programa/ponte-pilas-con-tu-ciudad">Ponte las pilas con tu ciudad</a>
+                </p>
+
+                <p>&copy; D. R. Nuevo Ciclo</p>
+
+            </div>
+
+
+        </footer>
+        <!--End Footer -->
+        <!-- Back to top button -->
+        <a id="back-to-top-button"></a>
+        <script defer src="/js/back_to_top.js"></script>
+
+        <script defer src="../js/pilas.js"></script>
+
+
+</body>
+
+</html

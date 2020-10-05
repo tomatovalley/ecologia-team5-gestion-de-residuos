@@ -282,9 +282,3 @@
      opacity: 1;
      visibility: visible;
  }
- 
- @media (min-width: 500px) {
-     #back-to-top-button {
-         margin: ;
-     }
- }
