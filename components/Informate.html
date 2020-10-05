@@ -9,11 +9,13 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
 
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -28,36 +30,27 @@
 <body>
     <!-- Start Navbar-->
     <div class="main-header fixed-top">
-        <nav class="navbar  navbar-expand-md  container">
-            <a class="navbar-brand" href="../index.html">
+        <nav class="navbar navbar-expand-md container">
+            <a href="../index.html" class="navbar-brand">
                 <img src="../imagenes/NuevoCicloLogo.png " width="80 " height="80 " class="d-inline-block align-center" alt=" " loading="lazy ">Nuevo Ciclo</a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #7ed957;">
-                <span class="navbar-toggler-icon" style="color: #031c3d" >
-                    <i class="fas fa-bars" style="padding-top:4px"></i>
-                </span>
-            </button>
-            <div class="collapse navbar-collapse " id="navbarSupportedContent">
-                <ul class="nav nav-tabs m-auto">
-                    <li class="nav-item  align-text-bottom">
-                        <a class="nav-link  align-text-bottom" href="../index.html">INICIO</a>
-                    </li>
-                    <li class="nav-item align-text-bottom ">
-                        <a class="nav-link align-text-bottom " href="Conocenos.html ">CONÓCENOS</a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarSupportedCollapse" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #7ed957;">
+        
+            <span class="navbar-toggler-icon" style="color: #031c3d">
+            <i class="fas fa-bars" style="padding-top:4px"></i>
 
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link align-text-bottom " href="Categorias.html ">CATEGORÍAS</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link active " href="Informate.html ">INFÓRMATE</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link " href="#">CONTACTO</a>
-                    </li>
-                </ul>
+            </span>
+        </button>
+
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav m-auto">
+                    <a href="../index.html" class="nav-item nav-link">INICIO</a>
+                    <a href="Conocenos.html" class="nav-item nav-link">CONÓCENOS</a>
+                    <a href="Categorias.html" class="nav-item nav-link ">CATEGORÍAS</a>
+                    <a href="#" class="nav-item nav-link active">INFÓRMATE</a>
+                    <a href="#" class="nav-item nav-link">CONTACTO</a>
+                </div>
             </div>
         </nav>
-
     </div>
     <!--End Navbar-->
 
@@ -68,7 +61,7 @@
                 <h1 class="display-4" style="letter-spacing: 5px;"> <span style="color: #031c3d;">INFÓRMATE</span> </h1>
             </div>
 
-            <!-- Info Medicinas caducas -->
+            <!-- Info Medicinas caducadas -->
             <div class=" category card-deck">
                 <div class="card border-0">
                     <img src="../imagenes/MedicinasNuevociclo_info_big.png" class="card-img-bottom rounded" alt="...">
@@ -214,6 +207,10 @@
 
     </footer>
     <!--End Footer -->
+
+    <!-- Back to top button -->
+    <a id="back-to-top-button"></a>
+    <script defer src="../js/back_to_top.js"></script>
 </body>
 
 </html>

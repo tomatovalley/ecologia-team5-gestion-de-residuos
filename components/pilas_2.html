@@ -14,7 +14,7 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -29,37 +29,27 @@
 
     <!-- Start Navbar-->
     <div class="main-header fixed-top">
-        <nav class="navbar  navbar-expand-md  container">
-            <a class="navbar-brand" href="../index.html">
-                <img src="../imagenes/NuevoCicloLogo.png " width="80 " height="80 " class="d-inline-block align-center" alt=" " loading="lazy "> Nuevo Ciclo
-            </a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #7ed957;">
-                <span class="navbar-toggler-icon" style="color: #031c3d" >
+        <nav class="navbar navbar-expand-md container">
+            <a href="../index.html" class="navbar-brand">
+                <img src="../imagenes/NuevoCicloLogo.png " width="80 " height="80 " class="d-inline-block align-center" alt=" " loading="lazy ">Nuevo Ciclo</a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarSupportedCollapse" aria-expanded="false" aria-label="Toggle navigation" style="background-color: #7ed957;">
+    
+                <span class="navbar-toggler-icon" style="color: #031c3d">
                     <i class="fas fa-bars" style="padding-top:4px"></i>
+    
                 </span>
             </button>
-            <div class="collapse navbar-collapse " id="navbarSupportedContent">
-                <ul class="nav nav-tabs m-auto">
-                    <li class="nav-item  align-text-bottom">
-                        <a class="nav-link align-text-bottom" href="../index.html">INICIO</a>
-                    </li>
-                    <li class="nav-item align-text-bottom ">
-                        <a class="nav-link align-text-bottom " href="Conocenos.html ">CONÓCENOS</a>
 
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link " href="Categorias.html ">CATEGORÍAS</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link " href="Informate.html ">INFÓRMATE</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link " href="#">CONTACTO</a>
-                    </li>
-                </ul>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav m-auto">
+                    <a href="../index.html" class="nav-item nav-link">INICIO</a>
+                    <a href="Conocenos.html" class="nav-item nav-link">CONÓCENOS</a>
+                    <a href="Categorias.html" class="nav-item nav-link">CATEGORÍAS</a>
+                    <a href="Informate.html" class="nav-item nav-link">INFÓRMATE</a>
+                    <a href="#" class="nav-item nav-link">CONTACTO</a>
+                </div>
             </div>
         </nav>
-
     </div>
     <!--End Navbar-->
 
@@ -99,7 +89,7 @@
         </div>
         </form>
 
-        <button type="button" class="btn btn-secondary btn-lg btn-block" onclick="show_data()">Encuentra</button>
+        <button type="button" class="btn  btn-lg btn-block" onclick="show_data()">Encuentra</button>
 
 
     </div>
@@ -122,138 +112,21 @@
         <footer class="mt-5 py-4 text-center ">
             <div class="container ">
                 <p>Información recuperada del sitio
-                    <a href=""></a>
+                    <a href="https://www.sedema.cdmx.gob.mx/programas/programa/ponte-pilas-con-tu-ciudad">Ponte las pilas con tu ciudad</a>
                 </p>
 
-                <p>&copy; Copyright 2020. Nuevo Ciclo</p>
+                <p>&copy; D. R. Nuevo Ciclo</p>
 
             </div>
 
 
         </footer>
         <!--End Footer -->
+        <!-- Back to top button -->
+        <a id="back-to-top-button"></a>
+        <script defer src="/js/back_to_top.js"></script>
 
-
-        <script defer>
-            var getValue;
-            var getAlcaldia;
-            var getColonia;
-            var colonias_array = [];
-            var alcaldia_file;
-            const header = document.querySelector('header');
-            const select = document.querySelector('.lista-colonias');
-
-
-            function get_alcaldia() {
-                getValue = document.getElementById('select-alcaldia').selectedOptions[0].value;
-                getAlcaldia = document.getElementById('select-alcaldia').selectedOptions[0].text;
-                console.log(getAlcaldia);
-
-                let alcaldia_file = '../JSON/' + getValue + '.json';
-                console.log(alcaldia_file);
-
-                let request = new XMLHttpRequest();
-                request.open('GET', alcaldia_file);
-                request.responseType = 'json';
-                request.send();
-
-                request.onload = function() {
-                    alcaldia_info = request.response;
-                    const alcaldia = JSON.stringify(alcaldia_info); // convert it to an object
-                    console.log(alcaldia_info[0]['COLONIA']);
-
-                    const colonias = get_colonias(alcaldia_info);
-
-                    var select = document.getElementById("lista-colonias");
-                    colonias.map(function(item) {
-                        var option = document.createElement("option");
-                        option.value = item;
-                        option.text = item;
-                        select.appendChild(option);
-                        console.log(colonias.length);
-                    });
-
-                }
-
-
-                function get_colonias(jsonObject) {
-                    colonias_array = [];
-                    remove_all_childnodes(select); //remove colonias from previous search
-                    for (let i = 0; i < jsonObject.length; i++) {
-                        colonias_array.push(jsonObject[i]['COLONIA']); //get colonias
-                    }
-                    console.log(colonias_array);
-                    //remove repeated colonias
-                    colonias_array = [...new Set(colonias_array)];
-                    console.log(colonias_array);
-                    return colonias_array;
-                }
-            }
-
-            function get_info_by_colonia() {
-                getColonia = document.getElementById('lista-colonias').selectedOptions[0].text;
-                //console.log(getColonia);
-                //console.log(getAlcaldia);
-
-
-            }
-
-            function show_data() { // shows places according to previous selection of Alcaldia and Colonia
-                console.log(getColonia);
-                console.log(getAlcaldia);
-                const alcaldia = JSON.stringify(alcaldia_info); // convert it to an object
-                //console.log(alcaldia_info[1]['COLONIA']);
-                populate_header(getAlcaldia, getColonia);
-
-                //filter data by chosen Colonia
-
-                var selected_colonia_info = alcaldia_info.filter(function(entry) {
-                    return entry.COLONIA === getColonia;
-                });
-                show_colonia_info(selected_colonia_info);
-            }
-
-            function remove_all_childnodes(parent) {
-                while (parent.firstChild) {
-                    parent.removeChild(parent.firstChild);
-                }
-            }
-
-            function populate_header(getAlcaldia, getColonia) {
-                document.getElementById("alcaldia-heading").innerHTML = 'Alcaldía ' + getAlcaldia;
-                document.getElementById("colonia-heading").innerHTML = 'Contenedores en la colonia ' + getColonia;
-            }
-
-            function show_colonia_info(jsonObj) {
-                var listas = document.getElementById("lista-cont-colonia");
-                for (let i = 0; i < jsonObj.length; i++) {
-                    const contenido = document.createElement('contenido');
-                    const estatus = document.createElement('p');
-                    const ubicacion = document.createElement('p');
-                    const alcaldia = document.createElement('p');
-                    const colonia = document.createElement('p');
-                    const cod_pos = document.createElement('p');
-                    const line_bar = document.createElement('hr');
-                    estatus.textContent = 'Estatus: ' + jsonObj[i].ESTATUS;
-                    ubicacion.textContent = 'Ubicación: ' + jsonObj[i].UBICACIÓN;
-                    alcaldia.textContent = 'Alcaldía: ' + jsonObj[i].ALCALDIA;
-                    colonia.textContent = 'Colonia: ' + jsonObj[i].COLONIA;
-                    cod_pos.textContent = 'C. P. : ' + jsonObj[i].CP;
-
-                    //console.log(jsonObj[i].ESTATUS);
-                    contenido.appendChild(estatus);
-                    contenido.appendChild(ubicacion);
-                    contenido.appendChild(alcaldia);
-                    contenido.appendChild(colonia);
-                    contenido.appendChild(cod_pos);
-                    contenido.appendChild(line_bar);
-                    listas.appendChild(contenido);
-
-                }
-
-
-            }
-        </script>
+        <script defer src="../js/pilas.js"></script>
 
 
 </body>

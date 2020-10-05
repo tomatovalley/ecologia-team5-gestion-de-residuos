@@ -1,1064 +1,587 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR M. \u00c1VILA CAMACHO Y AV. CONSTITUYENTES (MUSEO DEL PAPALOTE)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "N-S",
         "COLONIA": "2DA SECC DEL BOSQUE DE CHAPULTEPEC",
-        "CP": 11100.0
-    },
-    {
+        "CP": 11100.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR M. \u00c1VILA CAMACHO Y AV. CONSTITUYENTES (MUSEO DEL PAPALOTE)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
         "SENTIDO": "N-S",
-        "COLONIA": "2DA SECC DEL BOSQUE DE CHAPULTEPEC",
-        "CP": 11100.0
+        "UBICACIÓN": "BLVR M. ÁVILA CAMACHO Y AV. CONSTITUYENTES (MUSEO DEL PAPALOTE)",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVR M. \u00c1VILA CAMACHO Y CALLE MONTE ELBRUZ",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "O-P",
         "COLONIA": "LOMAS DE CHAPULTEPEC",
-        "CP": 11560.0
-    },
-    {
+        "CP": 11560.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "ANILLO PERIF\u00c9RICO BLVR M. \u00c1VILA CAMACHO Y CALLE MONTE ELBRUZ",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
         "SENTIDO": "O-P",
-        "COLONIA": "LOMAS DE CHAPULTEPEC",
-        "CP": 11560.0
+        "UBICACIÓN": "ANILLO PERIFÉRICO BLVR M. ÁVILA CAMACHO Y CALLE MONTE ELBRUZ",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR M. \u00c1VILA CAMACHO Y HORACIO (BANAMEX)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "S-N",
         "COLONIA": "LOS MORALES",
-        "CP": 11510.0
+        "CP": 11510.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "BLVR M. ÁVILA CAMACHO Y HORACIO (BANAMEX)",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR M. \u00c1VILA CAMACHO Y HORACIO (BANAMEX)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "S-N",
-        "COLONIA": "LOS MORALES",
-        "CP": 11510.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR. M. \u00c1VILA CAMACHO Y JOAQUIN FERN\u00c1NDEZ DE LIZARDI",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
-        "SENTIDO": "S-N",
         "COLONIA": "PERIODISTA",
-        "CP": 11200.0
-    },
-    {
+        "CP": 11200.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "BLVR. M. \u00c1VILA CAMACHO Y JOAQUIN FERN\u00c1NDEZ DE LIZARDI",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (NORTE)",
         "SENTIDO": "S-N",
-        "COLONIA": "PERIODISTA",
-        "CP": 11200.0
+        "UBICACIÓN": "BLVR. M. ÁVILA CAMACHO Y JOAQUIN FERNÁNDEZ DE LIZARDI",
+        "VÍA PRINCIPAL": "PERIFÉRICO (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PARQUE LIRA & CALLE GOBERNADOR LUIS G. CURIEL",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PARQUE LIRA",
-        "SENTIDO": "N-S",
         "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11840.0
-    },
-    {
+        "CP": 11840.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PARQUE LIRA & CALLE GOBERNADOR LUIS G. CURIEL",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PARQUE LIRA",
         "SENTIDO": "N-S",
-        "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11840.0
+        "UBICACIÓN": "AV. PARQUE LIRA & CALLE GOBERNADOR LUIS G. CURIEL",
+        "VÍA PRINCIPAL": "PARQUE LIRA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE CASTILLEAS",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
-        "SENTIDO": "S-N",
         "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 11700.0
-    },
-    {
+        "CP": 11700.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE CASTILLEAS",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
         "SENTIDO": "S-N",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 11700.0
+        "UBICACIÓN": "AV. BOSQUES DE LA REFORMA - BOSQUES DE CASTILLEAS",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
+        "ALCALDIA": "MIGUEL HIDALGO",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - PRIV. BOSQUES DE ABETOS",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
         "SENTIDO": "S-N",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
+        "UBICACIÓN": "AV. BOSQUES DE LA REFORMA - PRIV. BOSQUES DE ABETOS",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - PRIV. BOSQUES DE ABETOS",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "S-N",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
+        "UBICACIÓN": "AV. BOSQUES DE LA REFORMA - PRIV. BOSQUES DE ABETOS",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE MAPLES",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "N-S",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
+        "UBICACIÓN": "AV. BOSQUES DE LA REFORMA - BOSQUES DE MAPLES",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE MAPLES",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 11700.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "N-S",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
+        "UBICACIÓN": "AV. BOSQUES DE LA REFORMA - BOSQUES DE MAGNOLIAS",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE MAGNOLIAS",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
+        "COLONIA": "BOSQUES DE LAS LOMAS",
+        "CP": 5120.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "N-S",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 11700.0
+        "UBICACIÓN": "AV. BOSQUES DE LA REFORMA - BOSQUES DE EBANOS",
+        "VÍA PRINCIPAL": "BOSQUES DE LAS LOMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE MAGNOLIAS",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
-        "SENTIDO": "N-S",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 11700.0
-    },
-    {
+        "COLONIA": "POLANCO REFORMA",
+        "CP": 11550.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE EBANOS",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
-        "SENTIDO": "N-S",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BOSQUES DE LA REFORMA - BOSQUES DE EBANOS",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "BOSQUES DE LAS LOMAS",
-        "SENTIDO": "N-S",
-        "COLONIA": "BOSQUES DE LAS LOMAS",
-        "CP": 5120.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. EJERCITO NACIONAL Y  CALLE EDGAR ALLAN POE (WINGS)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
+        "UBICACIÓN": "AV. EJERCITO NACIONAL Y  CALLE EDGAR ALLAN POE (WINGS)",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. EJERCITO NACIONAL Y  CALLE EDGAR ALLAN POE (WINGS)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
         "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
-    },
-    {
+        "CP": 11550.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HOMERO Y CALLE EUGENIO SUE",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
-        "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
+        "UBICACIÓN": "AV. HOMERO Y CALLE EUGENIO SUE",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HOMERO Y CALLE EUGENIO SUE",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
-    },
-    {
+        "CP": 11550.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "AV. HORACIO Y CALLE ANATOLE FRANCE (PARQUE LAS AM\u00c9RICAS)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
-        "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
+        "UBICACIÓN": "AV. HORACIO Y CALLE ANATOLE FRANCE (PARQUE LAS AMÉRICAS)",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO Y CALLE ANATOLE FRANCE (PARQUE LAS AM\u00c9RICAS)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
+        "CP": 11550.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. HORACIO Y CALLE ANATOLE FRANCE (PARQUE LAS AMÉRICAS)",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. FERROCARIL DE CUERNAVACA Y AV. HORACIO (HACIA PERIF\u00c9RICO) AGENCIA DE VIAJES",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "N-S",
         "COLONIA": "DEL BOSQUE",
-        "CP": 11510.0
-    },
-    {
+        "CP": 11510.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. FERROCARIL DE CUERNAVACA Y AV. HORACIO (HACIA PERIF\u00c9RICO) AGENCIA DE VIAJES",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "N-S",
-        "COLONIA": "DEL BOSQUE",
-        "CP": 11510.0
+        "UBICACIÓN": "AV. FERROCARIL DE CUERNAVACA Y AV. HORACIO (HACIA PERIFÉRICO) AGENCIA DE VIAJES",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE PRESA SALINILLAS Y CALZ. LEGARIA",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "IRRIGACION",
-        "CP": 11200.0
+        "CP": 11200.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "CALLE PRESA SALINILLAS Y CALZ. LEGARIA",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE PRESA SALINILLAS Y CALZ. LEGARIA",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
-        "COLONIA": "IRRIGACION",
-        "CP": 11200.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE CAMPOS EL\u00cdSEOS Y AV.. GENERAL MARIANO ESCOBEDO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "RINCON DEL BOSQUE",
-        "CP": 11580.0
+        "CP": 11580.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "CALLE CAMPOS ELÍSEOS Y AV.. GENERAL MARIANO ESCOBEDO",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE CAMPOS EL\u00cdSEOS Y AV.. GENERAL MARIANO ESCOBEDO",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
-        "COLONIA": "RINCON DEL BOSQUE",
-        "CP": 11580.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE LAGO ALBERTO Y CALLE LAGO MAYOR",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "GRANADA",
-        "CP": 11520.0
-    },
-    {
+        "CP": 11520.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE LAGO ALBERTO Y CALLE LAGO MAYOR",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
-        "COLONIA": "GRANADA",
-        "CP": 11520.0
+        "UBICACIÓN": "CALLE LAGO ALBERTO Y CALLE LAGO MAYOR",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE EDGAR ALLAN POE Y CALLE LUIS G. URBINA (PARQUE LINCOLN)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "N-S",
         "COLONIA": "POLANCO CHAPULTEPEC",
-        "CP": 11560.0
-    },
-    {
+        "CP": 11560.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE EDGAR ALLAN POE Y CALLE LUIS G. URBINA (PARQUE LINCOLN)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "N-S",
-        "COLONIA": "POLANCO CHAPULTEPEC",
-        "CP": 11560.0
+        "UBICACIÓN": "CALLE EDGAR ALLAN POE Y CALLE LUIS G. URBINA (PARQUE LINCOLN)",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV.  EMILIO CASTELAR Y CALLE ARIST\u00d3TELES (TEATRO ANGELA PERALTA)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
+        "COLONIA": "POLANCO CHAPULTEPEC",
+        "CP": 11560.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "P-O",
-        "COLONIA": "POLANCO CHAPULTEPEC",
-        "CP": 11560.0
+        "UBICACIÓN": "AV.  EMILIO CASTELAR Y CALLE ARISTÓTELES (TEATRO ANGELA PERALTA)",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
+        "ALCALDIA": "MIGUEL HIDALGO",
+        "COLONIA": "POLANCO CHAPULTEPEC",
+        "CP": 11560.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "AV.  EMILIO CASTELAR Y CALLE ARIST\u00d3TELES (TEATRO ANGELA PERALTA)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "POLANCO CHAPULTEPEC",
-        "CP": 11560.0
+        "UBICACIÓN": "AV.  EMILIO CASTELAR Y CALLE ARISTÓTELES (TEATRO ANGELA PERALTA)",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE ARQU\u00cdMEDES Y CALLE  CAMPOS EL\u00cdSEOS",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "S-N",
         "COLONIA": "BOSQUES DE CHAPULTEPEC",
-        "CP": 11580.0
-    },
-    {
+        "CP": 11580.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE ARQU\u00cdMEDES Y CALLE  CAMPOS EL\u00cdSEOS",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "S-N",
-        "COLONIA": "BOSQUES DE CHAPULTEPEC",
-        "CP": 11580.0
+        "UBICACIÓN": "CALLE ARQUÍMEDES Y CALLE  CAMPOS ELÍSEOS",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. LEGARIA Y CALLE ABELARDO L. RODRIGUEZ",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
         "COLONIA": "FRANCISCO I MADERO",
-        "CP": 11480.0
+        "CP": 11480.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALZ. LEGARIA Y CALLE ABELARDO L. RODRIGUEZ",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. LEGARIA Y CALLE ABELARDO L. RODRIGUEZ",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "FRANCISCO I MADERO",
-        "CP": 11480.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. LEGARIA Y PANTE\u00d3N FRANC\u00c9S",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
         "COLONIA": "PANTEON FRANCES",
-        "CP": 11260.0
-    },
-    {
+        "CP": 11260.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. LEGARIA Y PANTE\u00d3N FRANC\u00c9S",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "PANTEON FRANCES",
-        "CP": 11260.0
+        "UBICACIÓN": "CALZ. LEGARIA Y PANTEÓN FRANCÉS",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
+        "ALCALDIA": "MIGUEL HIDALGO",
+        "COLONIA": "PANTEON FRANCES",
+        "CP": 11260.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "CALZ. LEGARIA Y CALZ. R\u00cdO SAN JOAQU\u00cdN",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
+        "UBICACIÓN": "CALZ. LEGARIA Y CALZ. RÍO SAN JOAQUÍN",
+        "VÍA PRINCIPAL": "POLANCO"
+    },
+    {
+        "ALCALDIA": "MIGUEL HIDALGO",
         "COLONIA": "PANTEON FRANCES",
-        "CP": 11260.0
-    },
-    {
+        "CP": 11260.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. LEGARIA Y CALZ. R\u00cdO SAN JOAQU\u00cdN",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "PANTEON FRANCES",
-        "CP": 11260.0
+        "UBICACIÓN": "CALZ. LEGARIA Y CALZ. RÍO SAN JOAQUÍN",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "PRESA LA ANGOSTURA Y MIGUEL DE CERVANTES SAAVEDRA",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "N-S",
         "COLONIA": "IRRIGACION",
-        "CP": 11500.0
-    },
-    {
+        "CP": 11500.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "PRESA LA ANGOSTURA Y MIGUEL DE CERVANTES SAAVEDRA",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "N-S",
-        "COLONIA": "IRRIGACION",
-        "CP": 11500.0
+        "UBICACIÓN": "PRESA LA ANGOSTURA Y MIGUEL DE CERVANTES SAAVEDRA",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV.HORACIO ENTRE HER\u00c1CLITO Y LAMARTINE",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
         "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV.HORACIO ENTRE HER\u00c1CLITO Y LAMARTINE",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
+        "UBICACIÓN": "AV.HORACIO ENTRE HERÁCLITO Y LAMARTINE",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO ENTRE EUGENIO SUE Y ARISTOTELES",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
-    },
-    {
+        "CP": 11550.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO ENTRE EUGENIO SUE Y ARISTOTELES",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
-        "COLONIA": "POLANCO REFORMA",
-        "CP": 11550.0
+        "UBICACIÓN": "AV. HORACIO ENTRE EUGENIO SUE Y ARISTOTELES",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. MOLIERE ENTRE EJERCITO NACIONAL Y AV. HOMERO",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "N-S",
         "COLONIA": "LOS MORALES SECC PALMAS",
-        "CP": 11540.0
-    },
-    {
+        "CP": 11540.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. MOLIERE ENTRE EJERCITO NACIONAL Y AV. HOMERO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "N-S",
-        "COLONIA": "LOS MORALES SECC PALMAS",
-        "CP": 11540.0
+        "UBICACIÓN": "AV. MOLIERE ENTRE EJERCITO NACIONAL Y AV. HOMERO",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. EJERCITO NACIONAL ENTRE EMERESON Y HEGEL",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
         "COLONIA": "GRANADA",
-        "CP": 11550.0
-    },
-    {
+        "CP": 11550.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. EJERCITO NACIONAL ENTRE EMERESON Y HEGEL",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "GRANADA",
-        "CP": 11550.0
+        "UBICACIÓN": "AV. EJERCITO NACIONAL ENTRE EMERESON Y HEGEL",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EMILIO CASTELAR - LAFONTAINE COL. POLANCO CHAPULTEPEC",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "POLANCO CHAPULTEPEC",
-        "CP": 11560.0
+        "CP": 11560.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EMILIO CASTELAR - LAFONTAINE COL. POLANCO CHAPULTEPEC",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EMILIO CASTELAR - LAFONTAINE COL. POLANCO CHAPULTEPEC",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
-        "COLONIA": "POLANCO CHAPULTEPEC",
-        "CP": 11560.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. GENERAL MARIANO ESCOBEDO - CALLE LAGO ALBERTO.",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "ANAHUAC",
-        "CP": 11320.0
-    },
-    {
+        "CP": 11320.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. GENERAL MARIANO ESCOBEDO - CALLE LAGO ALBERTO.",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
-        "COLONIA": "ANAHUAC",
-        "CP": 11320.0
+        "UBICACIÓN": "CALZ. GENERAL MARIANO ESCOBEDO - CALLE LAGO ALBERTO.",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA EJERCITO NACIONAL MEXICANO - CALLE KEPLER.",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
         "COLONIA": "CASA BLANCA",
-        "CP": 11590.0
-    },
-    {
+        "CP": 11590.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA EJERCITO NACIONAL MEXICANO - CALLE KEPLER.",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "P-O",
-        "COLONIA": "CASA BLANCA",
-        "CP": 11590.0
+        "UBICACIÓN": "AVENIDA EJERCITO NACIONAL MEXICANO - CALLE KEPLER.",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA EJERCITO NACIONAL MEXICANO  Y AVENIDA JUAN GUTEMBERG.",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "VERONICA ANZURES",
-        "CP": 11300.0
+        "CP": 11300.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AVENIDA EJERCITO NACIONAL MEXICANO  Y AVENIDA JUAN GUTEMBERG.",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA EJERCITO NACIONAL MEXICANO  Y AVENIDA JUAN GUTENBERG.",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "VERONICA ANZURES",
-        "CP": 11300.0
+        "CP": 11300.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AVENIDA EJERCITO NACIONAL MEXICANO  Y AVENIDA JUAN GUTENBERG.",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. GENERAL MARIANO ESCOBEDO Y CALLE HOMERO",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "N-S",
         "COLONIA": "CASA BLANCA",
-        "CP": "#N/A"
-    },
-    {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. GENERAL MARIANO ESCOBEDO Y CALLE HOMERO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "N-S",
-        "COLONIA": "CASA BLANCA",
-        "CP": "#N/A"
+        "UBICACIÓN": "AV. GENERAL MARIANO ESCOBEDO Y CALLE HOMERO",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HOMERO Y CALLE JAIME BALMES O-P",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
         "COLONIA": "LOS MORALES",
-        "CP": "#N/A"
-    },
-    {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HOMERO Y CALLE JAIME BALMES O-P",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. HOMERO Y CALLE JAIME BALMES O-P",
+        "VÍA PRINCIPAL": "POLANCO"
+    },
+    {
+        "ALCALDIA": "MIGUEL HIDALGO",
+        "COLONIA": "CHAPULTEPEC MORALES",
+        "CP": "#N/A",
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. HORACIO Y CALLE HEGEL P-O",
+        "VÍA PRINCIPAL": "POLANCO"
+    },
+    {
+        "ALCALDIA": "MIGUEL HIDALGO",
+        "COLONIA": "CHAPULTEPEC MORALES",
+        "CP": "#N/A",
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. HORACIO Y CALLE SPENCER P-O",
+        "VÍA PRINCIPAL": "POLANCO"
+    },
+    {
+        "ALCALDIA": "MIGUEL HIDALGO",
+        "COLONIA": "CHAPULTEPEC MORALES",
+        "CP": "#N/A",
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. HORACIO & CALLE HERMAN SUDERMAN P-O",
+        "VÍA PRINCIPAL": "POLANCO"
+    },
+    {
+        "ALCALDIA": "MIGUEL HIDALGO",
         "COLONIA": "LOS MORALES",
-        "CP": "#N/A"
-    },
-    {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO Y CALLE HEGEL P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO Y CALLE HEGEL P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO Y CALLE SPENCER P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO Y CALLE SPENCER P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO & CALLE HERMAN SUDERMAN P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HORACIO & CALLE HERMAN SUDERMAN P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CHAPULTEPEC MORALES",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HOMERO & CALLE BENITO P\u00c9REZ GALD\u00d3S O-P",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
         "SENTIDO": "O-P",
-        "COLONIA": "LOS MORALES",
-        "CP": "#N/A"
+        "UBICACIÓN": "AV. HOMERO & CALLE BENITO PÉREZ GALDÓS O-P",
+        "VÍA PRINCIPAL": "POLANCO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. HOMERO & CALLE BENITO P\u00c9REZ GALD\u00d3S O-P",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "POLANCO",
-        "SENTIDO": "O-P",
-        "COLONIA": "LOS MORALES",
-        "CP": "#N/A"
-    },
-    {
+        "COLONIA": "REFORMA SOCIAL",
+        "CP": 11010.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "AV. PASEO DE LAS PALMAS - MONTE DE ARARAT",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PALMAS",
         "SENTIDO": "P-O",
-        "COLONIA": "REFORMA SOCIAL",
-        "CP": 11010.0
+        "UBICACIÓN": "AV. PASEO DE LAS PALMAS - MONTE DE ARARAT",
+        "VÍA PRINCIPAL": "PALMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PASEO DE LAS PALMAS - MONTE DE ARARAT",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PALMAS",
-        "SENTIDO": "P-O",
         "COLONIA": "REFORMA SOCIAL",
-        "CP": 11010.0
+        "CP": 11010.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. PASEO DE LAS PALMAS - MONTE DE ARARAT",
+        "VÍA PRINCIPAL": "PALMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PASEO DE LAS PALMAS - MONTE STANOVOI",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PALMAS",
-        "SENTIDO": "O-P",
         "COLONIA": "LOMAS DE CHAPULTEPEC",
-        "CP": 11010.0
+        "CP": 11010.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. PASEO DE LAS PALMAS - MONTE STANOVOI",
+        "VÍA PRINCIPAL": "PALMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PASEO DE LAS PALMAS - MONTE STANOVOI",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PALMAS",
-        "SENTIDO": "O-P",
-        "COLONIA": "LOMAS DE CHAPULTEPEC",
-        "CP": 11010.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PASEO DE LAS PALMAS - CERRO DE PICHAHUA",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PALMAS",
-        "SENTIDO": "O-P",
         "COLONIA": "REFORMA SOCIAL",
-        "CP": 11010.0
-    },
-    {
+        "CP": 11010.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PASEO DE LAS PALMAS - CERRO DE PICHAHUA",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PALMAS",
         "SENTIDO": "O-P",
-        "COLONIA": "REFORMA SOCIAL",
-        "CP": 11010.0
+        "UBICACIÓN": "AV. PASEO DE LAS PALMAS - CERRO DE PICHAHUA",
+        "VÍA PRINCIPAL": "PALMAS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CTO. INTERIOR JOS\u00c9 VASCONCELOS Y GOB. VICENT EGUIA",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "AV. REVOLUCI\u00d3N",
-        "SENTIDO": "N-S",
         "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11850.0
+        "CP": 11850.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CTO. INTERIOR JOSÉ VASCONCELOS Y GOB. VICENT EGUIA",
+        "VÍA PRINCIPAL": "AV. REVOLUCIÓN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CTO. INTERIOR JOS\u00c9 VASCONCELOS Y GOB. VICENT EGUIA",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "AV. REVOLUCI\u00d3N",
-        "SENTIDO": "N-S",
-        "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11850.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. REVOLUCI\u00d3N Y AV. JALISCO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "AV. REVOLUCI\u00d3N",
-        "SENTIDO": "N-S",
         "COLONIA": "TACUBAYA",
-        "CP": 11870.0
-    },
-    {
+        "CP": 11870.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. REVOLUCI\u00d3N Y AV. JALISCO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "AV. REVOLUCI\u00d3N",
         "SENTIDO": "N-S",
-        "COLONIA": "TACUBAYA",
-        "CP": 11870.0
+        "UBICACIÓN": "AV. REVOLUCIÓN Y AV. JALISCO",
+        "VÍA PRINCIPAL": "AV. REVOLUCIÓN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AVENIDA PATRIOTISMO - AVENIDA VIADUCTO PRESIDENTE MIGUEL  ALEM\u00c1N.",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "S-N",
         "COLONIA": "ESCANDON",
-        "CP": 11800.0
-    },
-    {
+        "CP": 11800.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AVENIDA PATRIOTISMO - AVENIDA VIADUCTO PRESIDENTE MIGUEL  ALEM\u00c1N.",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
         "SENTIDO": "S-N",
-        "COLONIA": "ESCANDON",
-        "CP": 11800.0
+        "UBICACIÓN": "CIRCUITO INTERIOR AVENIDA PATRIOTISMO - AVENIDA VIADUCTO PRESIDENTE MIGUEL  ALEMÁN.",
+        "VÍA PRINCIPAL": "PATRIOTISMO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AVENIDA PATRIOTISMO - PASANDO CALLE PROGRESO.",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
+        "COLONIA": "ESCANDON",
+        "CP": 11800.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "S-N",
-        "COLONIA": "ESCANDON",
-        "CP": 11800.0
+        "UBICACIÓN": "CIRCUITO INTERIOR AVENIDA PATRIOTISMO - PASANDO CALLE PROGRESO.",
+        "VÍA PRINCIPAL": "PATRIOTISMO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AVENIDA PATRIOTISMO - PASANDO CALLE PROGRESO.",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "S-N",
-        "COLONIA": "ESCANDON",
-        "CP": 11800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BENJAM\u00cdN FRANKLIN & CALLE CARLOS B. ZETINA P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "P-O",
         "COLONIA": "HIPODROMO DE LA CONDESA",
-        "CP": "#N/A"
+        "CP": "#N/A",
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. BENJAMÍN FRANKLIN & CALLE CARLOS B. ZETINA P-O",
+        "VÍA PRINCIPAL": "PATRIOTISMO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. BENJAM\u00cdN FRANKLIN & CALLE CARLOS B. ZETINA P-O",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "P-O",
-        "COLONIA": "HIPODROMO DE LA CONDESA",
-        "CP": "#N/A"
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. GOBERNADOR VICENTE EGU\u00cdA & CALLE JUSTINO FERN\u00c1NDEZ P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "P-O",
         "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": "#N/A"
-    },
-    {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. GOBERNADOR VICENTE EGU\u00cdA & CALLE JUSTINO FERN\u00c1NDEZ P-O",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
         "SENTIDO": "P-O",
-        "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": "#N/A"
+        "UBICACIÓN": "AV. GOBERNADOR VICENTE EGUÍA & CALLE JUSTINO FERNÁNDEZ P-O",
+        "VÍA PRINCIPAL": "PATRIOTISMO"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CONSTITUYENTES Y GRAL. GOMEZ PEDRAZA(GASOLINERIA)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "CONSTITUYENTES",
-        "SENTIDO": "O-P",
         "COLONIA": "1RA SECC DEL BOSQUE DE CHAPULTEPEC",
-        "CP": 11850.0
-    },
-    {
+        "CP": 11850.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CONSTITUYENTES Y GRAL. GOMEZ PEDRAZA(GASOLINERIA)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "CONSTITUYENTES",
         "SENTIDO": "O-P",
-        "COLONIA": "1RA SECC DEL BOSQUE DE CHAPULTEPEC",
-        "CP": 11850.0
+        "UBICACIÓN": "AV. CONSTITUYENTES Y GRAL. GOMEZ PEDRAZA(GASOLINERIA)",
+        "VÍA PRINCIPAL": "CONSTITUYENTES"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CONSTITUYENTES Y CALLE GENERAL ECHEGARAY  (FARO DEL SABER)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "CONSTITUYENTES",
-        "SENTIDO": "P-O",
         "COLONIA": "DANIEL GARZA",
-        "CP": 11830.0
+        "CP": 11830.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. CONSTITUYENTES Y CALLE GENERAL ECHEGARAY  (FARO DEL SABER)",
+        "VÍA PRINCIPAL": "CONSTITUYENTES"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. CONSTITUYENTES Y CALLE GENERAL ECHEGARAY  (FARO DEL SABER)",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "CONSTITUYENTES",
-        "SENTIDO": "P-O",
-        "COLONIA": "DANIEL GARZA",
-        "CP": 11830.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. MARINA NACIONAL Y CALLE LAGO ESPIRIDINO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "MARINA NACIONAL",
-        "SENTIDO": "P-O",
         "COLONIA": "TACUBA",
-        "CP": 11410.0
-    },
-    {
+        "CP": 11410.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. MARINA NACIONAL Y CALLE LAGO ESPIRIDINO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "MARINA NACIONAL",
         "SENTIDO": "P-O",
-        "COLONIA": "TACUBA",
-        "CP": 11410.0
+        "UBICACIÓN": "AV. MARINA NACIONAL Y CALLE LAGO ESPIRIDINO",
+        "VÍA PRINCIPAL": "MARINA NACIONAL"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. MARINA NACIONAL Y CALLE LAGO COMO",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "MARINA NACIONAL",
-        "SENTIDO": "O-P",
         "COLONIA": "POPOTLA",
-        "CP": 11320.0
+        "CP": 11320.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. MARINA NACIONAL Y CALLE LAGO COMO",
+        "VÍA PRINCIPAL": "MARINA NACIONAL"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. MARINA NACIONAL Y CALLE LAGO COMO",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "MARINA NACIONAL",
-        "SENTIDO": "O-P",
-        "COLONIA": "POPOTLA",
-        "CP": 11320.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA MARINA NACIONAL Y CALLE LAGO P\u00c1TZCUARO.",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "MARINA NACIONAL",
-        "SENTIDO": "O-P",
         "COLONIA": "ANAHUAC",
-        "CP": 11320.0
-    },
-    {
+        "CP": 11320.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA MARINA NACIONAL Y CALLE LAGO P\u00c1TZCUARO.",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "MARINA NACIONAL",
         "SENTIDO": "O-P",
-        "COLONIA": "ANAHUAC",
-        "CP": 11320.0
+        "UBICACIÓN": "AVENIDA MARINA NACIONAL Y CALLE LAGO PÁTZCUARO.",
+        "VÍA PRINCIPAL": "MARINA NACIONAL"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE THIERS \u2013 COP\u00c9RNICO",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
-        "SENTIDO": "P-O",
         "COLONIA": "ANZURES",
-        "CP": 11590.0
-    },
-    {
+        "CP": 11590.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE THIERS \u2013 COP\u00c9RNICO",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
         "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
+        "UBICACIÓN": "EJE 3 PONIENTE THIERS – COPÉRNICO",
+        "VÍA PRINCIPAL": "THIERS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE TRAMO THIERS Y LEIBINTZ",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
+        "COLONIA": "ANZURES",
+        "CP": 11590.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
+        "UBICACIÓN": "EJE 3 PONIENTE TRAMO THIERS Y LEIBINTZ",
+        "VÍA PRINCIPAL": "THIERS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE TRAMO THIERS Y LEIBINTZ",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
+        "COLONIA": "ANZURES",
+        "CP": 11590.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
+        "UBICACIÓN": "EJE 3 PONIENTE TRAMO THIERS Y CALLE CUVIER",
+        "VÍA PRINCIPAL": "THIERS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE TRAMO THIERS Y CALLE CUVIER",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
+        "COLONIA": "ANZURES",
+        "CP": 11590.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
+        "UBICACIÓN": "EJE 3 PONIENTE TRAMO THIERS Y CALLE COMTE",
+        "VÍA PRINCIPAL": "THIERS"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE TRAMO THIERS Y CALLE CUVIER",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
-        "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
-    },
-    {
+        "COLONIA": "UN HOGAR PARA NOSOTROS",
+        "CP": 11340.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE TRAMO THIERS Y CALLE COMTE",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
-        "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 PONIENTE TRAMO THIERS Y CALLE COMTE",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "THIERS",
-        "SENTIDO": "P-O",
-        "COLONIA": "ANZURES",
-        "CP": 11590.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DE LOS MAESTROS Y MEXICO TACUBA",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
         "SENTIDO": "N-S",
-        "COLONIA": "UN HOGAR PARA NOSOTROS",
-        "CP": 11340.0
+        "UBICACIÓN": "AV. DE LOS MAESTROS Y MEXICO TACUBA",
+        "VÍA PRINCIPAL": "MÉXICO TACUBA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DE LOS MAESTROS Y MEXICO TACUBA",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
-        "SENTIDO": "N-S",
-        "COLONIA": "UN HOGAR PARA NOSOTROS",
-        "CP": 11340.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA MEXICO TACUBA Y CALLE ARBOL DE LA NOCHE TRISTE (PARQUE)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
-        "SENTIDO": "P-O",
         "COLONIA": "POPOTLA",
-        "CP": 11400.0
-    },
-    {
+        "CP": 11400.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA MEXICO TACUBA Y CALLE ARBOL DE LA NOCHE TRISTE (PARQUE)",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
         "SENTIDO": "P-O",
-        "COLONIA": "POPOTLA",
-        "CP": 11400.0
+        "UBICACIÓN": "CALZADA MEXICO TACUBA Y CALLE ARBOL DE LA NOCHE TRISTE (PARQUE)",
+        "VÍA PRINCIPAL": "MÉXICO TACUBA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "M\u00c9XICO TACUBA - MAESTRO RURAL",
         "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
-        "SENTIDO": "O-P",
         "COLONIA": "UN HOGAR PARA NOSOTROS",
-        "CP": 11340.0
-    },
-    {
+        "CP": 11340.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "M\u00c9XICO TACUBA - MAESTRO RURAL",
-        "ALCALDIA": "MIGUEL HIDALGO",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
         "SENTIDO": "O-P",
-        "COLONIA": "UN HOGAR PARA NOSOTROS",
-        "CP": 11340.0
+        "UBICACIÓN": "MÉXICO TACUBA - MAESTRO RURAL",
+        "VÍA PRINCIPAL": "MÉXICO TACUBA"
     }
 ]

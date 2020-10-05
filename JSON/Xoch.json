@@ -1,38 +1,20 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "REUBICADA AV. GPE. I. RAMIREZ PASANDO ANTIG\u00dcO CAMINO A XOCHIMILCO",
         "ALCALDIA": "XOCHIMILCO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "SAN JUAN TEPEPAN",
-        "CP": 16030.0
-    },
-    {
+        "CP": 16030,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "REUBICADA AV. GPE. I. RAMIREZ PASANDO ANTIG\u00dcO CAMINO A XOCHIMILCO",
-        "ALCALDIA": "XOCHIMILCO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
         "SENTIDO": "N-S",
-        "COLONIA": "SAN JUAN TEPEPAN",
-        "CP": 16030.0
+        "UBICACIÓN": "REUBICADA AV. GPE. I. RAMIREZ PASANDO ANTIGÜO CAMINO A XOCHIMILCO",
+        "VÍA PRINCIPAL": "PERIFÉRICO (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. ANTIGUO CAMINO A XOCHIMILCO - AV. M\u00c9XICO",
         "ALCALDIA": "XOCHIMILCO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
-        "SENTIDO": "S-N",
         "COLONIA": "EX EJIDO DE HUIPULCO",
-        "CP": 16030.0
-    },
-    {
+        "CP": 16030,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. ANTIGUO CAMINO A XOCHIMILCO - AV. M\u00c9XICO",
-        "ALCALDIA": "XOCHIMILCO",
-        "V\u00cdA PRINCIPAL": "PERIF\u00c9RICO (SUR)",
         "SENTIDO": "S-N",
-        "COLONIA": "EX EJIDO DE HUIPULCO",
-        "CP": 16030.0
+        "UBICACIÓN": "AV. ANTIGUO CAMINO A XOCHIMILCO - AV. MÉXICO",
+        "VÍA PRINCIPAL": "PERIFÉRICO (SUR)"
     }
 ]

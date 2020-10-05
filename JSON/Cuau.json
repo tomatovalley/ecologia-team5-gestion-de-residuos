@@ -1,866 +1,470 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE VERSALLES Y ATENAS  (HOTEL FIESTA AMERICANA)",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
-        "SENTIDO": "N-S",
         "COLONIA": "JUAREZ",
-        "CP": 6600.0
+        "CP": 6600.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALLE VERSALLES Y ATENAS  (HOTEL FIESTA AMERICANA)",
+        "VÍA PRINCIPAL": "REFORMA (COLÓN-PERIFÉRICO)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE VERSALLES Y ATENAS  (HOTEL FIESTA AMERICANA)",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
-        "SENTIDO": "N-S",
-        "COLONIA": "JUAREZ",
-        "CP": 6600.0
-    },
-    {
+        "COLONIA": "CENTRO",
+        "CP": 5010.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE AYUNTAMIENTO Y DOLORES",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
         "SENTIDO": "P-O",
+        "UBICACIÓN": "CALLE AYUNTAMIENTO Y DOLORES",
+        "VÍA PRINCIPAL": "REFORMA (COLÓN-PERIFÉRICO)"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
         "COLONIA": "CENTRO",
-        "CP": 5010.0
-    },
-    {
+        "CP": 6600.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE AYUNTAMIENTO Y DOLORES",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
-        "SENTIDO": "P-O",
-        "COLONIA": "CENTRO",
-        "CP": 5010.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE EMILIO  Y ENRICO MTZ (CIUDADELA)",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
         "SENTIDO": "S-N",
-        "COLONIA": "CENTRO",
-        "CP": 6600.0
+        "UBICACIÓN": "CALLE EMILIO  Y ENRICO MTZ (CIUDADELA)",
+        "VÍA PRINCIPAL": "REFORMA (COLÓN-PERIFÉRICO)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE EMILIO  Y ENRICO MTZ (CIUDADELA)",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "REFORMA (COL\u00d3N-PERIF\u00c9RICO)",
+        "COLONIA": "OBRERA",
+        "CP": 6800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZADA DE TLALPAN Y EJE 3 SUR PEÓN CONTRERAS (PUENTE EJE 3)",
+        "VÍA PRINCIPAL": "TLALPAN"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "OBRERA",
+        "CP": 6800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "CALZ. SAN ANTONIO ABAD - ESQ. CALLE RAFAEL DELGADO",
+        "VÍA PRINCIPAL": "TLALPAN"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "OBRERA",
+        "CP": 6860.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "S-N",
-        "COLONIA": "CENTRO",
-        "CP": 6600.0
+        "UBICACIÓN": "CALZ. SAN ANTONIO ABAD - ESQ. CALZ. CHABACANO",
+        "VÍA PRINCIPAL": "TLALPAN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y EJE 3 SUR PE\u00d3N CONTRERAS (PUENTE EJE 3)",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZADA DE TLALPAN Y EJE 3 SUR PE\u00d3N CONTRERAS (PUENTE EJE 3)",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. SAN ANTONIO ABAD - ESQ. CALLE RAFAEL DELGADO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. SAN ANTONIO ABAD - ESQ. CALLE RAFAEL DELGADO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "N-S",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. SAN ANTONIO ABAD - ESQ. CALZ. CHABACANO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6860.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. SAN ANTONIO ABAD - ESQ. CALZ. CHABACANO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "TLALPAN",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6860.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "NIZA ESQ. LIVERPOOL (ENTRE AV. CHAPULTEPEC E INSURGENTES",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "JUAREZ",
-        "CP": 6600.0
+        "CP": 6600.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "NIZA ESQ. LIVERPOOL (ENTRE AV. CHAPULTEPEC E INSURGENTES",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "NIZA ESQ. LIVERPOOL (ENTRE AV. CHAPULTEPEC E INSURGENTES",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
-        "COLONIA": "JUAREZ",
-        "CP": 6600.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA INSURGENTES SUR Y CALLE TEOTIHUAC\u00c1N",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "ROMA SUR",
-        "CP": 6170.0
+        "CP": 6170.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AVENIDA INSURGENTES SUR Y CALLE TEOTIHUACÁN",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA INSURGENTES SUR Y CALLE TEOTIHUAC\u00c1N",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
-        "COLONIA": "ROMA SUR",
-        "CP": 6170.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA INSURGENTES SUR - PASANDO DURANGO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "AVENIDA INSURGENTES SUR - PASANDO DURANGO",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA INSURGENTES SUR - PASANDO DURANGO",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES NORTE Y ESQ. CALLE SALVADOR D\u00cdAZ MIR\u00d3N",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
-        "SENTIDO": "N-S",
         "COLONIA": "INHAB",
-        "CP": 6400.0
-    },
-    {
+        "CP": 6400.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES NORTE Y ESQ. CALLE SALVADOR D\u00cdAZ MIR\u00d3N",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
         "SENTIDO": "N-S",
-        "COLONIA": "INHAB",
-        "CP": 6400.0
+        "UBICACIÓN": "AV. INSURGENTES NORTE Y ESQ. CALLE SALVADOR DÍAZ MIRÓN",
+        "VÍA PRINCIPAL": "INSURGENTES (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES CENTRO Y CALLE EDISON",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
-        "SENTIDO": "S-N",
         "COLONIA": "TABACALERA",
-        "CP": 6030.0
-    },
-    {
+        "CP": 6030.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES CENTRO Y CALLE EDISON",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (NORTE)",
         "SENTIDO": "S-N",
-        "COLONIA": "TABACALERA",
-        "CP": 6030.0
+        "UBICACIÓN": "AV. INSURGENTES CENTRO Y CALLE EDISON",
+        "VÍA PRINCIPAL": "INSURGENTES (NORTE)"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES SUR - PASANDO TEHUANTEPEC",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
-        "SENTIDO": "N-S",
         "COLONIA": "HIPODROMO",
-        "CP": 6170.0
-    },
-    {
+        "CP": 6170.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSURGENTES SUR - PASANDO TEHUANTEPEC",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "INSURGENTES (SUR)",
         "SENTIDO": "N-S",
+        "UBICACIÓN": "AV. INSURGENTES SUR - PASANDO TEHUANTEPEC",
+        "VÍA PRINCIPAL": "INSURGENTES (SUR)"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "DOCTORES",
+        "CP": 6800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE CENTRAL LÁZARO CÁRDENAS Y CALLE EFRÉN REBOLLEDO",
+        "VÍA PRINCIPAL": "EJE CENTRAL"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "OBRERA",
+        "CP": 6800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE CENTRAL AV. LÁZARO CÁRDENAS - PASANDO ANTONIO SOLIS",
+        "VÍA PRINCIPAL": "EJE CENTRAL"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "OBRERA",
+        "CP": 6720.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE CENTRAL AV. LÁZARO CÁRDENAS - ESQ. CALLE FRAY JUAN DE TORQUEMADA",
+        "VÍA PRINCIPAL": "EJE CENTRAL"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "OBRERA",
+        "CP": 6800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE CENTRAL AV. LÁZARO CÁRDENAS - ESQ. CALLE MANUEL M. FLORES",
+        "VÍA PRINCIPAL": "EJE CENTRAL"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "DOCTORES",
+        "CP": 6800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE CENTRAL AV. LÁZARO CÁRDENAS - PASANDO JUAN A. MATEOS",
+        "VÍA PRINCIPAL": "EJE CENTRAL"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "HIPODROMO DE LA CONDESA",
+        "CP": 6170.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "CIRCUITO INTERIOR DIAGONAL PATRIOTISMO Y CALLE CHOAPAN",
+        "VÍA PRINCIPAL": "PATRIOTISMO"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "HIPODROMO DE LA CONDESA",
+        "CP": 6170.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. TAMAULIPAS Y BENAJAMIN HILL (HIPÓDROMO CONDESA)",
+        "VÍA PRINCIPAL": "PATRIOTISMO"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
         "COLONIA": "HIPODROMO",
-        "CP": 6170.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS Y CALLE EFR\u00c9N REBOLLEDO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "DOCTORES",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS Y CALLE EFR\u00c9N REBOLLEDO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "DOCTORES",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - PASANDO ANTONIO SOLIS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - PASANDO ANTONIO SOLIS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - ESQ. CALLE FRAY JUAN DE TORQUEMADA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - ESQ. CALLE FRAY JUAN DE TORQUEMADA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - ESQ. CALLE MANUEL M. FLORES",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - ESQ. CALLE MANUEL M. FLORES",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "OBRERA",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - PASANDO JUAN A. MATEOS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "DOCTORES",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL AV. L\u00c1ZARO C\u00c1RDENAS - PASANDO JUAN A. MATEOS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "EJE CENTRAL",
-        "SENTIDO": "S-N",
-        "COLONIA": "DOCTORES",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR DIAGONAL PATRIOTISMO Y CALLE CHOAPAN",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "O-P",
-        "COLONIA": "HIPODROMO DE LA CONDESA",
-        "CP": 6170.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR DIAGONAL PATRIOTISMO Y CALLE CHOAPAN",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "O-P",
-        "COLONIA": "HIPODROMO DE LA CONDESA",
-        "CP": 6170.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. TAMAULIPAS Y BENAJAMIN HILL (HIP\u00d3DROMO CONDESA)",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "P-O",
-        "COLONIA": "HIPODROMO DE LA CONDESA",
-        "CP": 6170.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. TAMAULIPAS Y BENAJAMIN HILL (HIP\u00d3DROMO CONDESA)",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "PATRIOTISMO",
-        "SENTIDO": "P-O",
-        "COLONIA": "HIPODROMO DE LA CONDESA",
-        "CP": 6170.0
-    },
-    {
+        "CP": 6170.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "AV. NUEVO LEON Y CAMPECHE",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
         "SENTIDO": "P-O",
-        "COLONIA": "HIPODROMO",
-        "CP": 6170.0
+        "UBICACIÓN": "AV. NUEVO LEON Y CAMPECHE",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. NUEVO LEON Y CAMPECHE",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
         "COLONIA": "HIPODROMO",
-        "CP": 6170.0
+        "CP": 6170.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. NUEVO LEON Y CAMPECHE",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. NUEVO LEON  Y VIADUCTO",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
         "COLONIA": "ESCANDON",
-        "CP": 11800.0
+        "CP": 11800.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. NUEVO LEON  Y VIADUCTO",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
     },
     {
-        "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "AV. NUEVO LEON  Y VIADUCTO",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
         "COLONIA": "ESCANDON",
-        "CP": 11800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA DOCTOR R\u00cdO DE LA LOZA - PASANDO AV. DOCTOR JOS\u00c9 MAR\u00cdA V\u00c9RTIZ",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CHAPULTEPEC",
-        "SENTIDO": "P-O",
-        "COLONIA": "DOCTORES",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA DOCTOR R\u00cdO DE LA LOZA - PASANDO AV. DOCTOR JOS\u00c9 MAR\u00cdA V\u00c9RTIZ",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CHAPULTEPEC",
-        "SENTIDO": "P-O",
-        "COLONIA": "DOCTORES",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. FRAY SERVANDO TERESA DE MIER - PASANDO AV. BOLIVAR",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "FRAY SERVANDO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CENTRO",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. FRAY SERVANDO TERESA DE MIER - PASANDO AV. BOLIVAR",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "FRAY SERVANDO",
-        "SENTIDO": "P-O",
-        "COLONIA": "CENTRO",
-        "CP": 6800.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DOCTOR R\u00cdO DE LA LOZA - ESQ. CALLE DR. VALENZUELA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CHAPULTEPEC",
-        "SENTIDO": "P-O",
-        "COLONIA": "DOCTORES",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DOCTOR R\u00cdO DE LA LOZA - ESQ. CALLE DR. VALENZUELA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CHAPULTEPEC",
-        "SENTIDO": "P-O",
-        "COLONIA": "DOCTORES",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DOCTOR R\u00cdO DE LA LOZA - PASANDO AV. CHAPULTEPEC",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CHAPULTEPEC",
-        "SENTIDO": "P-O",
-        "COLONIA": "DOCTORES",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. DOCTOR R\u00cdO DE LA LOZA - PASANDO AV. CHAPULTEPEC",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CHAPULTEPEC",
-        "SENTIDO": "P-O",
-        "COLONIA": "DOCTORES",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD - PASANDO EJE 1 OTE. AV. ANDR\u00c9S MOLINA ENR\u00cdQUEZ",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "FRAY SERVANDO",
-        "SENTIDO": "O-P",
-        "COLONIA": "ASTURIAS",
-        "CP": 6850.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. VIADUCTO R\u00cdO DE LA PIEDAD - PASANDO EJE 1 OTE. AV. ANDR\u00c9S MOLINA ENR\u00cdQUEZ",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "FRAY SERVANDO",
-        "SENTIDO": "O-P",
-        "COLONIA": "ASTURIAS",
-        "CP": 6850.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 1 PONIENTE AVENIDA CUAUHT\u00c9MOC - CALLE SAN LUIS POTOS\u00cd",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
-        "SENTIDO": "N-S",
-        "COLONIA": "DOCTORES",
-        "CP": 6700.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 1 PONIENTE AVENIDA CUAUHT\u00c9MOC - CALLE SAN LUIS POTOS\u00cd",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
-        "SENTIDO": "N-S",
-        "COLONIA": "DOCTORES",
-        "CP": 6700.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 2 SUR AV. QUER\u00c9TARO - ESQ. EJE 1 PONIENTE AV. CUAUHT\u00c9MOC - GASOLINERIA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
-        "SENTIDO": "P-O",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6700.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 2 SUR AV. QUER\u00c9TARO - ESQ. EJE 1 PONIENTE AV. CUAUHT\u00c9MOC - GASOLINERIA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. CUAUHT\u00c9MOC",
-        "SENTIDO": "P-O",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6700.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE SONORA Y PARQUE ESPA\u00d1A",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
-        "COLONIA": "CONDESA",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE SONORA Y PARQUE ESPA\u00d1A",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
-        "COLONIA": "CONDESA",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "ORIZABA PASANDO ANTONIO M. ANZA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "N-S",
-        "COLONIA": "CENTRO URBANO BENITO JUAREZ",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "ORIZABA PASANDO ANTONIO M. ANZA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "N-S",
-        "COLONIA": "CENTRO URBANO BENITO JUAREZ",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. YUCAT\u00c1N ENTRE JALAPA Y PROL. ORIZABA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6700.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. YUCAT\u00c1N ENTRE JALAPA Y PROL. ORIZABA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "P-O",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6700.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALLE ORIZABA - ESQ. CALLE ZACATECAS.",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "S-N",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
-    },
-    {
+        "CP": 11800.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "CALLE ORIZABA - ESQ. CALLE ZACATECAS.",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CONDESA-ROMA",
-        "SENTIDO": "S-N",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "RIO TIBER ESQ RIO LERMA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "MONTERREY",
-        "SENTIDO": "S-N",
-        "COLONIA": "CUAUHTEMOC",
-        "CP": 6500.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "RIO TIBER ESQ RIO LERMA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "MONTERREY",
-        "SENTIDO": "S-N",
-        "COLONIA": "CUAUHTEMOC",
-        "CP": 6500.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA PARQUE V\u00cdA Y CALLE R\u00cdO AMOY (TELMEX)",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "PARQUE VIA",
         "SENTIDO": "P-O",
-        "COLONIA": "CUAUHTEMOC",
-        "CP": 6500.0
+        "UBICACIÓN": "AV. NUEVO LEON  Y VIADUCTO",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA PARQUE V\u00cdA Y CALLE R\u00cdO AMOY (TELMEX)",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "PARQUE VIA",
+        "COLONIA": "DOCTORES",
+        "CP": 6720.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "P-O",
-        "COLONIA": "CUAUHTEMOC",
-        "CP": 6500.0
+        "UBICACIÓN": "AVENIDA DOCTOR RÍO DE LA LOZA - PASANDO AV. DOCTOR JOSÉ MARÍA VÉRTIZ",
+        "VÍA PRINCIPAL": "AV. CHAPULTEPEC"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 2 PTE. MONTERREY ENTRE QUER\u00c9TARO Y ZACATECAS",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "MONTERREY",
-        "SENTIDO": "S-N",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
-    },
-    {
+        "COLONIA": "CENTRO",
+        "CP": 6800.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 2 PTE. MONTERREY ENTRE QUER\u00c9TARO Y ZACATECAS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "MONTERREY",
-        "SENTIDO": "S-N",
-        "COLONIA": "ROMA NORTE",
-        "CP": 6760.0
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. FRAY SERVANDO TERESA DE MIER - PASANDO AV. BOLIVAR",
+        "VÍA PRINCIPAL": "FRAY SERVANDO"
     },
     {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "DOCTORES",
+        "CP": 6720.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. DOCTOR RÍO DE LA LOZA - ESQ. CALLE DR. VALENZUELA",
+        "VÍA PRINCIPAL": "AV. CHAPULTEPEC"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "DOCTORES",
+        "CP": 6720.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. DOCTOR RÍO DE LA LOZA - PASANDO AV. CHAPULTEPEC",
+        "VÍA PRINCIPAL": "AV. CHAPULTEPEC"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ASTURIAS",
+        "CP": 6850.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AV. VIADUCTO RÍO DE LA PIEDAD - PASANDO EJE 1 OTE. AV. ANDRÉS MOLINA ENRÍQUEZ",
+        "VÍA PRINCIPAL": "FRAY SERVANDO"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "DOCTORES",
+        "CP": 6700.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "EJE 1 PONIENTE AVENIDA CUAUHTÉMOC - CALLE SAN LUIS POTOSÍ",
+        "VÍA PRINCIPAL": "AV. CUAUHTÉMOC"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA NORTE",
+        "CP": 6700.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 2 SUR AV. QUERÉTARO - ESQ. EJE 1 PONIENTE AV. CUAUHTÉMOC - GASOLINERIA",
+        "VÍA PRINCIPAL": "AV. CUAUHTÉMOC"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "CONDESA",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALLE SONORA Y PARQUE ESPAÑA",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "CENTRO URBANO BENITO JUAREZ",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "N-S",
+        "UBICACIÓN": "ORIZABA PASANDO ANTONIO M. ANZA",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA NORTE",
+        "CP": 6700.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "AV. YUCATÁN ENTRE JALAPA Y PROL. ORIZABA",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA NORTE",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "CALLE ORIZABA - ESQ. CALLE ZACATECAS.",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA NORTE",
+        "CP": 6760.0,
         "ESTATUS": "HABILITADO/DIGITAL",
-        "UBICACI\u00d3N": "VIADUCTO AV. PRESIDENTE MIGUEL ALEM\u00c1N - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "MONTERREY",
-        "SENTIDO": "O-P",
-        "COLONIA": "ROMA SUR",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "VIADUCTO AV. PRESIDENTE MIGUEL ALEM\u00c1N - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "MONTERREY",
-        "SENTIDO": "O-P",
-        "COLONIA": "ROMA SUR",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA VIADUCTO PRESIDENTE MIGUEL ALEM\u00c1N - CALLE IGUALA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
-        "SENTIDO": "O-P",
-        "COLONIA": "ROMA SUR",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA VIADUCTO PRESIDENTE MIGUEL ALEM\u00c1N - CALLE IGUALA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "AV. COYOACAN",
-        "SENTIDO": "O-P",
-        "COLONIA": "ROMA SUR",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA DIAGONAL PATRIOTISMO Y CIRCUITO INTERIOR MASTRO JOS\u00c9 VASCONCELOS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "O-P",
-        "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11850.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA DIAGONAL PATRIOTISMO Y CIRCUITO INTERIOR MASTRO JOS\u00c9 VASCONCELOS",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "O-P",
-        "COLONIA": "SAN MIGUEL CHAPULTEPEC",
-        "CP": 11850.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AVENIDA MAESTRO JOS\u00c9 VASCONCELOS - CALLE AGUST\u00cdN MELGAR",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
         "SENTIDO": "S-N",
-        "COLONIA": "CONDESA",
-        "CP": "#N/A"
+        "UBICACIÓN": "CALLE ORIZABA - ESQ. CALLE ZACATECAS.",
+        "VÍA PRINCIPAL": "CONDESA-ROMA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AVENIDA MAESTRO JOS\u00c9 VASCONCELOS - CALLE AGUST\u00cdN MELGAR",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
+        "COLONIA": "CUAUHTEMOC",
+        "CP": 6500.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "S-N",
-        "COLONIA": "CONDESA",
-        "CP": "#N/A"
+        "UBICACIÓN": "RIO TIBER ESQ RIO LERMA",
+        "VÍA PRINCIPAL": "MONTERREY"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSTITUTO T\u00c9CNICO INDUSTRIAL - PASANDO CALLE SOR JUANA IN\u00c9S DE LA CRUZ",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "S-N",
-        "COLONIA": "AGRICULTURA",
-        "CP": 6400.0
-    },
-    {
+        "COLONIA": "CUAUHTEMOC",
+        "CP": 6500.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. INSTITUTO T\u00c9CNICO INDUSTRIAL - PASANDO CALLE SOR JUANA IN\u00c9S DE LA CRUZ",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "S-N",
-        "COLONIA": "AGRICULTURA",
-        "CP": 6400.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "INSTITUTO T\u00c9CNICO INDUSTRIAL - PASANDO AV. RICARDO FLORES MAG\u00d3N",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "S-N",
-        "COLONIA": "SANTA MARIA LA RIBERA",
-        "CP": 6400.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "INSTITUTO T\u00c9CNICO INDUSTRIAL - PASANDO AV. RICARDO FLORES MAG\u00d3N",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "S-N",
-        "COLONIA": "SANTA MARIA LA RIBERA",
-        "CP": 6400.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. RICARDO FLORES MAG\u00d3N - ESQ. SABINO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
         "SENTIDO": "P-O",
-        "COLONIA": "ATLAMPA",
-        "CP": 6400.0
+        "UBICACIÓN": "AVENIDA PARQUE VÍA Y CALLE RÍO AMOY (TELMEX)",
+        "VÍA PRINCIPAL": "PARQUE VIA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. RICARDO FLORES MAG\u00d3N - ESQ. SABINO",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
+        "COLONIA": "ROMA NORTE",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "EJE 2 PTE. MONTERREY ENTRE QUERÉTARO Y ZACATECAS",
+        "VÍA PRINCIPAL": "MONTERREY"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA SUR",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO/DIGITAL",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "VIADUCTO AV. PRESIDENTE MIGUEL ALEMÁN - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
+        "VÍA PRINCIPAL": "MONTERREY"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA SUR",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "VIADUCTO AV. PRESIDENTE MIGUEL ALEMÁN - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
+        "VÍA PRINCIPAL": "MONTERREY"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ROMA SUR",
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AVENIDA VIADUCTO PRESIDENTE MIGUEL ALEMÁN - CALLE IGUALA",
+        "VÍA PRINCIPAL": "AV. COYOACAN"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "SAN MIGUEL CHAPULTEPEC",
+        "CP": 11850.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AVENIDA DIAGONAL PATRIOTISMO Y CIRCUITO INTERIOR MASTRO JOSÉ VASCONCELOS",
+        "VÍA PRINCIPAL": "CIRCUITO INTERIOR"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "CONDESA",
+        "CP": "#N/A",
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "CIRCUITO INTERIOR AVENIDA MAESTRO JOSÉ VASCONCELOS - CALLE AGUSTÍN MELGAR",
+        "VÍA PRINCIPAL": "CIRCUITO INTERIOR"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "AGRICULTURA",
+        "CP": 6400.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "AV. INSTITUTO TÉCNICO INDUSTRIAL - PASANDO CALLE SOR JUANA INÉS DE LA CRUZ",
+        "VÍA PRINCIPAL": "CIRCUITO INTERIOR"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "SANTA MARIA LA RIBERA",
+        "CP": 6400.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "S-N",
+        "UBICACIÓN": "INSTITUTO TÉCNICO INDUSTRIAL - PASANDO AV. RICARDO FLORES MAGÓN",
+        "VÍA PRINCIPAL": "CIRCUITO INTERIOR"
+    },
+    {
+        "ALCALDIA": "CUAUHTEMOC",
+        "COLONIA": "ATLAMPA",
+        "CP": 6400.0,
+        "ESTATUS": "HABILITADO",
         "SENTIDO": "P-O",
-        "COLONIA": "ATLAMPA",
-        "CP": 6400.0
+        "UBICACIÓN": "AV. RICARDO FLORES MAGÓN - ESQ. SABINO",
+        "VÍA PRINCIPAL": "CIRCUITO INTERIOR"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AV. MAESTRO JOS\u00c9 VASCONCELOS - PASANDO CALLE VICENTE SU\u00c1REZ.",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
-        "SENTIDO": "S-N",
         "COLONIA": "CONDESA",
-        "CP": 6140.0
-    },
-    {
+        "CP": 6140.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CIRCUITO INTERIOR AV. MAESTRO JOS\u00c9 VASCONCELOS - PASANDO CALLE VICENTE SU\u00c1REZ.",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "CIRCUITO INTERIOR",
         "SENTIDO": "S-N",
-        "COLONIA": "CONDESA",
-        "CP": 6140.0
+        "UBICACIÓN": "CIRCUITO INTERIOR AV. MAESTRO JOSÉ VASCONCELOS - PASANDO CALLE VICENTE SUÁREZ.",
+        "VÍA PRINCIPAL": "CIRCUITO INTERIOR"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR BAJA CALIFORNIA Y CALLE SULTEPEC",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "BENJAM\u00cdN FRANKLIN",
-        "SENTIDO": "O-P",
         "COLONIA": "HIPODROMO",
-        "CP": 6170.0
+        "CP": 6170.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE 3 SUR BAJA CALIFORNIA Y CALLE SULTEPEC",
+        "VÍA PRINCIPAL": "BENJAMÍN FRANKLIN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR BAJA CALIFORNIA Y CALLE SULTEPEC",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "BENJAM\u00cdN FRANKLIN",
-        "SENTIDO": "O-P",
-        "COLONIA": "HIPODROMO",
-        "CP": 6170.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS Y EJE 3 SUR BAJA CALIFORNIA (METRO L\u00c1ZARO C\u00c1RDENAS)",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "A\u00d1IL",
-        "SENTIDO": "O-P",
         "COLONIA": "ALGARIN",
-        "CP": 6720.0
+        "CP": 6720.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE CENTRAL LÁZARO CÁRDENAS Y EJE 3 SUR BAJA CALIFORNIA (METRO LÁZARO CÁRDENAS)",
+        "VÍA PRINCIPAL": "AÑIL"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE CENTRAL L\u00c1ZARO C\u00c1RDENAS Y EJE 3 SUR BAJA CALIFORNIA (METRO L\u00c1ZARO C\u00c1RDENAS)",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "A\u00d1IL",
-        "SENTIDO": "O-P",
-        "COLONIA": "ALGARIN",
-        "CP": 6720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR AV. BAJA CALIFORNIA - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "BENJAM\u00cdN FRANKLIN",
-        "SENTIDO": "O-P",
         "COLONIA": "ROMA SUR",
-        "CP": 6760.0
+        "CP": 6760.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "EJE 3 SUR AV. BAJA CALIFORNIA - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
+        "VÍA PRINCIPAL": "BENJAMÍN FRANKLIN"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 3 SUR AV. BAJA CALIFORNIA - ESQ. EJE 2 PONIENTE AV. MONTERREY.",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "BENJAM\u00cdN FRANKLIN",
-        "SENTIDO": "O-P",
-        "COLONIA": "ROMA SUR",
-        "CP": 6760.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA RIBERA DE SAN COSME Y CALLE FRESNO",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
-        "SENTIDO": "O-P",
         "COLONIA": "SANTA MARIA LA RIBERA",
-        "CP": 6400.0
+        "CP": 6400.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "O-P",
+        "UBICACIÓN": "AVENIDA RIBERA DE SAN COSME Y CALLE FRESNO",
+        "VÍA PRINCIPAL": "MÉXICO TACUBA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AVENIDA RIBERA DE SAN COSME Y CALLE FRESNO",
         "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
-        "SENTIDO": "O-P",
-        "COLONIA": "SANTA MARIA LA RIBERA",
-        "CP": 6400.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PUENTE DE ALVARADO - ESQ. BUENAVISTA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
-        "SENTIDO": "O-P",
         "COLONIA": "BUENAVISTA",
-        "CP": 6350.0
-    },
-    {
+        "CP": 6350.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "AV. PUENTE DE ALVARADO - ESQ. BUENAVISTA",
-        "ALCALDIA": "CUAUHTEMOC",
-        "V\u00cdA PRINCIPAL": "M\u00c9XICO TACUBA",
         "SENTIDO": "O-P",
-        "COLONIA": "BUENAVISTA",
-        "CP": 6350.0
+        "UBICACIÓN": "AV. PUENTE DE ALVARADO - ESQ. BUENAVISTA",
+        "VÍA PRINCIPAL": "MÉXICO TACUBA"
     }
 ]

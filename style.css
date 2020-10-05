@@ -48,19 +48,43 @@
      width: 140px;
  }
  
- .main-header .navbar .collapse .nav-tabs .nav-item .active {
-     color: #7ed957;
- }
- 
- .main-header .container .d-flex .navbar-items a {
+ .main-header .navbar .collapse .navbar-nav .nav-item {
      list-style-type: none;
      background-color: #fff;
-     padding: 10px 10px 37px 10px;
+     border-bottom: 5px solid white;
+     border-radius: 5px 5px 0px 0px;
+     padding-bottom: 14px;
      bottom: 0;
+     margin-top: 48px;
+     width: 140px;
      font-size: 20px;
      text-align: center;
      letter-spacing: 3px;
      color: #031c3d;
+ }
+ 
+ @media(max-width: 770px) {
+     .main-header .navbar .collapse .navbar-nav .nav-item {
+         border-radius: 5px 5px 5px 5px;
+         margin-top: 1px;
+         padding-bottom: 0px;
+         border: 1px solid #031c3d;
+     }
+ }
+ 
+ .main-header .navbar .collapse .nav-tabs .nav-item .active {
+     color: #7ed957;
+ }
+ 
+ .main-header .navbar .collapse .navbar-nav .active {
+     color: #7ed957;
+ }
+ 
+ .main-header .navbar .collapse .navbar-nav a:hover,
+ .main-header .navbar .collapse .navbar-nav a:focus {
+     font-size: 20px;
+     text-align: center;
+     color: #7ed957;
  }
  
  .main-header .navbar .collapse ul li a {
@@ -186,6 +210,11 @@
      margin-left: 0;
  }
  
+ .btn {
+     background-color: #7ed957;
+     color: #031c3d;
+ }
+ 
  .margin-top {
      margin-top: 111px;
  }
@@ -208,4 +237,54 @@
  
  footer a:hover {
      color: #7ed957;
+ }
+ /*
+ Back to top button
+ */
+ 
+ #back-to-top-button {
+     display: inline-block;
+     background-color: #031c3d;
+     width: 50px;
+     height: 50px;
+     text-align: center;
+     border-radius: 4px;
+     position: fixed;
+     bottom: 30px;
+     right: 30px;
+     transition: background-color .3s, opacity .5s, visibility .5s;
+     opacity: 0;
+     visibility: hidden;
+     z-index: 1000;
+ }
+ 
+ #back-to-top-button::after {
+     content: "\f077";
+     font-family: FontAwesome;
+     font-weight: normal;
+     font-style: normal;
+     font-size: 2em;
+     line-height: 50px;
+     color: #fff;
+ }
+ 
+ #back-to-top-button:hover {
+     cursor: pointer;
+     background-color: #7ed957;
+     text-decoration: none;
+ }
+ 
+ #back-to-top-button:active {
+     background-color: #7ed957;
+ }
+ 
+ #back-to-top-button.show {
+     opacity: 1;
+     visibility: visible;
+ }
+ 
+ @media (min-width: 500px) {
+     #back-to-top-button {
+         margin: ;
+     }
  }

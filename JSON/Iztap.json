@@ -1,128 +1,65 @@
 [
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 8 SUR CALZ. ERMITA IZTAPALAPA Y CALLE CASCADA.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "EL PRADO",
-        "CP": 9450.0
+        "CP": 9450.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 8 SUR CALZ. ERMITA IZTAPALAPA Y CALLE CASCADA.",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 8 SUR CALZ. ERMITA IZTAPALAPA Y CALLE CASCADA.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
-        "COLONIA": "EL PRADO",
-        "CP": 9450.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - AV. ERMITA IZTAPALAPA.",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "BARRIO SAN LUCAS",
-        "CP": 9000.0
+        "CP": 9000.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "CALZ. ERMITA IZTAPALAPA - AV. ERMITA IZTAPALAPA.",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - AV. ERMITA IZTAPALAPA.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
-        "COLONIA": "BARRIO SAN LUCAS",
-        "CP": 9000.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - ROJO G\u00d3MEZ",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "EL MOLINO",
-        "CP": 9830.0
-    },
-    {
+        "CP": 9830.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - ROJO G\u00d3MEZ",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
         "SENTIDO": "P-O",
-        "COLONIA": "EL MOLINO",
-        "CP": 9830.0
+        "UBICACIÓN": "CALZ. ERMITA IZTAPALAPA - ROJO GÓMEZ",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - PASANDO AV. TOLTECAS.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "O-P",
         "COLONIA": "LOS CIPRESES",
-        "CP": "#N/A"
-    },
-    {
+        "CP": "#N/A",
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "CALZ. ERMITA IZTAPALAPA - PASANDO AV. TOLTECAS.",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
         "SENTIDO": "O-P",
-        "COLONIA": "LOS CIPRESES",
-        "CP": "#N/A"
+        "UBICACIÓN": "CALZ. ERMITA IZTAPALAPA - PASANDO AV. TOLTECAS.",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "IZTAPALAPA \u2013 CALLE FORD (REVOLUCI\u00d3N SOCIAL)",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
         "COLONIA": "SIERRA DEL VALLE",
-        "CP": ""
+        "CP": "",
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "IZTAPALAPA – CALLE FORD (REVOLUCIÓN SOCIAL)",
+        "VÍA PRINCIPAL": "ERMITA"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "IZTAPALAPA \u2013 CALLE FORD (REVOLUCI\u00d3N SOCIAL)",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "ERMITA",
-        "SENTIDO": "P-O",
-        "COLONIA": "SIERRA DEL VALLE",
-        "CP": ""
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. CARDIOLOGOS Y CALLE FCO. VILLA.",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
         "COLONIA": "MAGDALENA ATLAZOLPA",
-        "CP": 9720.0
+        "CP": 9720.0,
+        "ESTATUS": "HABILITADO",
+        "SENTIDO": "P-O",
+        "UBICACIÓN": "EJE 6 SUR AV. CARDIOLOGOS Y CALLE FCO. VILLA.",
+        "VÍA PRINCIPAL": "EJE 6"
     },
     {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. CARDIOLOGOS Y CALLE FCO. VILLA.",
         "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
-        "COLONIA": "MAGDALENA ATLAZOLPA",
-        "CP": 9720.0
-    },
-    {
-        "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. TRAB. SOCIALES Y CALLE AUDITORES.",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "EJE 6",
-        "SENTIDO": "P-O",
         "COLONIA": "SIFON",
-        "CP": 9400.0
-    },
-    {
+        "CP": 9400.0,
         "ESTATUS": "HABILITADO",
-        "UBICACI\u00d3N": "EJE 6 SUR AV. TRAB. SOCIALES Y CALLE AUDITORES.",
-        "ALCALDIA": "IZTAPALAPA",
-        "V\u00cdA PRINCIPAL": "EJE 6",
         "SENTIDO": "P-O",
-        "COLONIA": "SIFON",
-        "CP": 9400.0
+        "UBICACIÓN": "EJE 6 SUR AV. TRAB. SOCIALES Y CALLE AUDITORES.",
+        "VÍA PRINCIPAL": "EJE 6"
     }
 ]
