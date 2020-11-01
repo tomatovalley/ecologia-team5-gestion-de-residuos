@@ -111,30 +111,46 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="container">
+        <div id='map' style='width: 400px; height: 300px;' class="rounded"></div>
+        <script>
+            mapboxgl.accessToken = 'pk.eyJ1IjoidmFuZ2giLCJhIjoiY2tha2ZyZ255MG9xdzMycGRrZzVudXJwMiJ9.nD5how5LAgVdpLJ_ZThoSQ';
+            var map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
+                center: [-99, 19], // starting position [lng, lat]
+                zoom: 9 // starting zoom
+            });
+        </script>
+
+
+    </div>
 
 
 
 
 
-        <!--Start Footer -->
-        <footer class="mt-5 py-4 text-center ">
-            <div class="container ">
-                <p>Información recuperada del sitio
-                    <a href="https://www.sedema.cdmx.gob.mx/programas/programa/ponte-pilas-con-tu-ciudad">Ponte las pilas con tu ciudad</a>
-                </p>
 
-                <p>&copy; D. R. Nuevo Ciclo</p>
+    <!--Start Footer -->
+    <footer class="mt-5 py-4 text-center ">
+        <div class="container ">
+            <p>Información recuperada del sitio
+                <a href="https://www.sedema.cdmx.gob.mx/programas/programa/ponte-pilas-con-tu-ciudad">Ponte las pilas con tu ciudad</a>
+            </p>
 
-            </div>
+            <p>&copy; D. R. Nuevo Ciclo</p>
+
+        </div>
 
 
-        </footer>
-        <!--End Footer -->
-        <!-- Back to top button -->
-        <a id="back-to-top-button"></a>
-        <script defer src="/js/back_to_top.js"></script>
+    </footer>
+    <!--End Footer -->
+    <!-- Back to top button -->
+    <a id="back-to-top-button"></a>
+    <script defer src="/js/back_to_top.js"></script>
 
-        <script defer src="../js/pilas.js"></script>
+    <script defer src="../js/pilas.js"></script>
 
 
 </body>
